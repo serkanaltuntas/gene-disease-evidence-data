@@ -30,6 +30,37 @@
     },
     "direction": { "type": "string", "enum": ["supporting", "conflicting", "context"] },
     "statement": { "type": "string" },
+    "source_metrics": {
+      "type": "object",
+      "properties": {
+        "open_targets_overall_score": { "type": "number" },
+        "open_targets_datatype_scores": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "score"],
+            "properties": {
+              "id": { "type": "string" },
+              "score": { "type": "number" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "open_targets_datasource_scores": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "score"],
+            "properties": {
+              "id": { "type": "string" },
+              "score": { "type": "number" }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
     "created_for": { "type": "string" }
   },
   "additionalProperties": false
