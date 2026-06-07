@@ -5,9 +5,15 @@
     "disease_id": "MONDO:0004975",
     "status": "observed_unreviewed",
     "support_tier": "multi_source_observed",
-    "evidence_row_ids": ["ev:8adc541568a2e396", "ev:3cf27203c4133b20"],
+    "evidence_row_ids": [
+      "ev:8adc541568a2e396",
+      "ev:3cf27203c4133b20"
+    ],
     "source_coverage": {
-      "supporting_source_ids": ["source:opentargets", "source:clinvar"],
+      "supporting_source_ids": [
+        "source:opentargets",
+        "source:clinvar"
+      ],
       "silent_source_ids": [],
       "conflicting_source_ids": [],
       "source_independence_note": "Not evaluated in fixture release."
@@ -24,10 +30,16 @@
     "disease_id": "MONDO:0004975",
     "status": "observed_unreviewed",
     "support_tier": "single_source_observed",
-    "evidence_row_ids": ["ev:a1382904b31a0d58"],
+    "evidence_row_ids": [
+      "ev:a1382904b31a0d58"
+    ],
     "source_coverage": {
-      "supporting_source_ids": ["source:opentargets"],
-      "silent_source_ids": ["source:clinvar"],
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
       "conflicting_source_ids": [],
       "source_independence_note": "Not evaluated in fixture release."
     },

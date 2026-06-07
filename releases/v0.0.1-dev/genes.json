@@ -2,16 +2,24 @@
   {
     "id": "HGNC:613",
     "symbol": "APOE",
-    "aliases": ["AD2", "Apo-E"],
+    "aliases": [
+      "AD2",
+      "Apo-E"
+    ],
     "name": "apolipoprotein E",
-    "source_provenance": ["source:hgnc"]
+    "source_provenance": [
+      "source:hgnc"
+    ]
   },
   {
     "id": "HGNC:12454",
     "symbol": "TREM2",
-    "aliases": ["TREM-2"],
+    "aliases": [
+      "TREM-2"
+    ],
     "name": "triggering receptor expressed on myeloid cells 2",
-    "source_provenance": ["source:hgnc"]
+    "source_provenance": [
+      "source:hgnc"
+    ]
   }
 ]
-

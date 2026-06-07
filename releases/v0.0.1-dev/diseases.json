@@ -2,8 +2,11 @@
   {
     "id": "MONDO:0004975",
     "label": "Alzheimer disease",
-    "aliases": ["Alzheimer's disease"],
-    "source_provenance": ["source:mondo"]
+    "aliases": [
+      "Alzheimer's disease"
+    ],
+    "source_provenance": [
+      "source:mondo"
+    ]
   }
 ]
-

@@ -13,4 +13,3 @@ This release is not a public scientific finding. It exists to validate:
 - schema distribution
 
 Do not cite this fixture as biomedical evidence.
-
