@@ -1,0 +1,2 @@
+{"id":"review:fixture:claim-boundary:apoe","association_id":"assoc:613:0004975:3ef4bbf1808b","reviewer_role":"claim_boundary","severity":"info","finding":"Fixture association must not be rendered as a public scientific claim.","disposition":"open"}
+{"id":"review:fixture:source-coverage:trem2","association_id":"assoc:12454:0004975:1de92d893966","reviewer_role":"source_disagreement","severity":"info","finding":"Fixture association includes a silent source to test source-coverage handling.","disposition":"open"}

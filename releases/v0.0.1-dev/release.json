@@ -1,0 +1,12 @@
+{
+  "id": "v0.0.1-dev",
+  "schema_version": "0.1.0",
+  "generated_at": "2026-06-07T00:00:00Z",
+  "status": "development_fixture",
+  "research_use_only": true,
+  "notes": [
+    "Small fixture release for validating schema and release shape.",
+    "Records are placeholders for pipeline development and are not a public scientific release."
+  ]
+}
+

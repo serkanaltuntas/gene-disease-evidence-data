@@ -1,0 +1,11 @@
+{
+  "release_id": "v0.0.1-dev",
+  "status": "development_fixture",
+  "changes": [
+    {
+      "type": "initial_fixture",
+      "description": "Initial public data package shape for Gene-Disease Evidence Index."
+    }
+  ]
+}
+

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/association.schema.json",
+  "title": "Evidence-backed gene-disease association",
+  "type": "object",
+  "required": [
+    "id",
+    "gene_id",
+    "disease_id",
+    "status",
+    "support_tier",
+    "evidence_row_ids",
+    "source_coverage",
+    "review_state"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "gene_id": { "type": "string" },
+    "disease_id": { "type": "string" },
+    "status": { "type": "string" },
+    "support_tier": { "type": "string" },
+    "evidence_row_ids": { "type": "array", "items": { "type": "string" } },
+    "source_coverage": { "type": "object" },
+    "review_state": { "type": "string" },
+    "caveats": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": true
+}
+

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "source:hgnc",
+    "name": "HGNC",
+    "accessed_at": "2026-06-07",
+    "version": "development-placeholder",
+    "license_note": "Source metadata placeholder for schema fixture."
+  },
+  {
+    "id": "source:mondo",
+    "name": "MONDO Disease Ontology",
+    "accessed_at": "2026-06-07",
+    "version": "development-placeholder",
+    "license_note": "Source metadata placeholder for schema fixture."
+  },
+  {
+    "id": "source:opentargets",
+    "name": "Open Targets Platform",
+    "accessed_at": "2026-06-07",
+    "version": "development-placeholder",
+    "license_note": "Source metadata placeholder for schema fixture."
+  },
+  {
+    "id": "source:clinvar",
+    "name": "ClinVar",
+    "accessed_at": "2026-06-07",
+    "version": "development-placeholder",
+    "license_note": "Source metadata placeholder for schema fixture."
+  }
+]
+

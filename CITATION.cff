@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Development fixture only. Do not cite v0.0.1-dev as scientific evidence."
+title: "Gene-Disease Evidence Data"
+authors:
+  - family-names: "Altuntas"
+    given-names: "Serkan"
+repository-code: "https://github.com/serkanaltuntas/gene-disease-evidence-data"
+url: "https://serkan.ai/gene-disease-evidence/"
+version: "v0.0.1-dev"
+date-released: "2026-06-07"
+

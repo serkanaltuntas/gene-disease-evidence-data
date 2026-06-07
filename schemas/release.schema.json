@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/release.schema.json",
+  "title": "Gene-Disease Evidence Release",
+  "type": "object",
+  "required": ["id", "schema_version", "generated_at", "status"],
+  "properties": {
+    "id": { "type": "string" },
+    "schema_version": { "type": "string" },
+    "generated_at": { "type": "string" },
+    "status": { "type": "string" },
+    "research_use_only": { "type": "boolean" },
+    "notes": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": true
+}
+

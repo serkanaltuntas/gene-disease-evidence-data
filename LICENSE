@@ -1,0 +1,11 @@
+Copyright (c) 2026 Serkan Altuntas
+
+This repository currently contains development fixture data and schema drafts for the
+Gene-Disease Evidence Index.
+
+No license is granted for production pipeline code. This repository does not contain
+the production pipeline.
+
+Public release data licensing will be finalized before the first non-development
+release. Do not redistribute development fixture data as scientific evidence.
+
