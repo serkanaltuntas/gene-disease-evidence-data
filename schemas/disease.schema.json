@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/disease.schema.json",
+  "title": "Disease",
+  "type": "object",
+  "required": ["id", "label", "aliases", "source_provenance"],
+  "properties": {
+    "id": { "type": "string" },
+    "label": { "type": "string" },
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "source_provenance": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}
+

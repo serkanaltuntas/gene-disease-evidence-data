@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/evidence-row.schema.json",
+  "title": "Evidence Row",
+  "type": "object",
+  "required": [
+    "id",
+    "association_id",
+    "source_id",
+    "source_record_id",
+    "evidence_type",
+    "direction",
+    "statement",
+    "created_for"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "association_id": { "type": "string" },
+    "source_id": { "type": "string" },
+    "source_record_id": { "type": "string" },
+    "evidence_type": {
+      "type": "string",
+      "enum": ["target_disease_association", "clinical_variant_context"]
+    },
+    "direction": { "type": "string", "enum": ["supporting", "conflicting", "context"] },
+    "statement": { "type": "string" },
+    "created_for": { "type": "string" }
+  },
+  "additionalProperties": false
+}
+

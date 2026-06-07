@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/review-artifact.schema.json",
+  "title": "Review Artifact",
+  "type": "object",
+  "required": ["id", "association_id", "reviewer_role", "severity", "finding", "disposition"],
+  "properties": {
+    "id": { "type": "string" },
+    "association_id": { "type": "string" },
+    "reviewer_role": {
+      "type": "string",
+      "enum": [
+        "evidence_grounding",
+        "source_independence",
+        "source_disagreement",
+        "claim_boundary",
+        "release_readiness",
+        "reader_usefulness"
+      ]
+    },
+    "severity": { "type": "string", "enum": ["info", "warning", "blocker"] },
+    "finding": { "type": "string" },
+    "disposition": { "type": "string", "enum": ["open", "accepted", "rejected", "resolved"] }
+  },
+  "additionalProperties": false
+}
+

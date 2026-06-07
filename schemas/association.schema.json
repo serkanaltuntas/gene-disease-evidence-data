@@ -17,13 +17,47 @@
     "id": { "type": "string" },
     "gene_id": { "type": "string" },
     "disease_id": { "type": "string" },
-    "status": { "type": "string" },
-    "support_tier": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": [
+        "reviewed_brief",
+        "observed_unreviewed",
+        "single_source",
+        "below_threshold",
+        "source_absent"
+      ]
+    },
+    "support_tier": {
+      "type": "string",
+      "enum": [
+        "multi_source_observed",
+        "single_source_observed",
+        "below_threshold",
+        "source_absent"
+      ]
+    },
     "evidence_row_ids": { "type": "array", "items": { "type": "string" } },
-    "source_coverage": { "type": "object" },
-    "review_state": { "type": "string" },
+    "source_coverage": {
+      "type": "object",
+      "required": [
+        "supporting_source_ids",
+        "silent_source_ids",
+        "conflicting_source_ids",
+        "source_independence_note"
+      ],
+      "properties": {
+        "supporting_source_ids": { "type": "array", "items": { "type": "string" } },
+        "silent_source_ids": { "type": "array", "items": { "type": "string" } },
+        "conflicting_source_ids": { "type": "array", "items": { "type": "string" } },
+        "source_independence_note": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "review_state": {
+      "type": "string",
+      "enum": ["not_reviewed", "ai_reviewed", "human_reviewed"]
+    },
     "caveats": { "type": "array", "items": { "type": "string" } }
   },
-  "additionalProperties": true
+  "additionalProperties": false
 }
-
