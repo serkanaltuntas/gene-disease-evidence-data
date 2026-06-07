@@ -7,7 +7,8 @@
     ],
     "name": "triggering receptor expressed on myeloid cells 2",
     "source_provenance": [
-      "source:hgnc"
+      "source:hgnc",
+      "source:opentargets"
     ]
   },
   {
@@ -29,6 +30,7 @@
     ],
     "name": "apolipoprotein E",
     "source_provenance": [
+      "source:clinvar",
       "source:hgnc",
       "source:opentargets"
     ]

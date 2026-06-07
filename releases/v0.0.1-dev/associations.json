@@ -16,12 +16,14 @@
         "source:clinvar"
       ],
       "conflicting_source_ids": [],
-      "source_independence_note": "Not evaluated in fixture release."
+      "source_independence_note": "Merged from existing release coverage and candidate promotion."
     },
-    "review_state": "not_reviewed",
+    "review_state": "ai_reviewed",
     "caveats": [
       "Development fixture; not a public scientific finding.",
-      "Single-source status is included to test source-coverage rendering."
+      "Private fixture candidate build; not a public scientific finding.",
+      "Single-source status is included to test source-coverage rendering.",
+      "Source-coverage behavior is under pipeline validation."
     ]
   },
   {
@@ -71,7 +73,9 @@
     "caveats": [
       "Development fixture; not a public scientific finding.",
       "Private candidate build; not a public scientific finding.",
+      "Private fixture candidate build; not a public scientific finding.",
       "Single-source Open Targets evidence has not passed review gates.",
+      "Source-coverage behavior is under pipeline validation.",
       "Support tier is a schema placeholder, not a final evidence assessment."
     ]
   },
