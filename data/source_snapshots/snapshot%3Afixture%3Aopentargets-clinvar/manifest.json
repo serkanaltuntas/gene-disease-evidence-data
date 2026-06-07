@@ -4,7 +4,7 @@
     "source:opentargets",
     "source:clinvar"
   ],
-  "path": "data/source_snapshots/snapshot__fixture__opentargets-clinvar/records.jsonl",
+  "path": "data/source_snapshots/snapshot%3Afixture%3Aopentargets-clinvar/records.jsonl",
   "accessed_at": "2026-06-07",
   "version": "development-placeholder",
   "license_note": "Source metadata placeholder for schema fixture.",
