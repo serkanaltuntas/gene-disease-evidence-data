@@ -32,6 +32,20 @@
         "Promotion plan is a dry run and does not modify release artifacts.",
         "Automatic review artifacts do not imply human scientific approval."
       ]
+    },
+    {
+      "type": "candidate_promotion",
+      "candidate_id": "candidate:clinvar-alzheimer-dev",
+      "description": "Promoted candidate package candidate:clinvar-alzheimer-dev into release v0.0.1-dev.",
+      "added_gene_count": 0,
+      "added_association_count": 0,
+      "added_evidence_row_count": 4,
+      "added_review_artifact_count": 0,
+      "warnings": [
+        "Promotion plan is a dry run and does not modify release artifacts.",
+        "Automatic review artifacts do not imply human scientific approval.",
+        "Candidate evidence is single-source."
+      ]
     }
   ]
 }

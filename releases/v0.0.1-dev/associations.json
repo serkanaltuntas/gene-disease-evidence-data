@@ -58,7 +58,8 @@
     "evidence_row_ids": [
       "ev:1d6917275344279c",
       "ev:3cf27203c4133b20",
-      "ev:8adc541568a2e396"
+      "ev:8adc541568a2e396",
+      "ev:9271bcb4033c3ca9"
     ],
     "source_coverage": {
       "supporting_source_ids": [
@@ -71,6 +72,7 @@
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "ClinVar gene-condition context has not passed human scientific review.",
       "Development fixture; not a public scientific finding.",
       "Private candidate build; not a public scientific finding.",
       "Private fixture candidate build; not a public scientific finding.",
@@ -84,20 +86,23 @@
     "gene_id": "HGNC:620",
     "disease_id": "MONDO:0004975",
     "status": "observed_unreviewed",
-    "support_tier": "single_source_observed",
+    "support_tier": "multi_source_observed",
     "evidence_row_ids": [
-      "ev:7f9505f59a1663eb"
+      "ev:7f9505f59a1663eb",
+      "ev:8b05feb3b8565d4c"
     ],
     "source_coverage": {
       "supporting_source_ids": [
+        "source:clinvar",
         "source:opentargets"
       ],
       "silent_source_ids": [],
       "conflicting_source_ids": [],
-      "source_independence_note": "Single-source Open Targets candidate build."
+      "source_independence_note": "Merged from existing release coverage and candidate promotion."
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "ClinVar gene-condition context has not passed human scientific review.",
       "Private candidate build; not a public scientific finding.",
       "Single-source Open Targets evidence has not passed review gates."
     ]
@@ -107,20 +112,23 @@
     "gene_id": "HGNC:9508",
     "disease_id": "MONDO:0004975",
     "status": "observed_unreviewed",
-    "support_tier": "single_source_observed",
+    "support_tier": "multi_source_observed",
     "evidence_row_ids": [
+      "ev:46433c5f09c076e0",
       "ev:c1317c8feca922aa"
     ],
     "source_coverage": {
       "supporting_source_ids": [
+        "source:clinvar",
         "source:opentargets"
       ],
       "silent_source_ids": [],
       "conflicting_source_ids": [],
-      "source_independence_note": "Single-source Open Targets candidate build."
+      "source_independence_note": "Merged from existing release coverage and candidate promotion."
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "ClinVar gene-condition context has not passed human scientific review.",
       "Private candidate build; not a public scientific finding.",
       "Single-source Open Targets evidence has not passed review gates."
     ]
@@ -130,20 +138,23 @@
     "gene_id": "HGNC:9509",
     "disease_id": "MONDO:0004975",
     "status": "observed_unreviewed",
-    "support_tier": "single_source_observed",
+    "support_tier": "multi_source_observed",
     "evidence_row_ids": [
-      "ev:7c69e2f0c0e8971a"
+      "ev:7c69e2f0c0e8971a",
+      "ev:98d4cfec2c258cda"
     ],
     "source_coverage": {
       "supporting_source_ids": [
+        "source:clinvar",
         "source:opentargets"
       ],
       "silent_source_ids": [],
       "conflicting_source_ids": [],
-      "source_independence_note": "Single-source Open Targets candidate build."
+      "source_independence_note": "Merged from existing release coverage and candidate promotion."
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "ClinVar gene-condition context has not passed human scientific review.",
       "Private candidate build; not a public scientific finding.",
       "Single-source Open Targets evidence has not passed review gates."
     ]

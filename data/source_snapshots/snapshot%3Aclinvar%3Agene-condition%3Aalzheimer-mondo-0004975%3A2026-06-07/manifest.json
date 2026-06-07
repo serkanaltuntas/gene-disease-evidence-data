@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:alzheimer-mondo-0004975:2026-06-07",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aalzheimer-mondo-0004975%3A2026-06-07/records.jsonl",
+  "accessed_at": "2026-06-07",
+  "version": "gene_condition_source_id-2026-06-07",
+  "license_note": "ClinVar gene_condition_source_id filtered to selected Alzheimer's disease genes and MONDO:0004975.",
+  "record_count": 4,
+  "sha256": "94981c2720455b8f408ac6adbaa4fb115aa89ed85ada2f01b9d01a279dd7a0da"
+}
