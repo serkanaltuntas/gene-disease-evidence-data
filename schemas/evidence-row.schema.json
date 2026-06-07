@@ -6,6 +6,7 @@
   "required": [
     "id",
     "association_id",
+    "snapshot_id",
     "gene_id",
     "disease_id",
     "source_id",
@@ -18,6 +19,7 @@
   "properties": {
     "id": { "type": "string" },
     "association_id": { "type": "string" },
+    "snapshot_id": { "type": "string" },
     "gene_id": { "type": "string" },
     "disease_id": { "type": "string" },
     "source_id": { "type": "string" },
