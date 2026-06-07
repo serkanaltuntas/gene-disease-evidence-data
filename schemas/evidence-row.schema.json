@@ -6,6 +6,8 @@
   "required": [
     "id",
     "association_id",
+    "gene_id",
+    "disease_id",
     "source_id",
     "source_record_id",
     "evidence_type",
@@ -16,6 +18,8 @@
   "properties": {
     "id": { "type": "string" },
     "association_id": { "type": "string" },
+    "gene_id": { "type": "string" },
+    "disease_id": { "type": "string" },
     "source_id": { "type": "string" },
     "source_record_id": { "type": "string" },
     "evidence_type": {
@@ -28,4 +32,3 @@
   },
   "additionalProperties": false
 }
-

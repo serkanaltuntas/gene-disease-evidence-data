@@ -1,30 +1,5 @@
 [
   {
-    "id": "assoc:613:0004975:3ef4bbf1808b",
-    "gene_id": "HGNC:613",
-    "disease_id": "MONDO:0004975",
-    "status": "observed_unreviewed",
-    "support_tier": "multi_source_observed",
-    "evidence_row_ids": [
-      "ev:8adc541568a2e396",
-      "ev:3cf27203c4133b20"
-    ],
-    "source_coverage": {
-      "supporting_source_ids": [
-        "source:opentargets",
-        "source:clinvar"
-      ],
-      "silent_source_ids": [],
-      "conflicting_source_ids": [],
-      "source_independence_note": "Not evaluated in fixture release."
-    },
-    "review_state": "not_reviewed",
-    "caveats": [
-      "Development fixture; not a public scientific finding.",
-      "Support tier is a schema placeholder, not a final evidence assessment."
-    ]
-  },
-  {
     "id": "assoc:12454:0004975:1de92d893966",
     "gene_id": "HGNC:12454",
     "disease_id": "MONDO:0004975",
@@ -47,6 +22,31 @@
     "caveats": [
       "Development fixture; not a public scientific finding.",
       "Single-source status is included to test source-coverage rendering."
+    ]
+  },
+  {
+    "id": "assoc:613:0004975:3ef4bbf1808b",
+    "gene_id": "HGNC:613",
+    "disease_id": "MONDO:0004975",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:3cf27203c4133b20",
+      "ev:8adc541568a2e396"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Not evaluated in fixture release."
+    },
+    "review_state": "not_reviewed",
+    "caveats": [
+      "Development fixture; not a public scientific finding.",
+      "Support tier is a schema placeholder, not a final evidence assessment."
     ]
   }
 ]
