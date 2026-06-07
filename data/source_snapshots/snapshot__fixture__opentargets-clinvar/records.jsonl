@@ -1,0 +1,4 @@
+{"source_id":"source:opentargets","source_record_id":"OT:fixture:APOE:AD","gene_id":"HGNC:613","disease_id":"MONDO:0004975","evidence_type":"target_disease_association","direction":"supporting","statement":"Fixture row indicating that the source reports gene-disease evidence."}
+{"source_id":"source:clinvar","source_record_id":"ClinVar:fixture:APOE:AD","gene_id":"HGNC:613","disease_id":"MONDO:0004975","evidence_type":"clinical_variant_context","direction":"supporting","statement":"Fixture row indicating that the source reports clinical variant context."}
+{"source_id":"source:opentargets","source_record_id":"OT:fixture:TREM2:AD","gene_id":"HGNC:12454","disease_id":"MONDO:0004975","evidence_type":"target_disease_association","direction":"supporting","statement":"Fixture row indicating that the source reports gene-disease evidence."}
+
