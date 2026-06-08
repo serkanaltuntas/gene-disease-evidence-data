@@ -121,8 +121,8 @@
     },
     {
       "path": "schemas/release-candidate-checklist.schema.json",
-      "bytes": 4430,
-      "sha256": "00074addf96ecf84d90e1631f49b193c099ec142ad65068521be4a18a15a867d"
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
     },
     {
       "path": "schemas/release-integrity.schema.json",
@@ -163,8 +163,8 @@
   "archives": [
     {
       "path": "archives/gene-disease-evidence-v0.0.2-dev.zip",
-      "bytes": 19954,
-      "sha256": "0ee0f290053362bc832e0b0b13d2ba8b85faff7f9f9bedd8033a9502dde3ba16"
+      "bytes": 19976,
+      "sha256": "3bbc5f0b969a42e305c763462191edc3a412c4fd8353d89b66627018e0940cc0"
     }
   ]
 }

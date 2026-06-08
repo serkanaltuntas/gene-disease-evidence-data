@@ -98,7 +98,9 @@
       "type": ["object", "null"],
       "properties": {
         "public_repo": { "type": "string" },
-        "archive_path": { "type": "string" }
+        "archive_path": { "type": "string" },
+        "integrity_path": { "type": "string" },
+        "integrity_checked_count": { "type": "integer" }
       },
       "additionalProperties": false
     },
@@ -119,6 +121,8 @@
           "metadata_blocker_count": { "type": "integer" },
           "unexpected_change_count": { "type": "integer" },
           "archive_path": { "type": "string" },
+          "integrity_path": { "type": "string" },
+          "checked_count": { "type": "integer" },
           "decision_path": { "type": "string" },
           "reason": { "type": "string" }
         },
