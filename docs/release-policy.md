@@ -27,7 +27,7 @@ A paper-grade release should include:
 - evidence rows
 - review artifacts
 - changelog or release diff
+- integrity manifest with file and archive checksums
 - downloadable archive
 - citation metadata
 - DOI-backed mirror when appropriate
-

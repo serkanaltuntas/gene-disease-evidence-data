@@ -11,6 +11,7 @@ This release is not a public scientific finding. It exists to validate:
 - source manifests
 - review artifacts
 - schema distribution
+- release integrity checksums
 
 This package is distributed so the rendered serkan.ai preview can point at a fixed
 raw-data artifact. Do not cite this development package as biomedical evidence.

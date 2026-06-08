@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/release-integrity.schema.json",
+  "title": "Release Integrity Manifest",
+  "type": "object",
+  "required": [
+    "manifest_version",
+    "release_id",
+    "release_generated_at",
+    "release_status",
+    "schema_version",
+    "digest_algorithm",
+    "canonical_path_root",
+    "file_count",
+    "archive_count",
+    "files",
+    "archives"
+  ],
+  "properties": {
+    "manifest_version": { "const": "release-integrity-v1" },
+    "release_id": { "type": "string" },
+    "release_generated_at": { "type": "string" },
+    "release_status": { "type": "string" },
+    "schema_version": { "type": "string" },
+    "digest_algorithm": { "const": "sha256" },
+    "canonical_path_root": { "const": "repository-root" },
+    "file_count": { "type": "integer", "minimum": 0 },
+    "archive_count": { "type": "integer", "minimum": 0 },
+    "files": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/checksum_entry" }
+    },
+    "archives": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/checksum_entry" }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "checksum_entry": {
+      "type": "object",
+      "required": ["path", "bytes", "sha256"],
+      "properties": {
+        "path": { "type": "string" },
+        "bytes": { "type": "integer", "minimum": 0 },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+      },
+      "additionalProperties": false
+    }
+  }
+}

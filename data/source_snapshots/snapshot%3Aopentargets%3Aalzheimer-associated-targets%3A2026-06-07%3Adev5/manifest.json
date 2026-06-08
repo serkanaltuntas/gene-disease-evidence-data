@@ -6,7 +6,7 @@
   "path": "data/source_snapshots/snapshot%3Aopentargets%3Aalzheimer-associated-targets%3A2026-06-07%3Adev5/records.jsonl",
   "accessed_at": "2026-06-07",
   "version": "api-v4-graphql-dev5",
-  "license_note": "Open Targets Platform GraphQL API development snapshot; verify source license before public scientific release.",
+  "license_note": "Open Targets Platform GraphQL API development snapshot; source licensing is represented in release sources.json.",
   "record_count": 5,
   "sha256": "449a228f505c7e92c7d77b313b4245013c815d932725bb5c8d7c7c065c225ba9"
 }

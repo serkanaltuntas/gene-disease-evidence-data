@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/review-decision.schema.json",
+  "title": "Release Candidate Review Decision",
+  "type": "object",
+  "required": [
+    "review_decision_version",
+    "checklist_run_id",
+    "manifest_path",
+    "manifest_digest",
+    "manifest_digest_algorithm",
+    "manifest_digest_canonicalization",
+    "review_path",
+    "decision",
+    "reviewer_id",
+    "reviewer_display_name",
+    "reviewed_at",
+    "required_follow_up",
+    "notes",
+    "manifest_status",
+    "release_id",
+    "config_id",
+    "disease_id"
+  ],
+  "properties": {
+    "review_decision_version": { "const": "release-candidate-review-decision-v1" },
+    "checklist_run_id": { "type": "string" },
+    "manifest_path": { "type": "string" },
+    "manifest_digest": { "type": "string" },
+    "manifest_digest_algorithm": { "const": "sha256" },
+    "manifest_digest_canonicalization": {
+      "const": "canonical-json-v1:json.dumps(ensure_ascii=True,sort_keys=True,separators=(',',':'))"
+    },
+    "review_path": { "type": ["string", "null"] },
+    "decision": {
+      "type": "string",
+      "enum": ["pending", "approved", "rejected", "needs_changes"]
+    },
+    "reviewer_id": { "type": ["string", "null"] },
+    "reviewer_display_name": { "type": ["string", "null"] },
+    "reviewed_at": { "type": ["string", "null"] },
+    "required_follow_up": { "type": "array", "items": { "type": "string" } },
+    "notes": { "type": "string" },
+    "manifest_status": { "type": "string" },
+    "release_id": { "type": "string" },
+    "config_id": { "type": "string" },
+    "disease_id": { "type": "string" }
+  },
+  "additionalProperties": false
+}

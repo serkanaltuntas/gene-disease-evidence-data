@@ -35,6 +35,7 @@ releases/
     associations.json
     evidence_rows.jsonl
     review_artifacts.jsonl
+    integrity.json
 archives/
   downloadable release bundles
 ```

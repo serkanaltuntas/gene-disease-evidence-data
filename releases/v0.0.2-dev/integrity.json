@@ -1,0 +1,170 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "v0.0.2-dev",
+  "release_generated_at": "2026-06-08T00:00:00Z",
+  "release_status": "development_fixture",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 30,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 382,
+      "sha256": "17d5a88a834630696040e490121a8cc693b750da9b9a62c7925c4985e8560ba0"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 423,
+      "sha256": "79910dfe6eab72cb0200e6be537dee28f809fa5379779350c0fb53dce154f1f4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1297,
+      "sha256": "483a6023b4777f476c08997ee55a4f0decb0e7e20db197b9319f4bf33c61d057"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aalzheimer-mondo-0004975%3A2026-06-07/manifest.json",
+      "bytes": 553,
+      "sha256": "52036129e0368848b0c2af3c04d8a8d549eb6f359759e36545621d29c8b8c9e9"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aalzheimer-mondo-0004975%3A2026-06-07/records.jsonl",
+      "bytes": 1238,
+      "sha256": "94981c2720455b8f408ac6adbaa4fb115aa89ed85ada2f01b9d01a279dd7a0da"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aalzheimer-associated-targets%3A2026-06-07%3Adev5/manifest.json",
+      "bytes": 553,
+      "sha256": "e8545535aa7bd767cfddf5b5eabbf973301fac1df13cda5ac56aa4218fcddace"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aalzheimer-associated-targets%3A2026-06-07%3Adev5/records.jsonl",
+      "bytes": 4225,
+      "sha256": "449a228f505c7e92c7d77b313b4245013c815d932725bb5c8d7c7c065c225ba9"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 922,
+      "sha256": "6d924ffb25be65c25c47184af7fe3f75dc24acd1929c0db5cc203759d0ff754c"
+    },
+    {
+      "path": "releases/v0.0.2-dev/README.md",
+      "bytes": 498,
+      "sha256": "8af12fefc5c47b444a3712cee617bdc6efbe307845ba83991bc7639d58ed2e85"
+    },
+    {
+      "path": "releases/v0.0.2-dev/associations.json",
+      "bytes": 3860,
+      "sha256": "112c520554a34dfbf0222d23b296b96eb4afce8b1156ea666c7576cba773973f"
+    },
+    {
+      "path": "releases/v0.0.2-dev/changelog.json",
+      "bytes": 1410,
+      "sha256": "69ca724968c1c9ae06d873c4cdfc81070ba564d16d03300a3878e0404c0a23f6"
+    },
+    {
+      "path": "releases/v0.0.2-dev/diseases.json",
+      "bytes": 179,
+      "sha256": "ac5fed035f77d913da90f22ceb9b7e8aa881744270f53d69f577e8fb95dc5216"
+    },
+    {
+      "path": "releases/v0.0.2-dev/evidence_rows.jsonl",
+      "bytes": 8306,
+      "sha256": "33faed819df07acc430ef044226aff27596a44e3a6a7a65c697f96d7a0252fb9"
+    },
+    {
+      "path": "releases/v0.0.2-dev/genes.json",
+      "bytes": 1068,
+      "sha256": "9f0835e6849755adbcfda0ad23aeef8421c3b5e064190f277d396ba984114ab9"
+    },
+    {
+      "path": "releases/v0.0.2-dev/release.json",
+      "bytes": 343,
+      "sha256": "81fc5b80ba821f3f4eea10d1a0e22749f21b7d98b4d76840403fed511cd441bd"
+    },
+    {
+      "path": "releases/v0.0.2-dev/review_artifacts.jsonl",
+      "bytes": 5564,
+      "sha256": "27859c123d25de36b081d33d2fbe554ff453f1671b85d0a7675b8ae22e7e1a0e"
+    },
+    {
+      "path": "releases/v0.0.2-dev/source_snapshots.json",
+      "bytes": 1159,
+      "sha256": "2c7952e62ed3fd435f36df4eee74756b2f8ef2da1e3fe9cd57ed2576d74c0292"
+    },
+    {
+      "path": "releases/v0.0.2-dev/sources.json",
+      "bytes": 5485,
+      "sha256": "7eb8e08589ce3588e3aae0f4b9de0ef2f58c7985d8213e3ac8699489278cabb6"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4430,
+      "sha256": "00074addf96ecf84d90e1631f49b193c099ec142ad65068521be4a18a15a867d"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 4504,
+      "sha256": "c84e479d4a1c5ac01fc93ff6b0467c53213a1e604692161d01fdd9f618eeae42"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 756,
+      "sha256": "936d5807192dd04c586f8faa050dd94ce378b76989bbd6b02f476d2564928a21"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 1794,
+      "sha256": "05631a49765025a5c4abeb6705232742605139cf48295d2a19b3dbffdf8968ec"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-v0.0.2-dev.zip",
+      "bytes": 19954,
+      "sha256": "0ee0f290053362bc832e0b0b13d2ba8b85faff7f9f9bedd8033a9502dde3ba16"
+    }
+  ]
+}

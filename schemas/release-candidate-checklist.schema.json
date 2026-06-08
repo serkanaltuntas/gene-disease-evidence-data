@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/release-candidate-checklist.schema.json",
+  "title": "Release Candidate Checklist Manifest",
+  "type": "object",
+  "required": [
+    "manifest_version",
+    "checklist_run_id",
+    "config_id",
+    "disease_id",
+    "disease_label",
+    "release_id",
+    "release_dir",
+    "reports",
+    "diff",
+    "export",
+    "steps",
+    "status"
+  ],
+  "properties": {
+    "manifest_version": { "const": "release-candidate-checklist-v1" },
+    "checklist_run_id": { "type": "string" },
+    "config_id": { "type": "string" },
+    "disease_id": { "type": "string" },
+    "disease_label": { "type": "string" },
+    "release_id": { "type": "string" },
+    "release_dir": { "type": "string" },
+    "reports": {
+      "type": "object",
+      "required": ["latest"],
+      "properties": {
+        "latest": { "type": "string" },
+        "dry_run": { "$ref": "#/$defs/report" },
+        "applied": { "$ref": "#/$defs/report" }
+      },
+      "additionalProperties": false
+    },
+    "diff": {
+      "type": "object",
+      "required": [
+        "baseline_report_path",
+        "latest_report_path",
+        "output_path",
+        "change_count",
+        "unexpected_changed_paths"
+      ],
+      "properties": {
+        "baseline_report_path": { "type": ["string", "null"] },
+        "latest_report_path": { "type": ["string", "null"] },
+        "output_path": { "type": ["string", "null"] },
+        "change_count": { "type": ["integer", "null"] },
+        "unexpected_changed_paths": { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": false
+    },
+    "release_scope": {
+      "type": ["object", "null"],
+      "required": [
+        "path",
+        "scope_id",
+        "release_id",
+        "status",
+        "disease_count",
+        "gene_count",
+        "source_count",
+        "evidence_type_count",
+        "required_gate_count",
+        "public_release_target",
+        "manuscript_target"
+      ],
+      "properties": {
+        "path": { "type": "string" },
+        "scope_id": { "type": "string" },
+        "release_id": { "type": "string" },
+        "status": { "type": "string" },
+        "disease_count": { "type": "integer" },
+        "gene_count": { "type": "integer" },
+        "source_count": { "type": "integer" },
+        "evidence_type_count": { "type": "integer" },
+        "required_gate_count": { "type": "integer" },
+        "public_release_target": { "type": "boolean" },
+        "manuscript_target": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "source_recheck": {
+      "type": ["object", "null"],
+      "required": ["path", "status", "source_count", "metadata_blocker_count"],
+      "properties": {
+        "path": { "type": "string" },
+        "status": { "type": "string" },
+        "source_count": { "type": "integer" },
+        "metadata_blocker_count": { "type": "integer" }
+      },
+      "additionalProperties": false
+    },
+    "export": {
+      "type": ["object", "null"],
+      "properties": {
+        "public_repo": { "type": "string" },
+        "archive_path": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "steps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "status"],
+        "properties": {
+          "name": { "type": "string" },
+          "status": { "type": "string" },
+          "run_id": { "type": "string" },
+          "applied": { "type": "boolean" },
+          "scope_id": { "type": "string" },
+          "disease_count": { "type": "integer" },
+          "gene_count": { "type": "integer" },
+          "source_count": { "type": "integer" },
+          "metadata_blocker_count": { "type": "integer" },
+          "unexpected_change_count": { "type": "integer" },
+          "archive_path": { "type": "string" },
+          "decision_path": { "type": "string" },
+          "reason": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "status": { "type": "string", "enum": ["running", "ok", "failed"] }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "report": {
+      "type": "object",
+      "required": ["run_id", "path"],
+      "properties": {
+        "run_id": { "type": "string" },
+        "path": { "type": "string" }
+      },
+      "additionalProperties": false
+    }
+  }
+}
