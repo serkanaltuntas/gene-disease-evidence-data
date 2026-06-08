@@ -1,0 +1,56 @@
+[
+  {
+    "id": "HGNC:4584",
+    "symbol": "GRIN1",
+    "aliases": [],
+    "name": "glutamate ionotropic receptor NMDA type subunit 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:613",
+    "symbol": "APOE",
+    "aliases": [],
+    "name": "apolipoprotein E",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:620",
+    "symbol": "APP",
+    "aliases": [],
+    "name": "amyloid beta precursor protein",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9508",
+    "symbol": "PSEN1",
+    "aliases": [],
+    "name": "presenilin 1",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9509",
+    "symbol": "PSEN2",
+    "aliases": [],
+    "name": "presenilin 2",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  }
+]
