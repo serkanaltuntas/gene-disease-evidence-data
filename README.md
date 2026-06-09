@@ -7,9 +7,10 @@ downloadable release artifacts, schemas, changelogs, and citation metadata.
 
 ## Current Status
 
-`v0.0.2-dev` is a development dry-candidate export for validating the release
-package shape with the first Alzheimer disease source-ingest output. It is not a
-paper-grade public scientific release and should not be cited as evidence.
+`v0.1.0` is the first Alzheimer disease public-candidate research-use export. It
+is intended to validate the public data package, integrity manifest, and rendered
+resource sync before a paper-grade snapshot. It should not be cited as a
+manuscript-grade biomedical dataset.
 
 ## Public Resource
 
@@ -26,8 +27,7 @@ schemas/
   association.schema.json
   release.schema.json
 releases/
-  v0.0.1-dev/
-  v0.0.2-dev/
+  v0.1.0/
     release.json
     genes.json
     diseases.json
@@ -47,5 +47,6 @@ guidance, treatment guidance, patient data, or clinical decision support.
 
 ## Citation
 
-Use the release-specific citation metadata once a paper-grade release is available.
-The development fixture should not be cited as scientific evidence.
+Use release-specific citation metadata and fixed archive checksums. The current
+`v0.1.0` export is public-candidate research-use data, not manuscript-grade
+evidence.

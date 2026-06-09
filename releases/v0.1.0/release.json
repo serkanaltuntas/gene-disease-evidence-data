@@ -1,0 +1,12 @@
+{
+  "id": "v0.1.0",
+  "schema_version": "0.1.0",
+  "generated_at": "2026-06-09T00:00:00Z",
+  "status": "draft",
+  "research_use_only": true,
+  "notes": [
+    "First public-candidate draft derived from the internally approved v0.0.2 development scope.",
+    "Research-use only: not medical advice, diagnosis, treatment guidance, patient risk prediction, clinical decision support, clinical certainty, or a manuscript-grade dataset.",
+    "Source-use gate approved by Serkan with watch items for ClinVar, Open Targets, MONDO, and public rendering boundaries."
+  ]
+}
