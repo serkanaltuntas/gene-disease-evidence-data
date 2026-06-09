@@ -24,7 +24,23 @@
     "version": { "type": "string" },
     "license_note": { "type": "string" },
     "record_count": { "type": "integer" },
-    "sha256": { "type": "string" }
+    "sha256": { "type": "string" },
+    "freshness": {
+      "type": "object",
+      "required": ["assessed_at", "status", "basis", "paper_grade_blocker"],
+      "properties": {
+        "assessed_at": { "type": "string" },
+        "status": {
+          "type": "string",
+          "enum": ["current", "refresh_recommended", "refresh_required", "unknown"]
+        },
+        "basis": { "type": "string" },
+        "max_age_days": { "type": "integer", "minimum": 0 },
+        "next_review_due": { "type": "string" },
+        "paper_grade_blocker": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    }
   },
   "additionalProperties": false
 }

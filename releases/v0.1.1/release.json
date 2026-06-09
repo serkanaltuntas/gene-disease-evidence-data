@@ -1,0 +1,12 @@
+{
+  "id": "v0.1.1",
+  "schema_version": "0.1.0",
+  "generated_at": "2026-06-09T14:45:00Z",
+  "status": "draft",
+  "research_use_only": true,
+  "notes": [
+    "Public-candidate metadata refresh derived from v0.1.0.",
+    "Research-use only: not medical advice, diagnosis, treatment guidance, patient risk prediction, clinical decision support, clinical certainty, or a manuscript-grade dataset.",
+    "Adds source and snapshot freshness metadata generated from source policy records for rendered-page sync and export-gate validation."
+  ]
+}

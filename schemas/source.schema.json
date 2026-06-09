@@ -58,6 +58,22 @@
       }
     },
     "approved_for_public_release": { "type": "boolean" },
+    "freshness": {
+      "type": "object",
+      "required": ["assessed_at", "status", "basis", "paper_grade_blocker"],
+      "properties": {
+        "assessed_at": { "type": "string" },
+        "status": {
+          "type": "string",
+          "enum": ["current", "refresh_recommended", "refresh_required", "unknown"]
+        },
+        "basis": { "type": "string" },
+        "max_age_days": { "type": "integer", "minimum": 0 },
+        "next_review_due": { "type": "string" },
+        "paper_grade_blocker": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
     "notes": { "type": "array", "items": { "type": "string" } }
   },
   "additionalProperties": false

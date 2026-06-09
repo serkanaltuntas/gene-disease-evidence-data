@@ -1,0 +1,146 @@
+[
+  {
+    "id": "assoc:4584:0004975:26acef6b6ffa",
+    "gene_id": "HGNC:4584",
+    "disease_id": "MONDO:0004975",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:9577f533a68c7438"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with release-level silent source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Private candidate build; not a public scientific finding.",
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:613:0004975:3ef4bbf1808b",
+    "gene_id": "HGNC:613",
+    "disease_id": "MONDO:0004975",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:1d6917275344279c",
+      "ev:9271bcb4033c3ca9"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar rows are variant/condition context and not diagnostic or medical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Private candidate build; not a public scientific finding.",
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
+    ]
+  },
+  {
+    "id": "assoc:620:0004975:bd548c9c3032",
+    "gene_id": "HGNC:620",
+    "disease_id": "MONDO:0004975",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:7f9505f59a1663eb",
+      "ev:8b05feb3b8565d4c"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar rows are variant/condition context and not diagnostic or medical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Private candidate build; not a public scientific finding.",
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
+    ]
+  },
+  {
+    "id": "assoc:9508:0004975:d95d9e293abc",
+    "gene_id": "HGNC:9508",
+    "disease_id": "MONDO:0004975",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:46433c5f09c076e0",
+      "ev:c1317c8feca922aa"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar rows are variant/condition context and not diagnostic or medical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Private candidate build; not a public scientific finding.",
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
+    ]
+  },
+  {
+    "id": "assoc:9509:0004975:db2eba4d4790",
+    "gene_id": "HGNC:9509",
+    "disease_id": "MONDO:0004975",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:7c69e2f0c0e8971a",
+      "ev:98d4cfec2c258cda"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar rows are variant/condition context and not diagnostic or medical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Private candidate build; not a public scientific finding.",
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
+    ]
+  }
+]

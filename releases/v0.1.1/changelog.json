@@ -1,0 +1,23 @@
+{
+  "release_id": "v0.1.1",
+  "status": "draft",
+  "changes": [
+    {
+      "type": "public_candidate_derivation",
+      "description": "Derived the first v0.1.0 public-candidate draft from the internally approved v0.0.2 development release artifacts.",
+      "source_release_id": "v0.0.2-dev",
+      "scope_id": "scope:alzheimer:v0.1.0-public-candidate",
+      "publication_source_gate": "alzheimer-dev-rc-003-publication-source-gate"
+    },
+    {
+      "type": "source_use_gate_acceptance",
+      "description": "Recorded Serkan acceptance of HGNC, MONDO, Open Targets Platform, and ClinVar source-use pre-checks with watch items.",
+      "accepted_at": "2026-06-08T22:44:27Z"
+    },
+    {
+      "type": "freshness_metadata_refresh",
+      "description": "Generated source and source-snapshot freshness metadata for the public-candidate release renderer and export gate.",
+      "source_release_id": "v0.1.0"
+    }
+  ]
+}
