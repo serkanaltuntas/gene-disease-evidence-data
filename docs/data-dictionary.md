@@ -110,6 +110,32 @@ combined into a clinical confidence score.
 LLM or agent-assisted review artifacts are advisory. They do not replace human
 scientific review or clinical validation.
 
+## Glossary
+
+These terms mirror the reader glossary on the rendered methods page
+(`/gene-disease-evidence/methods/`) and are kept in sync with it.
+
+- **Public-candidate** — A release suitable for public reader testing and
+  traceability checks, but not yet paper-grade or externally peer reviewed.
+- **Observed unreviewed** — A source-attributed signal exists in the included release
+  data, but no reviewed brief or human scientific acceptance has been attached.
+- **Automatic checks only** — The record passed deterministic or controlled referee
+  checks. This is not the same as human scientific review.
+- **Support tier** — A release-specific grouping of evidence strength. It is not a
+  diagnosis, a clinical recommendation, or a universal truth score.
+- **Source-reported score** — A score imported from an upstream source, such as Open
+  Targets. It is rendered as provenance-bound source context, not as a combined
+  confidence score for this resource.
+- **Source silence** — An included source does not support an association in the
+  current release. Silence is source- and release-specific; it is not evidence that no
+  relationship exists.
+- **Source disagreement** — Included sources conflict or provide materially different
+  signals. The project should expose disagreement instead of blending it away.
+- **Freshness status** — A release metadata field that says whether source or snapshot
+  metadata is current, refresh-recommended, refresh-required, or unknown.
+- **Paper-grade blocker** — A condition that may be acceptable for a public-candidate
+  preview but must be resolved before a manuscript-grade or paper-grade release.
+
 ## Research-Use Boundary
 
 The data package is for research use only. It is not medical advice, diagnosis,
