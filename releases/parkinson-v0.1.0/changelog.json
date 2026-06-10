@@ -1,0 +1,43 @@
+{
+  "release_id": "parkinson-v0.1.0",
+  "status": "draft",
+  "changes": [
+    {
+      "type": "initial_release_shell",
+      "description": "Initial empty release shell for Gene-Disease Evidence Index."
+    },
+    {
+      "type": "candidate_promotion",
+      "candidate_id": "candidate:opentargets-parkinson-dev",
+      "description": "Promoted candidate package candidate:opentargets-parkinson-dev into release parkinson-v0.1.0.",
+      "added_gene_count": 6,
+      "added_association_count": 6,
+      "added_evidence_row_count": 6,
+      "added_review_artifact_count": 24,
+      "warnings": [
+        "Promotion plan is a dry run and does not modify release artifacts.",
+        "Automatic review artifacts do not imply human scientific approval.",
+        "Candidate evidence is single-source."
+      ]
+    },
+    {
+      "type": "candidate_promotion",
+      "candidate_id": "candidate:clinvar-parkinson-dev",
+      "description": "Promoted candidate package candidate:clinvar-parkinson-dev into release parkinson-v0.1.0.",
+      "added_gene_count": 0,
+      "added_association_count": 0,
+      "added_evidence_row_count": 6,
+      "added_review_artifact_count": 0,
+      "warnings": [
+        "Promotion plan is a dry run and does not modify release artifacts.",
+        "Automatic review artifacts do not imply human scientific approval.",
+        "Candidate evidence is single-source."
+      ]
+    },
+    {
+      "type": "second_disease_public_candidate",
+      "description": "First Parkinson disease (MONDO:0005180) public-candidate export: 6 seed genes (SNCA, LRRK2, PRKN, PINK1, PARK7, GBA1) with Open Targets association signals and ClinVar gene-condition context in the clean single-MONDO source_record_id format. Built by applying the reviewed Parkinson Open Targets and ClinVar candidates to a Parkinson-scoped release shell.",
+      "disease_id": "MONDO:0005180"
+    }
+  ]
+}

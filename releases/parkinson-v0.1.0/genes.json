@@ -1,0 +1,94 @@
+[
+  {
+    "id": "HGNC:11138",
+    "symbol": "SNCA",
+    "aliases": [
+      "NACP",
+      "PARK1",
+      "PARK4",
+      "PD1"
+    ],
+    "name": "synuclein alpha",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14581",
+    "symbol": "PINK1",
+    "aliases": [
+      "BRPK",
+      "PARK6"
+    ],
+    "name": "PTEN induced kinase 1",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16369",
+    "symbol": "PARK7",
+    "aliases": [
+      "DJ-1",
+      "DJ1",
+      "GATD2"
+    ],
+    "name": "Parkinsonism associated deglycase",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18618",
+    "symbol": "LRRK2",
+    "aliases": [
+      "DKFZp434H2111",
+      "FLJ45829",
+      "PARK8",
+      "RIPK7",
+      "ROCO2"
+    ],
+    "name": "leucine rich repeat kinase 2",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4177",
+    "symbol": "GBA1",
+    "aliases": [
+      "GBA",
+      "GLUC"
+    ],
+    "name": "glucosylceramidase beta 1",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8607",
+    "symbol": "PRKN",
+    "aliases": [
+      "AR-JP",
+      "PARK2",
+      "PDJ",
+      "parkin"
+    ],
+    "name": "parkin RBR E3 ubiquitin protein ligase",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  }
+]

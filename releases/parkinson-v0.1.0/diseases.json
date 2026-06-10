@@ -1,0 +1,12 @@
+[
+  {
+    "id": "MONDO:0005180",
+    "label": "Parkinson disease",
+    "aliases": [
+      "Parkinson's disease"
+    ],
+    "source_provenance": [
+      "source:mondo"
+    ]
+  }
+]

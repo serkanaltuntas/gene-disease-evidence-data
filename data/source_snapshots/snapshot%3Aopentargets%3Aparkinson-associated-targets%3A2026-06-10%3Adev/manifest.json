@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:opentargets:parkinson-associated-targets:2026-06-10:dev",
+  "source_ids": [
+    "source:opentargets"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aopentargets%3Aparkinson-associated-targets%3A2026-06-10%3Adev/records.jsonl",
+  "accessed_at": "2026-06-10",
+  "version": "api-v4-graphql-dev",
+  "license_note": "Open Targets Platform GraphQL API development snapshot; source licensing is represented in release sources.json.",
+  "record_count": 6,
+  "sha256": "85319159e4bd693031bca7332d72a34286b34e7bc07ca6a714f1ce9ce04b37cc"
+}

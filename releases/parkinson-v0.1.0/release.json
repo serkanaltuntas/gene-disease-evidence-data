@@ -1,0 +1,13 @@
+{
+  "id": "parkinson-v0.1.0",
+  "schema_version": "0.1.0",
+  "generated_at": "2026-06-10T00:00:00Z",
+  "status": "draft",
+  "research_use_only": true,
+  "notes": [
+    "Public-candidate research-use draft: the second-disease (Parkinson) export of the Gene-Disease Evidence Index, built with the clean single-MONDO ClinVar source_record_id format.",
+    "Research-use only: not medical advice, diagnosis, treatment guidance, patient risk prediction, clinical decision support, clinical certainty, or a manuscript-grade dataset.",
+    "Scope: Parkinson disease (MONDO:0005180); 6 seed genes (SNCA, LRRK2, PRKN, PINK1, PARK7, GBA1); Open Targets association signals and ClinVar gene-condition context.",
+    "Per ADR 0004 the two-disease pilot is a de-risk gate, not the manuscript dataset; this is an unlisted public-candidate preview alongside the Alzheimer line."
+  ]
+}

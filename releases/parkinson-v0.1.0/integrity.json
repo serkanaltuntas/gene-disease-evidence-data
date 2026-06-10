@@ -1,6 +1,6 @@
 {
   "manifest_version": "release-integrity-v1",
-  "release_id": "v0.2.0",
+  "release_id": "parkinson-v0.1.0",
   "release_generated_at": "2026-06-10T00:00:00Z",
   "release_status": "draft",
   "schema_version": "0.1.0",
@@ -25,24 +25,24 @@
       "sha256": "7cfef3a940493b7fec05156a2496606d16ba5baf657804f8065ac3c945dbe392"
     },
     {
-      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aalzheimer-mondo-0004975%3A2026-06-07-srid2/manifest.json",
-      "bytes": 712,
-      "sha256": "de5a4ff583c3b25b3e621583554bde49baa1a77da9e0328ec0b715a46c6f7cb4"
-    },
-    {
-      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aalzheimer-mondo-0004975%3A2026-06-07-srid2/records.jsonl",
-      "bytes": 1214,
-      "sha256": "09c62e862dd1c98e9ab8c8b6fa4c9af5ab490292185b544e4e5180bbc05730cf"
-    },
-    {
-      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aalzheimer-associated-targets%3A2026-06-07%3Adev5/manifest.json",
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aparkinson-mondo-0005180%3A2026-06-10/manifest.json",
       "bytes": 553,
-      "sha256": "e8545535aa7bd767cfddf5b5eabbf973301fac1df13cda5ac56aa4218fcddace"
+      "sha256": "4127a95b3761ec174312fd586e75979dcea811b52a373cbad40ce7bb7f05db42"
     },
     {
-      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aalzheimer-associated-targets%3A2026-06-07%3Adev5/records.jsonl",
-      "bytes": 4225,
-      "sha256": "449a228f505c7e92c7d77b313b4245013c815d932725bb5c8d7c7c065c225ba9"
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aparkinson-mondo-0005180%3A2026-06-10/records.jsonl",
+      "bytes": 1838,
+      "sha256": "ffc7767ef2a6bf2fa11f5a97dac61d4651e833389765796f05ef2fb81587ebd8"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aparkinson-associated-targets%3A2026-06-10%3Adev/manifest.json",
+      "bytes": 550,
+      "sha256": "19249327af4f8745e64fad9f3966e5ad0e34f4310f13d4fbe467d781a93a98a2"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aparkinson-associated-targets%3A2026-06-10%3Adev/records.jsonl",
+      "bytes": 4927,
+      "sha256": "85319159e4bd693031bca7332d72a34286b34e7bc07ca6a714f1ce9ce04b37cc"
     },
     {
       "path": "docs/data-dictionary.md",
@@ -55,54 +55,54 @@
       "sha256": "6d924ffb25be65c25c47184af7fe3f75dc24acd1929c0db5cc203759d0ff754c"
     },
     {
-      "path": "releases/v0.2.0/README.md",
-      "bytes": 2343,
-      "sha256": "cec3c47a4f06def5f7c6328f604ef8b80cf8a903a0262f9fb6b037943855e0fb"
+      "path": "releases/parkinson-v0.1.0/README.md",
+      "bytes": 1802,
+      "sha256": "56ee6a062bb6a3380356051bf2d78052fdbb4d92ce81fad0a05d3e5853366700"
     },
     {
-      "path": "releases/v0.2.0/associations.json",
-      "bytes": 5545,
-      "sha256": "92ef076ebcbfb8126c14455119253d6b0ce2c12905f3adc57ab731df84c4f4cf"
+      "path": "releases/parkinson-v0.1.0/associations.json",
+      "bytes": 5723,
+      "sha256": "5039454f0ad87010da137ce18e2ed2169aadb4a2d916c32a665e294d171f4753"
     },
     {
-      "path": "releases/v0.2.0/changelog.json",
-      "bytes": 1825,
-      "sha256": "c5140e8f40a978fa45a999a49b477b3a7deca270fc1d182d4e8fa64e074015b8"
+      "path": "releases/parkinson-v0.1.0/changelog.json",
+      "bytes": 1890,
+      "sha256": "22afbfcb989a0be0c83ed39532b17f75c15d6f39ebfc318060fae65451302aef"
     },
     {
-      "path": "releases/v0.2.0/diseases.json",
+      "path": "releases/parkinson-v0.1.0/diseases.json",
       "bytes": 179,
-      "sha256": "ac5fed035f77d913da90f22ceb9b7e8aa881744270f53d69f577e8fb95dc5216"
+      "sha256": "6571df6498913b507932974548f0d8087df33393c32c7b1dd1ecbb9b85adeed3"
     },
     {
-      "path": "releases/v0.2.0/evidence_rows.jsonl",
-      "bytes": 8306,
-      "sha256": "844efd2a215b69c606d733aa84a9f5b210967def2965d13a378b905c2086bb1b"
+      "path": "releases/parkinson-v0.1.0/evidence_rows.jsonl",
+      "bytes": 10455,
+      "sha256": "8bf14dea156439931b74eb7b5085a2e8e88faac26c8605dda561e06c4f29c200"
     },
     {
-      "path": "releases/v0.2.0/genes.json",
-      "bytes": 1068,
-      "sha256": "9f0835e6849755adbcfda0ad23aeef8421c3b5e064190f277d396ba984114ab9"
+      "path": "releases/parkinson-v0.1.0/genes.json",
+      "bytes": 1658,
+      "sha256": "5475da1d0a8597f0833768c24a4b3961e091f69e706448bdab9748543df65c77"
     },
     {
-      "path": "releases/v0.2.0/release.json",
-      "bytes": 1057,
-      "sha256": "ccd438775178013042d5f50ca0fa0764c508b08401b9008fa466633a0a19fcf4"
+      "path": "releases/parkinson-v0.1.0/release.json",
+      "bytes": 870,
+      "sha256": "b633579706aa15e05d1f9bb8ea23e43e1ed6d29dee995848b8dac235782fc341"
     },
     {
-      "path": "releases/v0.2.0/review_artifacts.jsonl",
-      "bytes": 5660,
-      "sha256": "70fd44f60e2c8346e444ab7598c44b3a9aa81aa40dfc2ec5bf26b9d79613ab35"
+      "path": "releases/parkinson-v0.1.0/review_artifacts.jsonl",
+      "bytes": 6824,
+      "sha256": "1f8c2492fd7bff98afb000193645454e18b6aa4e90613a9745f5622193614b12"
     },
     {
-      "path": "releases/v0.2.0/source_snapshots.json",
-      "bytes": 2150,
-      "sha256": "0d0647b05cba4edcdae8d6a2daf7e34aabf053e0c8f486ef2e342aa7e9d78cc3"
+      "path": "releases/parkinson-v0.1.0/source_snapshots.json",
+      "bytes": 1988,
+      "sha256": "3ee318b61b9562e36aba9bfa6b1f9661665570390915732db2069f5659906acd"
     },
     {
-      "path": "releases/v0.2.0/sources.json",
-      "bytes": 6879,
-      "sha256": "dcffc5097a19b1a81964c12ab7544a780bb92853167f81b10d65a845afbe73c7"
+      "path": "releases/parkinson-v0.1.0/sources.json",
+      "bytes": 6851,
+      "sha256": "b63c4e3e1366228e46030b934a8f16ff69e170dad8c7ae6c85c11d0d68f20a09"
     },
     {
       "path": "schemas/association.schema.json",
@@ -167,9 +167,9 @@
   ],
   "archives": [
     {
-      "path": "archives/gene-disease-evidence-v0.2.0.zip",
-      "bytes": 26912,
-      "sha256": "bf82641e1d00db34b1802a1123ffc7d0f6018d65494bd3e6e3fb9df465a474ca"
+      "path": "archives/gene-disease-evidence-parkinson-v0.1.0.zip",
+      "bytes": 27022,
+      "sha256": "bc3339c12b4e7a246feca71bd461f2095f01ab881754f4b63fc3531f1c2be64f"
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:parkinson-mondo-0005180:2026-06-10",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aparkinson-mondo-0005180%3A2026-06-10/records.jsonl",
+  "accessed_at": "2026-06-10",
+  "version": "gene_condition_source_id-2026-06-10",
+  "license_note": "ClinVar gene_condition_source_id filtered to selected Parkinson's disease genes and MONDO:0005180.",
+  "record_count": 6,
+  "sha256": "ffc7767ef2a6bf2fa11f5a97dac61d4651e833389765796f05ef2fb81587ebd8"
+}

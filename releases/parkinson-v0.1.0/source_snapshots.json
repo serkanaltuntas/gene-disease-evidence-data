@@ -1,0 +1,42 @@
+[
+  {
+    "id": "snapshot:clinvar:gene-condition:parkinson-mondo-0005180:2026-06-10",
+    "source_ids": [
+      "source:clinvar"
+    ],
+    "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aparkinson-mondo-0005180%3A2026-06-10/records.jsonl",
+    "accessed_at": "2026-06-10",
+    "version": "gene_condition_source_id-2026-06-10",
+    "license_note": "ClinVar gene_condition_source_id filtered to selected Parkinson's disease genes and MONDO:0005180.",
+    "record_count": 6,
+    "sha256": "ffc7767ef2a6bf2fa11f5a97dac61d4651e833389765796f05ef2fb81587ebd8",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed ClinVar gene-condition snapshot is acceptable for public-candidate rendering, but paper-grade use should prefer an archived monthly ClinVar release or otherwise documented dated upstream material.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "snapshot:opentargets:parkinson-associated-targets:2026-06-10:dev",
+    "source_ids": [
+      "source:opentargets"
+    ],
+    "path": "data/source_snapshots/snapshot%3Aopentargets%3Aparkinson-associated-targets%3A2026-06-10%3Adev/records.jsonl",
+    "accessed_at": "2026-06-10",
+    "version": "api-v4-graphql-dev",
+    "license_note": "Open Targets Platform GraphQL API development snapshot; source licensing is represented in release sources.json.",
+    "record_count": 6,
+    "sha256": "85319159e4bd693031bca7332d72a34286b34e7bc07ca6a714f1ce9ce04b37cc",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed Open Targets development snapshot is acceptable for public-candidate rendering, but paper-grade use should refresh from a dated upstream export or documented current source pull.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  }
+]
