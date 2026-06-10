@@ -6,5 +6,5 @@ authors:
     given-names: "Serkan"
 repository-code: "https://github.com/serkanaltuntas/gene-disease-evidence-data"
 url: "https://serkan.ai/gene-disease-evidence/"
-version: "v0.1.0"
-date-released: "2026-06-09"
+version: "v0.2.0"
+date-released: "2026-06-10"

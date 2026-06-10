@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:alzheimer-mondo-0004975:2026-06-07-srid2",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aalzheimer-mondo-0004975%3A2026-06-07-srid2/records.jsonl",
+  "accessed_at": "2026-06-07",
+  "version": "gene_condition_source_id-2026-06-07-srid2",
+  "license_note": "ClinVar gene_condition_source_id filtered to selected Alzheimer's disease genes and MONDO:0004975; source_record_id re-normalized to a single MONDO namespace (2026-06-10). Same underlying 2026-06-07 fetch as the doubled-namespace snapshot.",
+  "record_count": 4,
+  "sha256": "09c62e862dd1c98e9ab8c8b6fa4c9af5ab490292185b544e4e5180bbc05730cf"
+}

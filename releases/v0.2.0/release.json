@@ -1,0 +1,13 @@
+{
+  "id": "v0.2.0",
+  "schema_version": "0.1.0",
+  "generated_at": "2026-06-10T00:00:00Z",
+  "status": "draft",
+  "research_use_only": true,
+  "notes": [
+    "Public-candidate release carrying the de-doubled ClinVar source_record_id (single MONDO namespace: ClinVarGeneCondition:...:MONDO:<id>, previously ...:MONDO:MONDO:<id>).",
+    "Research-use only: not medical advice, diagnosis, treatment guidance, patient risk prediction, clinical decision support, clinical certainty, or a manuscript-grade dataset.",
+    "Built from v0.1.1 with the ClinVar gene-condition records re-normalized into a new immutable snapshot (snapshot ...:2026-06-07-srid2, the same 2026-06-07 ClinVar fetch in corrected format). Relative to v0.1.1, ClinVar evidence-row ids are rotated; genes, diseases, Open Targets evidence, scores, and association membership are unchanged.",
+    "v0.1.0 and v0.1.1 — including their published public-data-repo tags and the original ...:2026-06-07 ClinVar snapshot — retain the prior doubled-namespace format and are left unchanged."
+  ]
+}
