@@ -1,11 +1,72 @@
+Gene-Disease Evidence Data — License & Attribution
+
 Copyright (c) 2026 Serkan Altuntas
 
-This repository currently contains development fixture data and schema drafts for the
-Gene-Disease Evidence Index.
+================================================================================
+Data license
+================================================================================
 
-No license is granted for production pipeline code. This repository does not contain
-the production pipeline.
+The released gene-disease evidence data in this repository — the contents of
+`releases/` and the referenced source-snapshot payloads under
+`data/source_snapshots/` — is made available under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0), to the extent that the
+curation, normalization, and compilation are protectable. Underlying source
+records remain subject to their upstream terms listed under "Sources" below.
 
-Public release data licensing will be finalized before the first non-development
-release. Do not redistribute development fixture data as scientific evidence.
+  Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+  Summary:         https://creativecommons.org/licenses/by/4.0/
 
+You are free to share and adapt the data for any purpose, including
+commercially, provided you give appropriate credit, indicate if changes were
+made, and do not imply endorsement by the author or by any upstream source.
+
+================================================================================
+Attribution
+================================================================================
+
+When redistributing or building on this data, cite the dataset and preserve the
+upstream source attribution. Suggested dataset citation:
+
+  Serkan Altuntas. "Gene-Disease Evidence Data" (release <version>).
+  https://serkan.ai/gene-disease-evidence/ — licensed under CC BY 4.0.
+
+See CITATION.cff for machine-readable citation metadata.
+
+================================================================================
+Sources (upstream terms preserved)
+================================================================================
+
+This dataset is derived from third-party sources, each under its own terms:
+
+  - HGNC (HUGO Gene Nomenclature Committee) — Creative Commons Zero (CC0 1.0).
+  - MONDO Disease Ontology — Creative Commons Attribution 4.0 (CC BY 4.0).
+    Used for disease identity/context. CC BY 4.0 attribution to MONDO is
+    required; this is the binding constraint on the combined dataset's license.
+  - Open Targets Platform — Creative Commons Zero (CC0 1.0).
+  - ClinVar / NCBI — U.S. National Library of Medicine public data; reuse is
+    subject to NCBI policies (attribution requested, no endorsement implied).
+
+Source names denote provenance only and do not imply endorsement by those
+sources. Open Targets scores are source-attributed signals, not truth or
+clinical validity. ClinVar rows are variant/condition context only.
+
+================================================================================
+Research-use scope & disclaimers
+================================================================================
+
+This is a research-use, source-attributed gene-disease *hypothesis* index. It is
+NOT medical advice, diagnosis, treatment guidance, patient risk prediction,
+clinical decision support, a claim of clinical certainty, or a manuscript-grade
+biomedical dataset. Verify against primary sources before any downstream use.
+
+Releases with a `-dev` suffix are development artifacts and must not be cited as
+scientific evidence. Public-candidate releases (v0.1.x, v0.2.0) are review-gated
+drafts published for transparency.
+
+================================================================================
+Code
+================================================================================
+
+This repository contains data, schemas, documentation, and citation metadata
+only. It does not contain the production pipeline; no license is granted to any
+pipeline implementation not present here.
