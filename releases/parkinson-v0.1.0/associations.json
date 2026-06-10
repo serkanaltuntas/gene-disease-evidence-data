@@ -20,8 +20,10 @@
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
       "ClinVar gene-condition context has not passed human scientific review.",
       "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
       "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
     ]
   },
@@ -46,8 +48,10 @@
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
       "ClinVar gene-condition context has not passed human scientific review.",
       "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
       "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
     ]
   },
@@ -72,8 +76,10 @@
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
       "ClinVar gene-condition context has not passed human scientific review.",
       "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
       "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
     ]
   },
@@ -98,8 +104,10 @@
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
       "ClinVar gene-condition context has not passed human scientific review.",
       "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
       "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
     ]
   },
@@ -124,8 +132,10 @@
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
       "ClinVar gene-condition context has not passed human scientific review.",
       "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
       "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
     ]
   },
@@ -150,8 +160,10 @@
     },
     "review_state": "ai_reviewed",
     "caveats": [
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
       "ClinVar gene-condition context has not passed human scientific review.",
       "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
       "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding."
     ]
   }

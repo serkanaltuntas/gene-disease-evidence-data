@@ -61,8 +61,8 @@
     },
     {
       "path": "releases/parkinson-v0.1.0/associations.json",
-      "bytes": 5723,
-      "sha256": "5039454f0ad87010da137ce18e2ed2169aadb4a2d916c32a665e294d171f4753"
+      "bytes": 6935,
+      "sha256": "66fbe278fde09016b62b48078af849bb1b91b8027def3f6a108e070f17679b24"
     },
     {
       "path": "releases/parkinson-v0.1.0/changelog.json",
@@ -168,8 +168,8 @@
   "archives": [
     {
       "path": "archives/gene-disease-evidence-parkinson-v0.1.0.zip",
-      "bytes": 27022,
-      "sha256": "bc3339c12b4e7a246feca71bd461f2095f01ab881754f4b63fc3531f1c2be64f"
+      "bytes": 27125,
+      "sha256": "ffffa30cdf35447ae975c12b57d2339d5e79833cbbe8e3bc182998173a0524aa"
     }
   ]
 }
