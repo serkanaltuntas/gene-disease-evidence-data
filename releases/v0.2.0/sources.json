@@ -30,7 +30,7 @@
     ],
     "freshness": {
       "assessed_at": "2026-06-09",
-      "basis": "Acceptable for v0.2.0 public-candidate rendering; re-check HGNC citation and license pages before paper-grade use.",
+      "basis": "Acceptable for public-candidate rendering; re-check HGNC citation and license pages before paper-grade use.",
       "max_age_days": 30,
       "next_review_due": "2026-07-09",
       "paper_grade_blocker": false,
@@ -66,7 +66,7 @@
     ],
     "freshness": {
       "assessed_at": "2026-06-09",
-      "basis": "Acceptable as disease identifier context for v0.2.0 public-candidate rendering; re-check MONDO license and citation metadata before paper-grade use.",
+      "basis": "Acceptable as disease identifier context for public-candidate rendering; re-check MONDO license and citation metadata before paper-grade use.",
       "max_age_days": 30,
       "next_review_due": "2026-07-09",
       "paper_grade_blocker": false,
@@ -103,7 +103,7 @@
     ],
     "freshness": {
       "assessed_at": "2026-06-09",
-      "basis": "Acceptable for v0.2.0 public-candidate rendering; re-check Open Targets license, terms, and citation pages before paper-grade use.",
+      "basis": "Acceptable for public-candidate rendering; re-check Open Targets license, terms, and citation pages before paper-grade use.",
       "max_age_days": 30,
       "next_review_due": "2026-07-09",
       "paper_grade_blocker": false,
@@ -142,7 +142,7 @@
     ],
     "freshness": {
       "assessed_at": "2026-06-09",
-      "basis": "Acceptable for v0.2.0 public-candidate rendering; re-check NCBI/ClinVar attribution and reuse guidance before paper-grade use.",
+      "basis": "Acceptable for public-candidate rendering; re-check NCBI/ClinVar attribution and reuse guidance before paper-grade use.",
       "max_age_days": 30,
       "next_review_due": "2026-07-09",
       "paper_grade_blocker": false,
