@@ -1,0 +1,42 @@
+[
+  {
+    "id": "snapshot:clinvar:gene-condition:breast-carcinoma:2026-06-11",
+    "source_ids": [
+      "source:clinvar"
+    ],
+    "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Abreast-carcinoma%3A2026-06-11/records.jsonl",
+    "accessed_at": "2026-06-11",
+    "version": "gene_condition_source_id-2026-06-11",
+    "license_note": "ClinVar gene_condition_source_id filtered to Breast carcinoma scope genes and MONDO:0004989.",
+    "record_count": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed ClinVar gene-condition snapshot is acceptable for public-candidate rendering, but paper-grade use should prefer an archived monthly ClinVar release or otherwise documented dated upstream material.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "snapshot:opentargets:breast-carcinoma-associated-targets:2026-06-11:dev60",
+    "source_ids": [
+      "source:opentargets"
+    ],
+    "path": "data/source_snapshots/snapshot%3Aopentargets%3Abreast-carcinoma-associated-targets%3A2026-06-11%3Adev60/records.jsonl",
+    "accessed_at": "2026-06-11",
+    "version": "api-v4-graphql-2026-06-11-dev60",
+    "license_note": "Open Targets Platform GraphQL API development snapshot (Breast carcinoma top-60).",
+    "record_count": 60,
+    "sha256": "5ebedd753315444c8fbfb057d42f9e29fbbdfc8bdc0a743152271a9f26da9577",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed Open Targets development snapshot is acceptable for public-candidate rendering, but paper-grade use should refresh from a dated upstream export or documented current source pull.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  }
+]

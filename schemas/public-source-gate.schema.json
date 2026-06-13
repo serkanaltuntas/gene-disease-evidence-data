@@ -1,0 +1,203 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/public-source-gate.schema.json",
+  "title": "Public Export Source Gate",
+  "type": "object",
+  "required": [
+    "approval_required_to_continue",
+    "assisted_url_precheck",
+    "config_id",
+    "created_at",
+    "decision",
+    "disease_label",
+    "gate_id",
+    "gate_version",
+    "human_acceptance",
+    "public_export_gate_path",
+    "public_export_source_recheck_approved",
+    "release_candidate_id",
+    "release_id",
+    "required_global_tasks",
+    "research_use_only",
+    "source_count",
+    "source_recheck_path",
+    "source_recheck_task_path",
+    "sources",
+    "status",
+    "watch_items"
+  ],
+  "properties": {
+    "approval_required_to_continue": {
+      "type": "object",
+      "required": ["allowed_decisions", "decision", "decision_file", "reviewer_policy"],
+      "properties": {
+        "allowed_decisions": { "type": "array", "items": { "type": "string" } },
+        "decision": {
+          "type": "string",
+          "enum": ["pending", "approved", "needs_changes", "rejected"]
+        },
+        "decision_file": { "type": "string" },
+        "reviewer_policy": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "assisted_url_precheck": {
+      "type": "object",
+      "required": ["all_http_status_200", "checked_at", "method", "note", "operator", "urls"],
+      "properties": {
+        "all_http_status_200": { "type": "boolean" },
+        "checked_at": { "type": "string" },
+        "method": { "type": "string" },
+        "note": { "type": "string" },
+        "operator": { "type": "string" },
+        "urls": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["http_status", "kind", "url"],
+            "properties": {
+              "http_status": { "type": "integer" },
+              "kind": { "type": "string", "enum": ["license_url", "terms_url", "citation_url"] },
+              "url": { "type": "string" }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "config_id": { "type": "string" },
+    "created_at": { "type": "string" },
+    "decision": {
+      "type": "string",
+      "enum": ["pending", "approved", "needs_changes", "rejected"]
+    },
+    "disease_label": { "type": "string" },
+    "gate_id": { "type": "string" },
+    "gate_version": { "const": "public-export-source-gate-v1" },
+    "human_acceptance": { "type": "boolean" },
+    "public_export_gate_path": { "type": "string" },
+    "public_export_source_recheck_approved": { "type": "boolean" },
+    "release_candidate_id": { "type": "string" },
+    "release_id": { "type": "string" },
+    "required_global_tasks": { "type": "array", "items": { "type": "string" } },
+    "research_use_only": { "type": "boolean" },
+    "source_count": { "type": "integer" },
+    "source_recheck_path": { "type": "string" },
+    "source_recheck_task_path": { "type": "string" },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "accepted",
+          "citation",
+          "citation_url",
+          "decision",
+          "freshness",
+          "license",
+          "license_url",
+          "name",
+          "public_export_approval",
+          "required_checks",
+          "role",
+          "snapshot_count",
+          "snapshot_notes",
+          "source_id",
+          "terms_url",
+          "version",
+          "watch_items"
+        ],
+        "properties": {
+          "accepted": { "type": "boolean" },
+          "citation": { "type": "string" },
+          "citation_url": { "type": "string" },
+          "decision": {
+            "type": "string",
+            "enum": ["pending", "approved", "needs_changes", "rejected"]
+          },
+          "freshness": {
+            "type": "object",
+            "required": [
+              "assessed_at",
+              "basis",
+              "paper_grade_approved",
+              "paper_grade_blocker",
+              "status"
+            ],
+            "properties": {
+              "assessed_at": { "type": "string" },
+              "basis": { "type": "string" },
+              "max_age_days": { "type": "integer" },
+              "next_review_due": { "type": "string" },
+              "paper_grade_approved": { "type": "boolean" },
+              "paper_grade_blocker": { "type": "boolean" },
+              "status": {
+                "type": "string",
+                "enum": ["current", "refresh_recommended", "refresh_required", "unknown"]
+              }
+            },
+            "additionalProperties": false
+          },
+          "license": { "type": "string" },
+          "license_url": { "type": "string" },
+          "name": { "type": "string" },
+          "public_export_approval": { "type": "boolean" },
+          "required_checks": { "type": "array", "items": { "type": "string" } },
+          "role": { "type": "string" },
+          "snapshot_count": { "type": "integer" },
+          "snapshot_notes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["accessed_at", "freshness", "license_note", "snapshot_id", "version"],
+              "properties": {
+                "accessed_at": { "type": "string" },
+                "freshness": {
+                  "type": "object",
+                  "required": [
+                    "assessed_at",
+                    "basis",
+                    "paper_grade_approved",
+                    "paper_grade_blocker",
+                    "status"
+                  ],
+                  "properties": {
+                    "assessed_at": { "type": "string" },
+                    "basis": { "type": "string" },
+                    "max_age_days": { "type": "integer" },
+                    "next_review_due": { "type": "string" },
+                    "paper_grade_approved": { "type": "boolean" },
+                    "paper_grade_blocker": { "type": "boolean" },
+                    "status": {
+                      "type": "string",
+                      "enum": [
+                        "current",
+                        "refresh_recommended",
+                        "refresh_required",
+                        "unknown"
+                      ]
+                    }
+                  },
+                  "additionalProperties": false
+                },
+                "license_note": { "type": "string" },
+                "snapshot_id": { "type": "string" },
+                "version": { "type": "string" }
+              },
+              "additionalProperties": false
+            }
+          },
+          "source_id": { "type": "string" },
+          "terms_url": { "type": "string" },
+          "version": { "type": "string" },
+          "watch_items": { "type": "array", "items": { "type": "string" } }
+        },
+        "additionalProperties": false
+      }
+    },
+    "status": { "type": "string", "enum": ["planned_not_approved", "approved", "needs_changes"] },
+    "watch_items": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/public-export-gate-decision.schema.json",
+  "title": "Public Export Gate Decision",
+  "type": "object",
+  "required": [
+    "decision",
+    "export_gate_decision_version",
+    "gate_digest",
+    "gate_digest_algorithm",
+    "gate_digest_canonicalization",
+    "gate_id",
+    "gate_path",
+    "gate_status",
+    "notes",
+    "public_export_approved",
+    "release_id",
+    "required_follow_up",
+    "review_path",
+    "reviewed_at",
+    "reviewer_display_name",
+    "reviewer_id"
+  ],
+  "properties": {
+    "decision": {
+      "type": "string",
+      "enum": ["pending", "approved", "needs_changes", "rejected"]
+    },
+    "export_gate_decision_version": { "const": "public-export-gate-decision-v1" },
+    "gate_digest": { "type": "string" },
+    "gate_digest_algorithm": { "const": "sha256" },
+    "gate_digest_canonicalization": {
+      "const": "canonical-json-v1:json.dumps(ensure_ascii=True,sort_keys=True,separators=(',',':'))"
+    },
+    "gate_id": { "type": "string" },
+    "gate_path": { "type": "string" },
+    "gate_status": { "type": "string" },
+    "notes": { "type": "string" },
+    "public_export_approved": { "type": "boolean" },
+    "release_id": { "type": "string" },
+    "required_follow_up": { "type": "array", "items": { "type": "string" } },
+    "review_path": { "type": "string" },
+    "reviewed_at": { "type": ["string", "null"] },
+    "reviewer_display_name": { "type": ["string", "null"] },
+    "reviewer_id": { "type": ["string", "null"] }
+  },
+  "additionalProperties": false
+}

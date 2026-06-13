@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:type2-diabetes:2026-06-11",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Atype2-diabetes%3A2026-06-11/records.jsonl",
+  "accessed_at": "2026-06-11",
+  "version": "gene_condition_source_id-2026-06-11",
+  "license_note": "ClinVar gene_condition_source_id filtered to Type 2 diabetes mellitus scope genes and MONDO:0005148.",
+  "record_count": 0,
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

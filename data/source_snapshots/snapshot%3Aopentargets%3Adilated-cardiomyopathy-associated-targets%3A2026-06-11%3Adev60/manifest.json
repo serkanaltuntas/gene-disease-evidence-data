@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:opentargets:dilated-cardiomyopathy-associated-targets:2026-06-11:dev60",
+  "source_ids": [
+    "source:opentargets"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aopentargets%3Adilated-cardiomyopathy-associated-targets%3A2026-06-11%3Adev60/records.jsonl",
+  "accessed_at": "2026-06-11",
+  "version": "api-v4-graphql-2026-06-11-dev60",
+  "license_note": "Open Targets Platform GraphQL API development snapshot (Dilated cardiomyopathy top-60).",
+  "record_count": 60,
+  "sha256": "2d9f357c9ac803e02a4b7bc3ae01a5011ea2e278033f531bf799d240ef41ca40"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "type2-diabetes-v0.0.1-dev",
+  "schema_version": "0.1.0",
+  "generated_at": "2026-06-11T00:00:00Z",
+  "status": "development_fixture",
+  "research_use_only": true,
+  "notes": [
+    "Development release shell for validating schema and source-ingest promotion.",
+    "Records are development artifacts and are not a public scientific release."
+  ]
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "HGNC:10351",
+    "symbol": "RPL3L",
+    "aliases": [],
+    "name": "ribosomal protein L3 like",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10593",
+    "symbol": "SCN5A",
+    "aliases": [],
+    "name": "sodium voltage-gated channel alpha subunit 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10680",
+    "symbol": "SDHA",
+    "aliases": [],
+    "name": "succinate dehydrogenase complex flavoprotein subunit A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10805",
+    "symbol": "SGCA",
+    "aliases": [],
+    "name": "sarcoglycan alpha",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10806",
+    "symbol": "SGCB",
+    "aliases": [],
+    "name": "sarcoglycan beta",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10807",
+    "symbol": "SGCD",
+    "aliases": [],
+    "name": "sarcoglycan delta",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10809",
+    "symbol": "SGCG",
+    "aliases": [],
+    "name": "sarcoglycan gamma",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11577",
+    "symbol": "TAFAZZIN",
+    "aliases": [],
+    "name": "tafazzin, phospholipid-lysophospholipid transacylase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11598",
+    "symbol": "TBX20",
+    "aliases": [],
+    "name": "T-box transcription factor 20",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11610",
+    "symbol": "TCAP",
+    "aliases": [],
+    "name": "titin-cap",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11943",
+    "symbol": "TNNC1",
+    "aliases": [],
+    "name": "troponin C1, slow skeletal and cardiac type",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11947",
+    "symbol": "TNNI3",
+    "aliases": [],
+    "name": "troponin I3, cardiac type",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11949",
+    "symbol": "TNNT2",
+    "aliases": [],
+    "name": "troponin T2, cardiac type",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12403",
+    "symbol": "TTN",
+    "aliases": [],
+    "name": "titin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12665",
+    "symbol": "VCL",
+    "aliases": [],
+    "name": "vinculin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14000",
+    "symbol": "PRDM16",
+    "aliases": [],
+    "name": "PR/SET domain 16",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14202",
+    "symbol": "JPH2",
+    "aliases": [],
+    "name": "junctophilin 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:164",
+    "symbol": "ACTN2",
+    "aliases": [],
+    "name": "actinin alpha 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17084",
+    "symbol": "SYNE2",
+    "aliases": [],
+    "name": "spectrin repeat containing nuclear envelope protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17089",
+    "symbol": "SYNE1",
+    "aliases": [],
+    "name": "spectrin repeat containing nuclear envelope protein 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20039",
+    "symbol": "CAP2",
+    "aliases": [],
+    "name": "cyclase associated actin cytoskeleton regulatory protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:23246",
+    "symbol": "MYPN",
+    "aliases": [],
+    "name": "myopalladin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:23406",
+    "symbol": "DOLK",
+    "aliases": [],
+    "name": "dolichol kinase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2389",
+    "symbol": "CRYAB",
+    "aliases": [],
+    "name": "crystallin alpha B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2472",
+    "symbol": "CSRP3",
+    "aliases": [],
+    "name": "cysteine and glycine rich protein 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:25686",
+    "symbol": "PPCS",
+    "aliases": [],
+    "name": "phosphopantothenoylcysteine synthetase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:27424",
+    "symbol": "RBM20",
+    "aliases": [],
+    "name": "RNA binding motif protein 20",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2770",
+    "symbol": "DES",
+    "aliases": [],
+    "name": "desmin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:28472",
+    "symbol": "TMEM43",
+    "aliases": [],
+    "name": "transmembrane protein 43",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2928",
+    "symbol": "DMD",
+    "aliases": [],
+    "name": "dystrophin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29557",
+    "symbol": "NEXN",
+    "aliases": [],
+    "name": "nexilin F-actin binding protein",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3049",
+    "symbol": "DSG2",
+    "aliases": [],
+    "name": "desmoglein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3052",
+    "symbol": "DSP",
+    "aliases": [],
+    "name": "desmoplakin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3331",
+    "symbol": "EMD",
+    "aliases": [],
+    "name": "emerin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3522",
+    "symbol": "EYA4",
+    "aliases": [],
+    "name": "EYA transcriptional coactivator and phosphatase 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3622",
+    "symbol": "FKTN",
+    "aliases": [],
+    "name": "fukutin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3702",
+    "symbol": "FHL1",
+    "aliases": [],
+    "name": "four and a half LIM domains 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3756",
+    "symbol": "FLNC",
+    "aliases": [],
+    "name": "filamin C",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:43444",
+    "symbol": "MYZAP",
+    "aliases": [],
+    "name": "myocardial zonula adherens protein",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:60",
+    "symbol": "ABCC9",
+    "aliases": [],
+    "name": "ATP binding cassette subfamily C member 9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6636",
+    "symbol": "LMNA",
+    "aliases": [],
+    "name": "lamin A/C",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6648",
+    "symbol": "LMOD2",
+    "aliases": [],
+    "name": "leiomodin 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7414",
+    "symbol": "MT-ATP6",
+    "aliases": [],
+    "name": "mitochondrially encoded ATP synthase membrane subunit 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7419",
+    "symbol": "MT-CO1",
+    "aliases": [],
+    "name": "mitochondrially encoded cytochrome c oxidase I",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7422",
+    "symbol": "MT-CO3",
+    "aliases": [],
+    "name": "mitochondrially encoded cytochrome c oxidase III",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7427",
+    "symbol": "MT-CYB",
+    "aliases": [],
+    "name": "mitochondrially encoded cytochrome b",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7455",
+    "symbol": "MT-ND1",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7456",
+    "symbol": "MT-ND2",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7459",
+    "symbol": "MT-ND4",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7460",
+    "symbol": "MT-ND4L",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7461",
+    "symbol": "MT-ND5",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7462",
+    "symbol": "MT-ND6",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7551",
+    "symbol": "MYBPC3",
+    "aliases": [],
+    "name": "myosin binding protein C3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7576",
+    "symbol": "MYH6",
+    "aliases": [],
+    "name": "myosin heavy chain 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7577",
+    "symbol": "MYH7",
+    "aliases": [],
+    "name": "myosin heavy chain 7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8905",
+    "symbol": "PGM1",
+    "aliases": [],
+    "name": "phosphoglucomutase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9080",
+    "symbol": "PLN",
+    "aliases": [],
+    "name": "phospholamban",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:939",
+    "symbol": "BAG3",
+    "aliases": [],
+    "name": "BAG cochaperone 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9508",
+    "symbol": "PSEN1",
+    "aliases": [],
+    "name": "presenilin 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9829",
+    "symbol": "RAF1",
+    "aliases": [],
+    "name": "Raf-1 proto-oncogene, serine/threonine kinase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  }
+]

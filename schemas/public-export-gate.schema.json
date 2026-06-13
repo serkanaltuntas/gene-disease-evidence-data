@@ -1,0 +1,171 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://serkan.ai/gene-disease-evidence/schemas/public-export-gate.schema.json",
+  "title": "Public Export Gate",
+  "type": "object",
+  "required": [
+    "approval_boundary",
+    "approval_required_to_continue",
+    "config_id",
+    "created_at",
+    "disease_id",
+    "disease_label",
+    "explicit_non_goals",
+    "gate_id",
+    "gate_version",
+    "private_inputs",
+    "public_export_approved",
+    "public_outputs",
+    "publication_approved",
+    "release_id",
+    "release_surface_summary",
+    "render_sync_requirements",
+    "required_export_checks",
+    "required_pre_export_checks",
+    "research_use_only",
+    "source_recheck_public_export_boundary",
+    "status"
+  ],
+  "properties": {
+    "approval_boundary": {
+      "type": "object",
+      "required": [
+        "approved_manifest_commit",
+        "approved_manifest_decision",
+        "approved_manifest_decision_path",
+        "approved_manifest_path",
+        "meaning",
+        "required_reviewer_id"
+      ],
+      "properties": {
+        "approved_manifest_commit": { "type": "string" },
+        "approved_manifest_decision": { "type": "string" },
+        "approved_manifest_decision_path": { "type": "string" },
+        "approved_manifest_path": { "type": "string" },
+        "meaning": { "type": "string" },
+        "required_reviewer_id": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "approval_required_to_continue": {
+      "type": "object",
+      "required": ["allowed_decisions", "decision", "decision_file", "reviewer_policy"],
+      "properties": {
+        "allowed_decisions": { "type": "array", "items": { "type": "string" } },
+        "decision": {
+          "type": "string",
+          "enum": ["pending", "approved", "needs_changes", "rejected"]
+        },
+        "decision_file": { "type": "string" },
+        "reviewer_policy": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "config_id": { "type": "string" },
+    "created_at": { "type": "string" },
+    "disease_id": { "type": "string" },
+    "disease_label": { "type": "string" },
+    "explicit_non_goals": { "type": "array", "items": { "type": "string" } },
+    "gate_id": { "type": "string" },
+    "gate_version": { "const": "public-export-gate-v1" },
+    "private_inputs": { "type": "object" },
+    "public_export_approved": { "type": "boolean" },
+    "public_outputs": { "type": "object" },
+    "publication_approved": { "type": "boolean" },
+    "release_id": { "type": "string" },
+    "release_surface_summary": {
+      "type": "object",
+      "required": [
+        "association_count",
+        "development_release",
+        "disease_count",
+        "evidence_row_count",
+        "gene_count",
+        "manuscript_target",
+        "public_release_target",
+        "source_count",
+        "source_snapshot_count"
+      ],
+      "properties": {
+        "association_count": { "type": "integer" },
+        "development_release": { "type": "boolean" },
+        "disease_count": { "type": "integer" },
+        "evidence_row_count": { "type": "integer" },
+        "gene_count": { "type": "integer" },
+        "manuscript_target": { "type": "boolean" },
+        "public_release_target": { "type": "boolean" },
+        "source_count": { "type": "integer" },
+        "source_snapshot_count": { "type": "integer" }
+      },
+      "additionalProperties": false
+    },
+    "render_sync_requirements": {
+      "type": "object",
+      "required": [
+        "all_gene_routes",
+        "open_targets_score_boundary",
+        "reader_review_artifact",
+        "representative_gene_symbol",
+        "required_pages",
+        "required_public_links",
+        "safety_surface_review",
+        "source_role_boundaries",
+        "stale_copy_review"
+      ]
+    },
+    "required_export_checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "status"],
+        "properties": {
+          "name": { "type": "string" },
+          "status": { "type": "string" }
+        }
+      }
+    },
+    "required_pre_export_checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "status"],
+        "properties": {
+          "name": { "type": "string" },
+          "status": { "type": "string" }
+        }
+      }
+    },
+    "research_use_only": { "type": "boolean" },
+    "source_recheck_public_export_boundary": {
+      "type": "object",
+      "required": [
+        "freshness_required",
+        "linked_source_recheck_path",
+        "linked_source_recheck_status",
+        "public_export_source_recheck_approved",
+        "public_source_gate_decision_path",
+        "public_source_gate_path",
+        "public_source_recheck_task_path",
+        "required_before_gate_approval",
+        "source_level_human_review_scope"
+      ],
+      "properties": {
+        "freshness_required": { "type": "object" },
+        "linked_source_recheck_path": { "type": "string" },
+        "linked_source_recheck_status": { "type": "string" },
+        "public_export_source_recheck_approved": { "type": "boolean" },
+        "public_source_gate_decision_path": { "type": "string" },
+        "public_source_gate_path": { "type": "string" },
+        "public_source_recheck_task_path": { "type": "string" },
+        "required_before_gate_approval": { "type": "array", "items": { "type": "string" } },
+        "source_level_human_review_scope": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "status": {
+      "type": "string",
+      "enum": ["planned_not_approved", "approved", "needs_changes", "rejected"]
+    }
+  },
+  "additionalProperties": false
+}
