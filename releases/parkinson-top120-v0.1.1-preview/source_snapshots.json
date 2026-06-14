@@ -1,0 +1,42 @@
+[
+  {
+    "id": "snapshot:clinvar:gene-condition:parkinson-paper120:2026-06-14",
+    "source_ids": [
+      "source:clinvar"
+    ],
+    "path": "data/source_snapshots/clinvar-gene-condition-parkinson-paper120-2026-06-14/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "gene_condition_source_id-2026-06-14-paper120",
+    "license_note": "ClinVar gene_condition_source_id filtered to Parkinson disease paper-scale top-120 scope genes and MONDO:0005180.",
+    "record_count": 12,
+    "sha256": "aa811cdabadf1972ac577419c22952b65e83cceeed18636b2f97ba0e3270d546",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed ClinVar gene-condition snapshot is acceptable for public-candidate rendering, but paper-grade use should prefer an archived monthly ClinVar release or otherwise documented dated upstream material.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "snapshot:opentargets:parkinson-associated-targets:2026-06-14:paper120",
+    "source_ids": [
+      "source:opentargets"
+    ],
+    "path": "data/source_snapshots/opentargets-parkinson-associated-targets-2026-06-14-paper120/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "api-v4-graphql-2026-06-14-paper120",
+    "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Parkinson disease top-120 HGNC-resolved targets from a top-150 fetch window).",
+    "record_count": 120,
+    "sha256": "c08e05dc364137de07d862adfd437a660b55fa1680f51d4c16a75cd31afea9d6",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed Open Targets development snapshot is acceptable for public-candidate rendering, but paper-grade use should refresh from a dated upstream export or documented current source pull.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  }
+]

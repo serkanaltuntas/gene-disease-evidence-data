@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:amyotrophic-lateral-sclerosis-paper120:2026-06-14",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aamyotrophic-lateral-sclerosis-paper120%3A2026-06-14/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "gene_condition_source_id-2026-06-14-paper120",
+  "license_note": "ClinVar gene_condition_source_id filtered to Amyotrophic lateral sclerosis paper-scale top-120 scope genes and MONDO:0004976.",
+  "record_count": 17,
+  "sha256": "8ef81128a823964364be42ba6cfd5f303997a56de006004f8c4fe80a47e1d8c4"
+}

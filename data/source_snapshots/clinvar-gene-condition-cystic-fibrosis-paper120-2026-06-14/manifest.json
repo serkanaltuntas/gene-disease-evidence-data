@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:cystic-fibrosis-paper120:2026-06-14",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Acystic-fibrosis-paper120%3A2026-06-14/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "gene_condition_source_id-2026-06-14-paper120",
+  "license_note": "ClinVar gene_condition_source_id filtered to Cystic fibrosis paper-scale top-120 scope genes and MONDO:0009061.",
+  "record_count": 2,
+  "sha256": "ecb1325ff27238681027a1eb4ae94cedde3805a02b02b544f8585c3e6221e28a"
+}

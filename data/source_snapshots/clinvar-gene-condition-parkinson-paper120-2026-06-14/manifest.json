@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:parkinson-paper120:2026-06-14",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aparkinson-paper120%3A2026-06-14/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "gene_condition_source_id-2026-06-14-paper120",
+  "license_note": "ClinVar gene_condition_source_id filtered to Parkinson disease paper-scale top-120 scope genes and MONDO:0005180.",
+  "record_count": 12,
+  "sha256": "aa811cdabadf1972ac577419c22952b65e83cceeed18636b2f97ba0e3270d546"
+}

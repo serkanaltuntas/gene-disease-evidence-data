@@ -1,0 +1,42 @@
+[
+  {
+    "id": "snapshot:clinvar:gene-condition:cystic-fibrosis-paper120:2026-06-14",
+    "source_ids": [
+      "source:clinvar"
+    ],
+    "path": "data/source_snapshots/clinvar-gene-condition-cystic-fibrosis-paper120-2026-06-14/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "gene_condition_source_id-2026-06-14-paper120",
+    "license_note": "ClinVar gene_condition_source_id filtered to Cystic fibrosis paper-scale top-120 scope genes and MONDO:0009061.",
+    "record_count": 2,
+    "sha256": "ecb1325ff27238681027a1eb4ae94cedde3805a02b02b544f8585c3e6221e28a",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed ClinVar gene-condition snapshot is acceptable for public-candidate rendering, but paper-grade use should prefer an archived monthly ClinVar release or otherwise documented dated upstream material.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "snapshot:opentargets:cystic-fibrosis-associated-targets:2026-06-14:paper120",
+    "source_ids": [
+      "source:opentargets"
+    ],
+    "path": "data/source_snapshots/opentargets-cystic-fibrosis-associated-targets-2026-06-14-paper120/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "api-v4-graphql-2026-06-14-paper120",
+    "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Cystic fibrosis top-120 HGNC-resolved targets from a top-150 fetch window).",
+    "record_count": 120,
+    "sha256": "1968693dc52596707adee4cec030388254b1ff9d897be550035f45726a0d96c9",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed Open Targets development snapshot is acceptable for public-candidate rendering, but paper-grade use should refresh from a dated upstream export or documented current source pull.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  }
+]

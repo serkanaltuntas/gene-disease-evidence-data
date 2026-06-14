@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "HGNC:10451",
+    "symbol": "RRM1",
+    "aliases": [],
+    "name": "ribonucleotide reductase catalytic subunit M1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10452",
+    "symbol": "RRM2",
+    "aliases": [],
+    "name": "ribonucleotide reductase regulatory subunit M2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1058",
+    "symbol": "BLM",
+    "aliases": [],
+    "name": "BLM RecQ like helicase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10768",
+    "symbol": "SF3B1",
+    "aliases": [],
+    "name": "splicing factor 3b subunit 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1100",
+    "symbol": "BRCA1",
+    "aliases": [],
+    "name": "BRCA1 DNA repair associated",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1101",
+    "symbol": "BRCA2",
+    "aliases": [],
+    "name": "BRCA2 DNA repair associated",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11110",
+    "symbol": "ARID1A",
+    "aliases": [],
+    "name": "AT-rich interaction domain 1A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11602",
+    "symbol": "TBX3",
+    "aliases": [],
+    "name": "T-box transcription factor 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11641",
+    "symbol": "TCF7L2",
+    "aliases": [],
+    "name": "transcription factor 7 like 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11730",
+    "symbol": "TERT",
+    "aliases": [],
+    "name": "telomerase reverse transcriptase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11773",
+    "symbol": "TGFBR2",
+    "aliases": [],
+    "name": "transforming growth factor beta receptor 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11986",
+    "symbol": "TOP1",
+    "aliases": [],
+    "name": "DNA topoisomerase I",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11998",
+    "symbol": "TP53",
+    "aliases": [],
+    "name": "tumor protein p53",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12407",
+    "symbol": "TUBA4A",
+    "aliases": [],
+    "name": "tubulin alpha 4a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12408",
+    "symbol": "TUBA3C",
+    "aliases": [],
+    "name": "tubulin alpha 3c",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12412",
+    "symbol": "TUBB2A",
+    "aliases": [],
+    "name": "tubulin beta 2A class IIa",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12441",
+    "symbol": "TYMS",
+    "aliases": [],
+    "name": "thymidylate synthetase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12637",
+    "symbol": "KDM6A",
+    "aliases": [],
+    "name": "lysine demethylase 6A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:13590",
+    "symbol": "FBXO11",
+    "aliases": [],
+    "name": "F-box protein 11",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:13726",
+    "symbol": "KMT2C",
+    "aliases": [],
+    "name": "lysine methyltransferase 2C",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14334",
+    "symbol": "MRTFA",
+    "aliases": [],
+    "name": "myocardin related transcription factor A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1539",
+    "symbol": "CBFB",
+    "aliases": [],
+    "name": "core-binding factor subunit beta",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:15573",
+    "symbol": "SETBP1",
+    "aliases": [],
+    "name": "SET binding protein 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1582",
+    "symbol": "CCND1",
+    "aliases": [],
+    "name": "cyclin D1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:15979",
+    "symbol": "TP63",
+    "aliases": [],
+    "name": "tumor protein p63",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16063",
+    "symbol": "MLLT10",
+    "aliases": [],
+    "name": "MLLT10 histone lysine methyltransferase DOT1L cofactor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16257",
+    "symbol": "TUBB1",
+    "aliases": [],
+    "name": "tubulin beta 1 class VI",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16627",
+    "symbol": "CHEK2",
+    "aliases": [],
+    "name": "checkpoint kinase 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16783",
+    "symbol": "CDC73",
+    "aliases": [],
+    "name": "cell division cycle 73",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16806",
+    "symbol": "UBR5",
+    "aliases": [],
+    "name": "ubiquitin protein ligase E3 component n-recognin 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17101",
+    "symbol": "SUZ12",
+    "aliases": [],
+    "name": "SUZ12 polycomb repressive complex 2 subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1748",
+    "symbol": "CDH1",
+    "aliases": [],
+    "name": "cadherin 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17582",
+    "symbol": "KAT6B",
+    "aliases": [],
+    "name": "lysine acetyltransferase 6B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17635",
+    "symbol": "CD274",
+    "aliases": [],
+    "name": "CD274 molecule",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1773",
+    "symbol": "CDK4",
+    "aliases": [],
+    "name": "cyclin dependent kinase 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1777",
+    "symbol": "CDK6",
+    "aliases": [],
+    "name": "cyclin dependent kinase 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1785",
+    "symbol": "CDKN1B",
+    "aliases": [],
+    "name": "cyclin dependent kinase inhibitor 1B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1787",
+    "symbol": "CDKN2A",
+    "aliases": [],
+    "name": "cyclin dependent kinase inhibitor 2A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17904",
+    "symbol": "DROSHA",
+    "aliases": [],
+    "name": "drosha ribonuclease III",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18040",
+    "symbol": "ARID1B",
+    "aliases": [],
+    "name": "AT-rich interaction domain 1B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18809",
+    "symbol": "TUBA1B",
+    "aliases": [],
+    "name": "tubulin alpha 1b",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20473",
+    "symbol": "BRIP1",
+    "aliases": [],
+    "name": "BRCA1 interacting DNA helicase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20765",
+    "symbol": "TUBA3E",
+    "aliases": [],
+    "name": "tubulin alpha 3e",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20766",
+    "symbol": "TUBA1A",
+    "aliases": [],
+    "name": "tubulin alpha 1a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20768",
+    "symbol": "TUBA1C",
+    "aliases": [],
+    "name": "tubulin alpha 1c",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20771",
+    "symbol": "TUBB4B",
+    "aliases": [],
+    "name": "tubulin beta 4B class IVb",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20772",
+    "symbol": "TUBB3",
+    "aliases": [],
+    "name": "tubulin beta 3 class III",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20773",
+    "symbol": "TUBB8",
+    "aliases": [],
+    "name": "tubulin beta 8 class VIII",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20774",
+    "symbol": "TUBB4A",
+    "aliases": [],
+    "name": "tubulin beta 4A class IVa",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20776",
+    "symbol": "TUBB6",
+    "aliases": [],
+    "name": "tubulin beta 6 class V",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20778",
+    "symbol": "TUBB",
+    "aliases": [],
+    "name": "tubulin beta class I",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:22950",
+    "symbol": "PREX2",
+    "aliases": [],
+    "name": "phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:23109",
+    "symbol": "FAT4",
+    "aliases": [],
+    "name": "FAT atypical cadherin 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2557",
+    "symbol": "CUX1",
+    "aliases": [],
+    "name": "cut like homeobox 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2594",
+    "symbol": "CYP19A1",
+    "aliases": [],
+    "name": "cytochrome P450 family 19 subfamily A member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:25941",
+    "symbol": "TET2",
+    "aliases": [],
+    "name": "tet methylcytosine dioxygenase 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:26144",
+    "symbol": "PALB2",
+    "aliases": [],
+    "name": "partner and localizer of BRCA2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:28519",
+    "symbol": "C11orf65",
+    "aliases": [],
+    "name": "chromosome 11 open reading frame 65",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29529",
+    "symbol": "TBL1XR1",
+    "aliases": [],
+    "name": "TBL1X/Y related 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:30829",
+    "symbol": "TUBB2B",
+    "aliases": [],
+    "name": "tubulin beta 2B class IIb",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3126",
+    "symbol": "EBF1",
+    "aliases": [],
+    "name": "EBF transcription factor 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3236",
+    "symbol": "EGFR",
+    "aliases": [],
+    "name": "epidermal growth factor receptor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3430",
+    "symbol": "ERBB2",
+    "aliases": [],
+    "name": "erb-b2 receptor tyrosine kinase 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3431",
+    "symbol": "ERBB3",
+    "aliases": [],
+    "name": "erb-b2 receptor tyrosine kinase 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3432",
+    "symbol": "ERBB4",
+    "aliases": [],
+    "name": "erb-b2 receptor tyrosine kinase 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3467",
+    "symbol": "ESR1",
+    "aliases": [],
+    "name": "estrogen receptor 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3498",
+    "symbol": "MECOM",
+    "aliases": [],
+    "name": "MDS1 and EVI1 complex locus",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3585",
+    "symbol": "FANCD2",
+    "aliases": [],
+    "name": "FA complementation group D2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3689",
+    "symbol": "FGFR2",
+    "aliases": [],
+    "name": "fibroblast growth factor receptor 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3691",
+    "symbol": "FGFR4",
+    "aliases": [],
+    "name": "fibroblast growth factor receptor 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3701",
+    "symbol": "FHIT",
+    "aliases": [],
+    "name": "fragile histidine triad diadenosine triphosphatase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3823",
+    "symbol": "FOXP1",
+    "aliases": [],
+    "name": "forkhead box P1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:391",
+    "symbol": "AKT1",
+    "aliases": [],
+    "name": "AKT serine/threonine kinase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4172",
+    "symbol": "GATA3",
+    "aliases": [],
+    "name": "GATA binding protein 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4591",
+    "symbol": "ARHGAP35",
+    "aliases": [],
+    "name": "Rho GTPase activating protein 35",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4776",
+    "symbol": "H3C2",
+    "aliases": [],
+    "name": "H3 clustered histone 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5021",
+    "symbol": "FOXA1",
+    "aliases": [],
+    "name": "forkhead box A1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6348",
+    "symbol": "KLF4",
+    "aliases": [],
+    "name": "KLF transcription factor 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6407",
+    "symbol": "KRAS",
+    "aliases": [],
+    "name": "KRAS proto-oncogene, GTPase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:644",
+    "symbol": "AR",
+    "aliases": [],
+    "name": "androgen receptor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6693",
+    "symbol": "LRP1B",
+    "aliases": [],
+    "name": "LDL receptor related protein 1B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6844",
+    "symbol": "MAP2K4",
+    "aliases": [],
+    "name": "mitogen-activated protein kinase kinase 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6848",
+    "symbol": "MAP3K1",
+    "aliases": [],
+    "name": "mitogen-activated protein kinase kinase kinase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6973",
+    "symbol": "MDM2",
+    "aliases": [],
+    "name": "MDM2 proto-oncogene",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6974",
+    "symbol": "MDM4",
+    "aliases": [],
+    "name": "MDM4 regulator of p53",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7105",
+    "symbol": "MITF",
+    "aliases": [],
+    "name": "melanocyte inducing transcription factor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7127",
+    "symbol": "MLH1",
+    "aliases": [],
+    "name": "mutL homolog 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7180",
+    "symbol": "MN1",
+    "aliases": [],
+    "name": "MN1 proto-oncogene, transcriptional regulator",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7325",
+    "symbol": "MSH2",
+    "aliases": [],
+    "name": "mutS homolog 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7329",
+    "symbol": "MSH6",
+    "aliases": [],
+    "name": "mutS homolog 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7527",
+    "symbol": "MUTYH",
+    "aliases": [],
+    "name": "mutY DNA glycosylase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7579",
+    "symbol": "MYH9",
+    "aliases": [],
+    "name": "myosin heavy chain 9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7652",
+    "symbol": "NBN",
+    "aliases": [],
+    "name": "nibrin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7672",
+    "symbol": "NCOR1",
+    "aliases": [],
+    "name": "nuclear receptor corepressor 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:77",
+    "symbol": "ABL2",
+    "aliases": [],
+    "name": "ABL proto-oncogene 2, non-receptor tyrosine kinase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7765",
+    "symbol": "NF1",
+    "aliases": [],
+    "name": "neurofibromin 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:777",
+    "symbol": "ZFHX3",
+    "aliases": [],
+    "name": "zinc finger homeobox 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7882",
+    "symbol": "NOTCH2",
+    "aliases": [],
+    "name": "notch receptor 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:795",
+    "symbol": "ATM",
+    "aliases": [],
+    "name": "ATM serine/threonine kinase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7997",
+    "symbol": "NRG1",
+    "aliases": [],
+    "name": "neuregulin 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8032",
+    "symbol": "NTRK2",
+    "aliases": [],
+    "name": "neurotrophic receptor tyrosine kinase 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8033",
+    "symbol": "NTRK3",
+    "aliases": [],
+    "name": "neurotrophic receptor tyrosine kinase 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:816",
+    "symbol": "ATP2B3",
+    "aliases": [],
+    "name": "ATPase plasma membrane Ca2+ transporting 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8619",
+    "symbol": "PAX5",
+    "aliases": [],
+    "name": "paired box 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8975",
+    "symbol": "PIK3CA",
+    "aliases": [],
+    "name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8976",
+    "symbol": "PIK3CB",
+    "aliases": [],
+    "name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9045",
+    "symbol": "PLAG1",
+    "aliases": [],
+    "name": "PLAG1 zinc finger",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9122",
+    "symbol": "PMS2",
+    "aliases": [],
+    "name": "PMS1 homolog 2, mismatch repair system component",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9175",
+    "symbol": "POLD1",
+    "aliases": [],
+    "name": "DNA polymerase delta 1, catalytic subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9176",
+    "symbol": "POLD2",
+    "aliases": [],
+    "name": "DNA polymerase delta 2, accessory subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9177",
+    "symbol": "POLE",
+    "aliases": [],
+    "name": "DNA polymerase epsilon, catalytic subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9277",
+    "symbol": "PPM1D",
+    "aliases": [],
+    "name": "protein phosphatase, Mg2+/Mn2+ dependent 1D",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9341",
+    "symbol": "PRC1",
+    "aliases": [],
+    "name": "protein regulator of cytokinesis 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:952",
+    "symbol": "BARD1",
+    "aliases": [],
+    "name": "BRCA1 associated RING domain 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9588",
+    "symbol": "PTEN",
+    "aliases": [],
+    "name": "phosphatase and tensin homolog",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9816",
+    "symbol": "RAD50",
+    "aliases": [],
+    "name": "RAD50 double strand break repair protein",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9820",
+    "symbol": "RAD51C",
+    "aliases": [],
+    "name": "RAD51 paralog C",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9822",
+    "symbol": "RAD51B",
+    "aliases": [],
+    "name": "RAD51 paralog B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9823",
+    "symbol": "RAD51D",
+    "aliases": [],
+    "name": "RAD51 paralog D",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9884",
+    "symbol": "RB1",
+    "aliases": [],
+    "name": "RB transcriptional corepressor 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "type2-diabetes-top120-v0.1.1-preview",
+  "release_generated_at": "2026-06-14T00:00:00Z",
+  "release_status": "draft",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 37,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 428,
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3683,
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3297,
+      "sha256": "1c0891b73eef2535532c68ca2ddf623d73468a402a7f1327d453d548ed5595f6"
+    },
+    {
+      "path": "data/source_snapshots/clinvar-gene-condition-type2-diabetes-paper120-2026-06-14/manifest.json",
+      "bytes": 585,
+      "sha256": "403c67aa2f09b0d9120ee93e3c84ee41cf42714961d7daec051f9f7203569062"
+    },
+    {
+      "path": "data/source_snapshots/clinvar-gene-condition-type2-diabetes-paper120-2026-06-14/records.jsonl",
+      "bytes": 6705,
+      "sha256": "9e193e34c468817119c551a041506dbfd4b874a85adb6f12e0d39d0bb2485690"
+    },
+    {
+      "path": "data/source_snapshots/opentargets-type2-diabetes-associated-targets-2026-06-14-paper120/manifest.json",
+      "bytes": 628,
+      "sha256": "8fe45a0e6dd35d7910dc882d6d9460e40e3a5b8217070bcdac563bdfce431419"
+    },
+    {
+      "path": "data/source_snapshots/opentargets-type2-diabetes-associated-targets-2026-06-14-paper120/records.jsonl",
+      "bytes": 61619,
+      "sha256": "94c8be03f63a6f60aa854dec02853f1c0d8fd5e1e3d99185e415ff6c79d12e03"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 11233,
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 1287,
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/README.md",
+      "bytes": 528,
+      "sha256": "aa35587a9802101f21ed1997c192a3921c27b5445f36cfaa6c67c6e89a41f349"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/associations.json",
+      "bytes": 138695,
+      "sha256": "5b559a912f46125328dedc2d43514983f057f2a95b1298b8c5a761071876ca6c"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/changelog.json",
+      "bytes": 1536,
+      "sha256": "93aa843e2717ffa3337870ef436d646a44e567abc3613e4133f68615edaad850"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/diseases.json",
+      "bytes": 153,
+      "sha256": "743dd9b754a2d26ce6f8a3ca900a289133d4f9bfac21963b7bc51f4e2d9f7bd6"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/evidence_rows.jsonl",
+      "bytes": 118707,
+      "sha256": "7acf62eb48e7bfa9b214613f05da79952fd1374f1e4552cbef7864138c25e6ff"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/genes.json",
+      "bytes": 26718,
+      "sha256": "5c936a67f9e6ff6ef8bdb4bf2b22efeba8345186bc906ed4f5ac9ada5d5dd61a"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/release.json",
+      "bytes": 592,
+      "sha256": "f9cd7fd6b21fb7b45de83c63e97668b173065db90b91edae8c2aa82f137d353e"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/review_artifacts.jsonl",
+      "bytes": 138464,
+      "sha256": "d27fcdc8c31a429c7e67d57e8c912832c38d9f9131c79103f556ecd5b01c1a14"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/source_snapshots.json",
+      "bytes": 2064,
+      "sha256": "835e7ba0c48c81c0509a71ddf1990ab037f9b72d42cf0dcefc9f88bdf8704358"
+    },
+    {
+      "path": "releases/type2-diabetes-top120-v0.1.1-preview/sources.json",
+      "bytes": 6900,
+      "sha256": "fe727ea93dccb531a21d5125f217a6745812e447994054418da414dc8f1ed174"
+    },
+    {
+      "path": "schemas/README.md",
+      "bytes": 825,
+      "sha256": "d306274cb3d33c16d681f4748095a391e3a1c5f863bc001480756c04167770ba"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/manifest.json",
+      "bytes": 4736,
+      "sha256": "7520de98c03c1c77fbfc02f4e633bdd15c09962232f7ad54bf1864303a5d3db3"
+    },
+    {
+      "path": "schemas/public-export-gate-decision.schema.json",
+      "bytes": 1626,
+      "sha256": "8945fb7a00247b5f18eac4836b7192cf30584e65ab8cfd4b4e7c79d74ad86ab1"
+    },
+    {
+      "path": "schemas/public-export-gate.schema.json",
+      "bytes": 5704,
+      "sha256": "d3d8ca0bce8ab8f70939c8c4719f4a3e57817266be2604124e3e6b979316eb85"
+    },
+    {
+      "path": "schemas/public-source-gate-decision.schema.json",
+      "bytes": 1686,
+      "sha256": "4b331d60eb003dff2c9a3e566b90a6822f3c5e83f54b85a0e3fd1baf30cd0f00"
+    },
+    {
+      "path": "schemas/public-source-gate.schema.json",
+      "bytes": 7186,
+      "sha256": "77ce9d3ca75c9544e0eccea770695632164b8bbeb7693a595189f218446a5be4"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 6547,
+      "sha256": "a258e70d38c194387297820b7727bef6d26119c66541c6732af1cc6195fc15f1"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 1340,
+      "sha256": "b6c9a1ba6045c5d6ccd61eecd0b735a36bba1f39f0983dff8e4e5a471c9e7ef9"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 2378,
+      "sha256": "95e713c81cfb67241a03eb85323c22546c63afb83e96a72b4c41fb2250a10777"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-type2-diabetes-top120-v0.1.1-preview.zip",
+      "bytes": 67847,
+      "sha256": "b9b7c6306fd0632ea6e63ad54a5eb2701854d2717f811001b7b318d5cdaa834b"
+    }
+  ]
+}

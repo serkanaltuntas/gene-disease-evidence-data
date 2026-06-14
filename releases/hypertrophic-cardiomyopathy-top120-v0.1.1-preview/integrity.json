@@ -1,0 +1,205 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "hypertrophic-cardiomyopathy-top120-v0.1.1-preview",
+  "release_generated_at": "2026-06-14T00:00:00Z",
+  "release_status": "draft",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 37,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 428,
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3683,
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3297,
+      "sha256": "1c0891b73eef2535532c68ca2ddf623d73468a402a7f1327d453d548ed5595f6"
+    },
+    {
+      "path": "data/source_snapshots/clinvar-gene-condition-hypertrophic-cardiomyopathy-paper120-2026-06-14/manifest.json",
+      "bytes": 613,
+      "sha256": "986f9f20463f448f4dade6b88324054bd426aed38782502a67d912959eed251e"
+    },
+    {
+      "path": "data/source_snapshots/clinvar-gene-condition-hypertrophic-cardiomyopathy-paper120-2026-06-14/records.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "data/source_snapshots/opentargets-hypertrophic-cardiomyopathy-associated-targets-2026-06-14-paper120/manifest.json",
+      "bytes": 657,
+      "sha256": "45ca358f793b0102f03a4035b203152b1f8d3806ff92e46112ac6354ef91e7a1"
+    },
+    {
+      "path": "data/source_snapshots/opentargets-hypertrophic-cardiomyopathy-associated-targets-2026-06-14-paper120/records.jsonl",
+      "bytes": 80246,
+      "sha256": "a197b536a17f86df78963937a13bb59da6cd4d4a3ff1610193665262ccf51391"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 11233,
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 1287,
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/README.md",
+      "bytes": 541,
+      "sha256": "ff8f094a64716fd0d7ef3a6059743ff06d7a67c4a110397461b946a1eaba5bd1"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/associations.json",
+      "bytes": 135553,
+      "sha256": "745506fc530dd42bc070f88b1a6cb4a3e16a842b49afbb85f54293e0f27f8a2e"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/changelog.json",
+      "bytes": 945,
+      "sha256": "7d775aaf6f0d8db01c1af679a91db522c5a074e5c5996a032d42920eaa65284e"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/diseases.json",
+      "bytes": 176,
+      "sha256": "00fdf53cba83be6eaa55905d9c401e4951f03342ff36b515a9d7e4692060cbcc"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/evidence_rows.jsonl",
+      "bytes": 128305,
+      "sha256": "04cf37cd6ccbe02c5699dbd16d769ad22b2ee9b213b9d1312079823d7a97f94d"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/genes.json",
+      "bytes": 24130,
+      "sha256": "03c1eb52902107fc108be780f6541f4015961ddef4320116dbe5931c02a9afe0"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/release.json",
+      "bytes": 605,
+      "sha256": "2272692b3ca97a36efc5cff5efdeb3e2bb3ef33cb3653456540404245a0d576d"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/review_artifacts.jsonl",
+      "bytes": 139000,
+      "sha256": "f589dca498df90faf687562b26c75087da53ea10ac166808758c2b6d9d3518bc"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/source_snapshots.json",
+      "bytes": 2121,
+      "sha256": "f2a21516ca561d1c9396b17d4483277a9defa12c5945b2d3dc61f9cc77b17d07"
+    },
+    {
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview/sources.json",
+      "bytes": 8768,
+      "sha256": "56347eb8c8b7ae1b4dd0c8737b5a034218a00bbf5482566977da5f940a32c70e"
+    },
+    {
+      "path": "schemas/README.md",
+      "bytes": 825,
+      "sha256": "d306274cb3d33c16d681f4748095a391e3a1c5f863bc001480756c04167770ba"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/manifest.json",
+      "bytes": 4736,
+      "sha256": "7520de98c03c1c77fbfc02f4e633bdd15c09962232f7ad54bf1864303a5d3db3"
+    },
+    {
+      "path": "schemas/public-export-gate-decision.schema.json",
+      "bytes": 1626,
+      "sha256": "8945fb7a00247b5f18eac4836b7192cf30584e65ab8cfd4b4e7c79d74ad86ab1"
+    },
+    {
+      "path": "schemas/public-export-gate.schema.json",
+      "bytes": 5704,
+      "sha256": "d3d8ca0bce8ab8f70939c8c4719f4a3e57817266be2604124e3e6b979316eb85"
+    },
+    {
+      "path": "schemas/public-source-gate-decision.schema.json",
+      "bytes": 1686,
+      "sha256": "4b331d60eb003dff2c9a3e566b90a6822f3c5e83f54b85a0e3fd1baf30cd0f00"
+    },
+    {
+      "path": "schemas/public-source-gate.schema.json",
+      "bytes": 7186,
+      "sha256": "77ce9d3ca75c9544e0eccea770695632164b8bbeb7693a595189f218446a5be4"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 6547,
+      "sha256": "a258e70d38c194387297820b7727bef6d26119c66541c6732af1cc6195fc15f1"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 1340,
+      "sha256": "b6c9a1ba6045c5d6ccd61eecd0b735a36bba1f39f0983dff8e4e5a471c9e7ef9"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 2378,
+      "sha256": "95e713c81cfb67241a03eb85323c22546c63afb83e96a72b4c41fb2250a10777"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-hypertrophic-cardiomyopathy-top120-v0.1.1-preview.zip",
+      "bytes": 73030,
+      "sha256": "4ac4aa7b039b8525be0f7619a7ae60eb471310cfca7b9773d67796806c407870"
+    }
+  ]
+}

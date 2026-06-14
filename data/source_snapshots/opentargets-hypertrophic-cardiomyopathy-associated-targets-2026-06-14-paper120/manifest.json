@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:opentargets:hypertrophic-cardiomyopathy-associated-targets:2026-06-14:paper120",
+  "source_ids": [
+    "source:opentargets"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aopentargets%3Ahypertrophic-cardiomyopathy-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "api-v4-graphql-2026-06-14-paper120",
+  "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Hypertrophic cardiomyopathy top-120 HGNC-resolved targets from a top-150 fetch window).",
+  "record_count": 120,
+  "sha256": "a197b536a17f86df78963937a13bb59da6cd4d4a3ff1610193665262ccf51391"
+}

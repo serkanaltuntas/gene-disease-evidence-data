@@ -1,0 +1,38 @@
+{
+  "release_id": "huntington-disease-top120-v0.1.1-preview",
+  "status": "draft",
+  "changes": [
+    {
+      "type": "initial_release_shell",
+      "description": "Initial empty release shell for Gene-Disease Evidence Index."
+    },
+    {
+      "type": "candidate_promotion",
+      "candidate_id": "candidate:opentargets-huntington-disease-paper120-dev",
+      "description": "Promoted candidate package candidate:opentargets-huntington-disease-paper120-dev into release huntington-disease-top120-v0.1.1-preview.",
+      "added_gene_count": 120,
+      "added_association_count": 120,
+      "added_evidence_row_count": 120,
+      "added_review_artifact_count": 480,
+      "warnings": [
+        "Promotion plan is a dry run and does not modify release artifacts.",
+        "Automatic review artifacts do not imply human scientific approval.",
+        "Candidate evidence is single-source."
+      ]
+    },
+    {
+      "type": "candidate_promotion",
+      "candidate_id": "candidate:clinvar-huntington-disease-paper120-dev",
+      "description": "Promoted candidate package candidate:clinvar-huntington-disease-paper120-dev into release huntington-disease-top120-v0.1.1-preview.",
+      "added_gene_count": 0,
+      "added_association_count": 0,
+      "added_evidence_row_count": 1,
+      "added_review_artifact_count": 0,
+      "warnings": [
+        "Promotion plan is a dry run and does not modify release artifacts.",
+        "Automatic review artifacts do not imply human scientific approval.",
+        "Candidate evidence is single-source."
+      ]
+    }
+  ]
+}

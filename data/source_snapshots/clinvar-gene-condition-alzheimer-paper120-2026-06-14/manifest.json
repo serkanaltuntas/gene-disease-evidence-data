@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:alzheimer-paper120:2026-06-14",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aalzheimer-paper120%3A2026-06-14/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "gene_condition_source_id-2026-06-14-paper120",
+  "license_note": "ClinVar gene_condition_source_id filtered to Alzheimer disease paper-scale top-120 scope genes and MONDO:0004975.",
+  "record_count": 6,
+  "sha256": "7a705662c494b117cefff5c02b079851d0038a054bee95851146689b69ca889b"
+}

@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "HGNC:10068",
+    "symbol": "RNF5",
+    "aliases": [],
+    "name": "ring finger protein 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10298",
+    "symbol": "RPL10",
+    "aliases": [],
+    "name": "ribosomal protein L10",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10299",
+    "symbol": "RPL10A",
+    "aliases": [],
+    "name": "ribosomal protein L10a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10301",
+    "symbol": "RPL11",
+    "aliases": [],
+    "name": "ribosomal protein L11",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10302",
+    "symbol": "RPL12",
+    "aliases": [],
+    "name": "ribosomal protein L12",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10303",
+    "symbol": "RPL13",
+    "aliases": [],
+    "name": "ribosomal protein L13",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10304",
+    "symbol": "RPL13A",
+    "aliases": [],
+    "name": "ribosomal protein L13a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10305",
+    "symbol": "RPL14",
+    "aliases": [],
+    "name": "ribosomal protein L14",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10306",
+    "symbol": "RPL15",
+    "aliases": [],
+    "name": "ribosomal protein L15",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10307",
+    "symbol": "RPL17",
+    "aliases": [],
+    "name": "ribosomal protein L17",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10310",
+    "symbol": "RPL18",
+    "aliases": [],
+    "name": "ribosomal protein L18",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10311",
+    "symbol": "RPL18A",
+    "aliases": [],
+    "name": "ribosomal protein L18a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10312",
+    "symbol": "RPL19",
+    "aliases": [],
+    "name": "ribosomal protein L19",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10313",
+    "symbol": "RPL21",
+    "aliases": [],
+    "name": "ribosomal protein L21",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10315",
+    "symbol": "RPL22",
+    "aliases": [],
+    "name": "ribosomal protein L22",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10316",
+    "symbol": "RPL23",
+    "aliases": [],
+    "name": "ribosomal protein L23",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10317",
+    "symbol": "RPL23A",
+    "aliases": [],
+    "name": "ribosomal protein L23a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10325",
+    "symbol": "RPL24",
+    "aliases": [],
+    "name": "ribosomal protein L24",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10327",
+    "symbol": "RPL26",
+    "aliases": [],
+    "name": "ribosomal protein L26",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10328",
+    "symbol": "RPL27",
+    "aliases": [],
+    "name": "ribosomal protein L27",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10329",
+    "symbol": "RPL27A",
+    "aliases": [],
+    "name": "ribosomal protein L27a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10330",
+    "symbol": "RPL28",
+    "aliases": [],
+    "name": "ribosomal protein L28",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10331",
+    "symbol": "RPL29",
+    "aliases": [],
+    "name": "ribosomal protein L29",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10332",
+    "symbol": "RPL3",
+    "aliases": [],
+    "name": "ribosomal protein L3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10333",
+    "symbol": "RPL30",
+    "aliases": [],
+    "name": "ribosomal protein L30",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10334",
+    "symbol": "RPL31",
+    "aliases": [],
+    "name": "ribosomal protein L31",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10336",
+    "symbol": "RPL32",
+    "aliases": [],
+    "name": "ribosomal protein L32",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10340",
+    "symbol": "RPL34",
+    "aliases": [],
+    "name": "ribosomal protein L34",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10344",
+    "symbol": "RPL35",
+    "aliases": [],
+    "name": "ribosomal protein L35",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10345",
+    "symbol": "RPL35A",
+    "aliases": [],
+    "name": "ribosomal protein L35a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10347",
+    "symbol": "RPL37",
+    "aliases": [],
+    "name": "ribosomal protein L37",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10348",
+    "symbol": "RPL37A",
+    "aliases": [],
+    "name": "ribosomal protein L37a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10349",
+    "symbol": "RPL38",
+    "aliases": [],
+    "name": "ribosomal protein L38",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10350",
+    "symbol": "RPL39",
+    "aliases": [],
+    "name": "ribosomal protein L39",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10353",
+    "symbol": "RPL4",
+    "aliases": [],
+    "name": "ribosomal protein L4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10354",
+    "symbol": "RPL41",
+    "aliases": [],
+    "name": "ribosomal protein L41",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10359",
+    "symbol": "RPL36A",
+    "aliases": [],
+    "name": "ribosomal protein L36a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10360",
+    "symbol": "RPL5",
+    "aliases": [],
+    "name": "ribosomal protein L5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10362",
+    "symbol": "RPL6",
+    "aliases": [],
+    "name": "ribosomal protein L6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10363",
+    "symbol": "RPL7",
+    "aliases": [],
+    "name": "ribosomal protein L7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10364",
+    "symbol": "RPL7A",
+    "aliases": [],
+    "name": "ribosomal protein L7a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10368",
+    "symbol": "RPL8",
+    "aliases": [],
+    "name": "ribosomal protein L8",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10369",
+    "symbol": "RPL9",
+    "aliases": [],
+    "name": "ribosomal protein L9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10371",
+    "symbol": "RPLP0",
+    "aliases": [],
+    "name": "ribosomal protein lateral stalk subunit P0",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10372",
+    "symbol": "RPLP1",
+    "aliases": [],
+    "name": "ribosomal protein lateral stalk subunit P1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10383",
+    "symbol": "RPS10",
+    "aliases": [],
+    "name": "ribosomal protein S10",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10384",
+    "symbol": "RPS11",
+    "aliases": [],
+    "name": "ribosomal protein S11",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10385",
+    "symbol": "RPS12",
+    "aliases": [],
+    "name": "ribosomal protein S12",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10386",
+    "symbol": "RPS13",
+    "aliases": [],
+    "name": "ribosomal protein S13",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10387",
+    "symbol": "RPS14",
+    "aliases": [],
+    "name": "ribosomal protein S14",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10388",
+    "symbol": "RPS15",
+    "aliases": [],
+    "name": "ribosomal protein S15",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10389",
+    "symbol": "RPS15A",
+    "aliases": [],
+    "name": "ribosomal protein S15a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10396",
+    "symbol": "RPS16",
+    "aliases": [],
+    "name": "ribosomal protein S16",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10397",
+    "symbol": "RPS17",
+    "aliases": [],
+    "name": "ribosomal protein S17",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10401",
+    "symbol": "RPS18",
+    "aliases": [],
+    "name": "ribosomal protein S18",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10402",
+    "symbol": "RPS19",
+    "aliases": [],
+    "name": "ribosomal protein S19",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10404",
+    "symbol": "RPS2",
+    "aliases": [],
+    "name": "ribosomal protein S2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10405",
+    "symbol": "RPS20",
+    "aliases": [],
+    "name": "ribosomal protein S20",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10409",
+    "symbol": "RPS21",
+    "aliases": [],
+    "name": "ribosomal protein S21",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10410",
+    "symbol": "RPS23",
+    "aliases": [],
+    "name": "ribosomal protein S23",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10411",
+    "symbol": "RPS24",
+    "aliases": [],
+    "name": "ribosomal protein S24",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10413",
+    "symbol": "RPS25",
+    "aliases": [],
+    "name": "ribosomal protein S25",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10414",
+    "symbol": "RPS26",
+    "aliases": [],
+    "name": "ribosomal protein S26",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10416",
+    "symbol": "RPS27",
+    "aliases": [],
+    "name": "ribosomal protein S27",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10417",
+    "symbol": "RPS27A",
+    "aliases": [],
+    "name": "ribosomal protein S27a",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10418",
+    "symbol": "RPS28",
+    "aliases": [],
+    "name": "ribosomal protein S28",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10419",
+    "symbol": "RPS29",
+    "aliases": [],
+    "name": "ribosomal protein S29",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10420",
+    "symbol": "RPS3",
+    "aliases": [],
+    "name": "ribosomal protein S3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10421",
+    "symbol": "RPS3A",
+    "aliases": [],
+    "name": "ribosomal protein S3A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10424",
+    "symbol": "RPS4X",
+    "aliases": [],
+    "name": "ribosomal protein S4 X-linked",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10425",
+    "symbol": "RPS4Y1",
+    "aliases": [],
+    "name": "ribosomal protein S4 Y-linked 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10426",
+    "symbol": "RPS5",
+    "aliases": [],
+    "name": "ribosomal protein S5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10429",
+    "symbol": "RPS6",
+    "aliases": [],
+    "name": "ribosomal protein S6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10440",
+    "symbol": "RPS7",
+    "aliases": [],
+    "name": "ribosomal protein S7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10441",
+    "symbol": "RPS8",
+    "aliases": [],
+    "name": "ribosomal protein S8",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10442",
+    "symbol": "RPS9",
+    "aliases": [],
+    "name": "ribosomal protein S9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10717",
+    "symbol": "SEL1L",
+    "aliases": [],
+    "name": "SEL1L adaptor subunit of SYVN1 ubiquitin ligase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10907",
+    "symbol": "SLC11A1",
+    "aliases": [],
+    "name": "solute carrier family 11 member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11047",
+    "symbol": "SLC6A14",
+    "aliases": [],
+    "name": "solute carrier family 6 member 14",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11073",
+    "symbol": "SLC9A3",
+    "aliases": [],
+    "name": "solute carrier family 9 member A3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11433",
+    "symbol": "STX1A",
+    "aliases": [],
+    "name": "syntaxin 1A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11766",
+    "symbol": "TGFB1",
+    "aliases": [
+      "CED",
+      "DPD1",
+      "TGFB",
+      "TGFbeta"
+    ],
+    "name": "transforming growth factor beta 1",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12458",
+    "symbol": "UBA52",
+    "aliases": [],
+    "name": "ubiquitin A-52 residue ribosomal protein fusion product 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12463",
+    "symbol": "UBB",
+    "aliases": [],
+    "name": "ubiquitin B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12468",
+    "symbol": "UBC",
+    "aliases": [],
+    "name": "ubiquitin C",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12666",
+    "symbol": "VCP",
+    "aliases": [],
+    "name": "valosin containing protein",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1356",
+    "symbol": "ERLIN2",
+    "aliases": [],
+    "name": "ER lipid raft associated 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:13631",
+    "symbol": "RPL36",
+    "aliases": [],
+    "name": "ribosomal protein L36",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14236",
+    "symbol": "DERL3",
+    "aliases": [],
+    "name": "derlin 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14469",
+    "symbol": "SLC26A9",
+    "aliases": [],
+    "name": "solute carrier family 26 member 9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:15518",
+    "symbol": "DCTN4",
+    "aliases": [],
+    "name": "dynactin subunit 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16947",
+    "symbol": "ERLIN1",
+    "aliases": [],
+    "name": "ER lipid raft associated 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16994",
+    "symbol": "OS9",
+    "aliases": [],
+    "name": "OS9 endoplasmic reticulum lectin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17943",
+    "symbol": "DERL2",
+    "aliases": [],
+    "name": "derlin 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1815",
+    "symbol": "CEACAM3",
+    "aliases": [],
+    "name": "CEA cell adhesion molecule 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1818",
+    "symbol": "CEACAM6",
+    "aliases": [],
+    "name": "CEA cell adhesion molecule 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1884",
+    "symbol": "CFTR",
+    "aliases": [
+      "ABC35",
+      "ABCC7",
+      "CF",
+      "CFTR/MRP",
+      "MRP7",
+      "TNR-CFTR",
+      "dJ760C5.1"
+    ],
+    "name": "CF transmembrane conductance regulator",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1952",
+    "symbol": "CHRM3",
+    "aliases": [],
+    "name": "cholinergic receptor muscarinic 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2018",
+    "symbol": "CLCA4",
+    "aliases": [],
+    "name": "chloride channel accessory 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20626",
+    "symbol": "CHD7",
+    "aliases": [],
+    "name": "chromodomain helicase DNA binding protein 7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2077",
+    "symbol": "CLN6",
+    "aliases": [],
+    "name": "CLN6 transmembrane ER protein",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:25222",
+    "symbol": "ERLEC1",
+    "aliases": [],
+    "name": "endoplasmic reticulum lectin 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:26783",
+    "symbol": "RNF185",
+    "aliases": [],
+    "name": "ring finger protein 185",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:28454",
+    "symbol": "DERL1",
+    "aliases": [],
+    "name": "derlin 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3009",
+    "symbol": "DPP4",
+    "aliases": [],
+    "name": "dipeptidyl peptidase 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3179",
+    "symbol": "EDNRA",
+    "aliases": [],
+    "name": "endothelin receptor type A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3597",
+    "symbol": "FAU",
+    "aliases": [],
+    "name": "FAU ubiquitin like and ribosomal protein S30 fusion",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4263",
+    "symbol": "GHR",
+    "aliases": [],
+    "name": "growth hormone receptor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4311",
+    "symbol": "GCLC",
+    "aliases": [],
+    "name": "glutamate-cysteine ligase catalytic subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4635",
+    "symbol": "GSTM3",
+    "aliases": [],
+    "name": "glutathione S-transferase mu 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4886",
+    "symbol": "HFE",
+    "aliases": [],
+    "name": "homeostatic iron regulator",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5013",
+    "symbol": "HMOX1",
+    "aliases": [],
+    "name": "heme oxygenase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5439",
+    "symbol": "IFNGR1",
+    "aliases": [],
+    "name": "interferon gamma receptor 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5440",
+    "symbol": "IFNGR2",
+    "aliases": [],
+    "name": "interferon gamma receptor 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6091",
+    "symbol": "INSR",
+    "aliases": [],
+    "name": "insulin receptor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6293",
+    "symbol": "KCNN4",
+    "aliases": [],
+    "name": "potassium calcium-activated channel subfamily N member 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6502",
+    "symbol": "RPSA",
+    "aliases": [],
+    "name": "ribosomal protein SA",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7097",
+    "symbol": "MIF",
+    "aliases": [],
+    "name": "macrophage migration inhibitory factor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8541",
+    "symbol": "P2RY2",
+    "aliases": [],
+    "name": "purinergic receptor P2Y2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8941",
+    "symbol": "SERPINA1",
+    "aliases": [],
+    "name": "serpin family A member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  }
+]

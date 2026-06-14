@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "HGNC:10259",
+    "symbol": "RORB",
+    "aliases": [],
+    "name": "RAR related orphan receptor B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10585",
+    "symbol": "SCN1A",
+    "aliases": [],
+    "name": "sodium voltage-gated channel alpha subunit 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10586",
+    "symbol": "SCN1B",
+    "aliases": [],
+    "name": "sodium voltage-gated channel beta subunit 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10588",
+    "symbol": "SCN2A",
+    "aliases": [],
+    "name": "sodium voltage-gated channel alpha subunit 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10590",
+    "symbol": "SCN3A",
+    "aliases": [],
+    "name": "sodium voltage-gated channel alpha subunit 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10596",
+    "symbol": "SCN8A",
+    "aliases": [],
+    "name": "sodium voltage-gated channel alpha subunit 8",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10597",
+    "symbol": "SCN9A",
+    "aliases": [],
+    "name": "sodium voltage-gated channel alpha subunit 9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10940",
+    "symbol": "SLC1A2",
+    "aliases": [],
+    "name": "solute carrier family 1 member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10982",
+    "symbol": "SLC25A12",
+    "aliases": [],
+    "name": "solute carrier family 25 member 12",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11005",
+    "symbol": "SLC2A1",
+    "aliases": [],
+    "name": "solute carrier family 2 member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11018",
+    "symbol": "SLC32A1",
+    "aliases": [],
+    "name": "solute carrier family 32 member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11042",
+    "symbol": "SLC6A1",
+    "aliases": [],
+    "name": "solute carrier family 6 member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11111",
+    "symbol": "SMC1A",
+    "aliases": [],
+    "name": "structural maintenance of chromosomes 1A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11142",
+    "symbol": "SIK1",
+    "aliases": [],
+    "name": "salt inducible kinase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11273",
+    "symbol": "SPTAN1",
+    "aliases": [],
+    "name": "spectrin alpha, non-erythrocytic 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11411",
+    "symbol": "CDKL5",
+    "aliases": [],
+    "name": "cyclin dependent kinase like 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11444",
+    "symbol": "STXBP1",
+    "aliases": [],
+    "name": "syntaxin binding protein 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11494",
+    "symbol": "SYN1",
+    "aliases": [],
+    "name": "synapsin I",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11497",
+    "symbol": "SYNGAP1",
+    "aliases": [],
+    "name": "synaptic Ras GTPase activating protein 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11503",
+    "symbol": "SYNJ1",
+    "aliases": [],
+    "name": "synaptojanin 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11968",
+    "symbol": "CNPY3",
+    "aliases": [],
+    "name": "canopy FGF signaling regulator 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12525",
+    "symbol": "UGDH",
+    "aliases": [],
+    "name": "UDP-glucose 6-dehydrogenase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12799",
+    "symbol": "WWOX",
+    "aliases": [],
+    "name": "WW domain containing oxidoreductase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12852",
+    "symbol": "YWHAG",
+    "aliases": [],
+    "name": "tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1362",
+    "symbol": "FRRS1L",
+    "aliases": [],
+    "name": "ferric chelate reductase 1 like",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:13760",
+    "symbol": "CYFIP2",
+    "aliases": [],
+    "name": "cytoplasmic FMR1 interacting protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:13818",
+    "symbol": "SLC12A5",
+    "aliases": [],
+    "name": "solute carrier family 12 member 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1388",
+    "symbol": "CACNA1A",
+    "aliases": [],
+    "name": "calcium voltage-gated channel subunit alpha1 A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1392",
+    "symbol": "CACNA1E",
+    "aliases": [],
+    "name": "calcium voltage-gated channel subunit alpha1 E",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1395",
+    "symbol": "CACNA1H",
+    "aliases": [],
+    "name": "calcium voltage-gated channel subunit alpha1 H",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1399",
+    "symbol": "CACNA2D1",
+    "aliases": [],
+    "name": "calcium voltage-gated channel auxiliary subunit alpha2delta 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1400",
+    "symbol": "CACNA2D2",
+    "aliases": [],
+    "name": "calcium voltage-gated channel auxiliary subunit alpha2delta 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14124",
+    "symbol": "NPRL3",
+    "aliases": [],
+    "name": "NPR3 like, GATOR1 complex subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14135",
+    "symbol": "PIGQ",
+    "aliases": [],
+    "name": "phosphatidylinositol glycan anchor biosynthesis class Q",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14270",
+    "symbol": "PCDH19",
+    "aliases": [],
+    "name": "protocadherin 19",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14561",
+    "symbol": "ARHGEF9",
+    "aliases": [],
+    "name": "Cdc42 guanine nucleotide exchange factor 9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14881",
+    "symbol": "ZEB2",
+    "aliases": [],
+    "name": "zinc finger E-box binding homeobox 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:15917",
+    "symbol": "PLCB1",
+    "aliases": [],
+    "name": "phospholipase C beta 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:160",
+    "symbol": "ACTL6B",
+    "aliases": [],
+    "name": "actin like 6B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16406",
+    "symbol": "EFHC1",
+    "aliases": [],
+    "name": "EF-hand domain containing 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1665",
+    "symbol": "SCARB2",
+    "aliases": [],
+    "name": "scavenger receptor class B member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17019",
+    "symbol": "PRICKLE1",
+    "aliases": [],
+    "name": "prickle planar cell polarity protein 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18060",
+    "symbol": "ARX",
+    "aliases": [],
+    "name": "aristaless related homeobox",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18423",
+    "symbol": "DEPDC5",
+    "aliases": [],
+    "name": "DEP domain containing 5, GATOR1 subcomplex subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18756",
+    "symbol": "RHOBTB2",
+    "aliases": [],
+    "name": "Rho related BTB domain containing 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18865",
+    "symbol": "KCNT1",
+    "aliases": [],
+    "name": "potassium sodium-activated channel subfamily T member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1917",
+    "symbol": "CHD2",
+    "aliases": [],
+    "name": "chromodomain helicase DNA binding protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:19190",
+    "symbol": "DOCK7",
+    "aliases": [],
+    "name": "dedicator of cytokinesis 7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:19338",
+    "symbol": "CDK19",
+    "aliases": [],
+    "name": "cyclin dependent kinase 19",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:19347",
+    "symbol": "CUX2",
+    "aliases": [],
+    "name": "cut like homeobox 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1958",
+    "symbol": "CHRNA4",
+    "aliases": [],
+    "name": "cholinergic receptor nicotinic alpha 4 subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1962",
+    "symbol": "CHRNB2",
+    "aliases": [],
+    "name": "cholinergic receptor nicotinic beta 2 subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:19954",
+    "symbol": "SLC25A22",
+    "aliases": [],
+    "name": "solute carrier family 25 member 22",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20",
+    "symbol": "AARS1",
+    "aliases": [],
+    "name": "alanyl-tRNA synthetase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:201",
+    "symbol": "ADAM22",
+    "aliases": [],
+    "name": "ADAM metallopeptidase domain 22",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20566",
+    "symbol": "SV2A",
+    "aliases": [],
+    "name": "synaptic vesicle glycoprotein 2A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2079",
+    "symbol": "CLN8",
+    "aliases": [],
+    "name": "CLN8 transmembrane ER and ERGIC protein",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20967",
+    "symbol": "NACC1",
+    "aliases": [],
+    "name": "nucleus accumbens associated 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21033",
+    "symbol": "HACE1",
+    "aliases": [],
+    "name": "HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21576",
+    "symbol": "NHLRC1",
+    "aliases": [],
+    "name": "NHL repeat containing E3 ubiquitin protein ligase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21701",
+    "symbol": "BRAT1",
+    "aliases": [],
+    "name": "BRCA1 associated ATM activator 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21957",
+    "symbol": "KCTD7",
+    "aliases": [],
+    "name": "potassium channel tetramerization domain containing 7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:23089",
+    "symbol": "SLC13A5",
+    "aliases": [],
+    "name": "solute carrier family 13 member 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:23230",
+    "symbol": "UBA5",
+    "aliases": [],
+    "name": "ubiquitin like modifier activating enzyme 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:23794",
+    "symbol": "PACS2",
+    "aliases": [],
+    "name": "phosphofurin acidic cluster sorting protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:24281",
+    "symbol": "OTUD6B",
+    "aliases": [],
+    "name": "OTU deubiquitinase 6B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2482",
+    "symbol": "CSTB",
+    "aliases": [],
+    "name": "cystatin B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:24969",
+    "symbol": "NPRL2",
+    "aliases": [],
+    "name": "NPR2 like, GATOR1 complex subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2550",
+    "symbol": "CELF2",
+    "aliases": [],
+    "name": "CUGBP Elav-like family member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29040",
+    "symbol": "SZT2",
+    "aliases": [],
+    "name": "SZT2 subunit of KICSTOR complex",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29046",
+    "symbol": "FBXO28",
+    "aliases": [],
+    "name": "F-box protein 28",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29203",
+    "symbol": "TBC1D24",
+    "aliases": [],
+    "name": "TBC1 domain family member 24",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2972",
+    "symbol": "DNM1",
+    "aliases": [],
+    "name": "dynamin 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:30172",
+    "symbol": "STRADA",
+    "aliases": [],
+    "name": "STE20 related adaptor alpha",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:30260",
+    "symbol": "PNPO",
+    "aliases": [],
+    "name": "pyridoxamine 5'-phosphate oxidase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:30500",
+    "symbol": "PRRT2",
+    "aliases": [],
+    "name": "proline rich transmembrane protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:30881",
+    "symbol": "ALG13",
+    "aliases": [],
+    "name": "ALG13 UDP-N-acetylglucosaminyltransferase subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3192",
+    "symbol": "EEF1A2",
+    "aliases": [],
+    "name": "eukaryotic translation elongation factor 1 alpha 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3413",
+    "symbol": "EPM2A",
+    "aliases": [],
+    "name": "EPM2A glucan phosphatase, laforin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3670",
+    "symbol": "FGF13",
+    "aliases": [],
+    "name": "fibroblast growth factor 13",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4075",
+    "symbol": "GABRA1",
+    "aliases": [],
+    "name": "gamma-aminobutyric acid type A receptor subunit alpha1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4076",
+    "symbol": "GABRA2",
+    "aliases": [],
+    "name": "gamma-aminobutyric acid type A receptor subunit alpha2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4077",
+    "symbol": "GABRA3",
+    "aliases": [],
+    "name": "gamma-aminobutyric acid type A receptor subunit alpha3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4079",
+    "symbol": "GABRA5",
+    "aliases": [],
+    "name": "gamma-aminobutyric acid type A receptor subunit alpha5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4081",
+    "symbol": "GABRB1",
+    "aliases": [],
+    "name": "gamma-aminobutyric acid type A receptor subunit beta1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4082",
+    "symbol": "GABRB2",
+    "aliases": [],
+    "name": "gamma-aminobutyric acid type A receptor subunit beta2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4083",
+    "symbol": "GABRB3",
+    "aliases": [],
+    "name": "gamma-aminobutyric acid type A receptor subunit beta3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4087",
+    "symbol": "GABRG2",
+    "aliases": [],
+    "name": "gamma-aminobutyric acid type A receptor subunit gamma2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4389",
+    "symbol": "GNAO1",
+    "aliases": [],
+    "name": "G protein subunit alpha o1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4431",
+    "symbol": "GOSR2",
+    "aliases": [],
+    "name": "golgi SNAP receptor complex member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4507",
+    "symbol": "GABBR2",
+    "aliases": [],
+    "name": "gamma-aminobutyric acid type B receptor subunit 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4584",
+    "symbol": "GRIN1",
+    "aliases": [],
+    "name": "glutamate ionotropic receptor NMDA type subunit 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4585",
+    "symbol": "GRIN2A",
+    "aliases": [],
+    "name": "glutamate ionotropic receptor NMDA type subunit 2A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4586",
+    "symbol": "GRIN2B",
+    "aliases": [],
+    "name": "glutamate ionotropic receptor NMDA type subunit 2B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4588",
+    "symbol": "GRIN2D",
+    "aliases": [],
+    "name": "glutamate ionotropic receptor NMDA type subunit 2D",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4845",
+    "symbol": "HCN1",
+    "aliases": [],
+    "name": "hyperpolarization activated cyclic nucleotide gated potassium channel 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5048",
+    "symbol": "HNRNPU",
+    "aliases": [],
+    "name": "heterogeneous nuclear ribonucleoprotein U",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:567",
+    "symbol": "AP3B2",
+    "aliases": [],
+    "name": "adaptor related protein complex 3 subunit beta 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6176",
+    "symbol": "ITPA",
+    "aliases": [],
+    "name": "inosine triphosphatase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6220",
+    "symbol": "KCNA2",
+    "aliases": [],
+    "name": "potassium voltage-gated channel subfamily A member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6231",
+    "symbol": "KCNB1",
+    "aliases": [],
+    "name": "potassium voltage-gated channel subfamily B member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6234",
+    "symbol": "KCNC2",
+    "aliases": [],
+    "name": "potassium voltage-gated channel subfamily C member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6254",
+    "symbol": "KCNH5",
+    "aliases": [],
+    "name": "potassium voltage-gated channel subfamily H member 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6284",
+    "symbol": "KCNMA1",
+    "aliases": [],
+    "name": "potassium calcium-activated channel subfamily M alpha 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6296",
+    "symbol": "KCNQ2",
+    "aliases": [],
+    "name": "potassium voltage-gated channel subfamily Q member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6297",
+    "symbol": "KCNQ3",
+    "aliases": [],
+    "name": "potassium voltage-gated channel subfamily Q member 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6572",
+    "symbol": "LGI1",
+    "aliases": [],
+    "name": "leucine rich glioma inactivated 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6971",
+    "symbol": "MDH2",
+    "aliases": [],
+    "name": "malate dehydrogenase 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6990",
+    "symbol": "MECP2",
+    "aliases": [],
+    "name": "methyl-CpG binding protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:735",
+    "symbol": "ASAH1",
+    "aliases": [],
+    "name": "N-acylsphingosine amidohydrolase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:800",
+    "symbol": "ATP1A2",
+    "aliases": [],
+    "name": "ATPase Na+/K+ transporting subunit alpha 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:801",
+    "symbol": "ATP1A3",
+    "aliases": [],
+    "name": "ATPase Na+/K+ transporting subunit alpha 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:851",
+    "symbol": "ATP6V1A",
+    "aliases": [],
+    "name": "ATPase H+ transporting V1 subunit A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:877",
+    "symbol": "ALDH7A1",
+    "aliases": [],
+    "name": "aldehyde dehydrogenase 7 family member A1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8943",
+    "symbol": "SERPINI1",
+    "aliases": [],
+    "name": "serpin family I member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8957",
+    "symbol": "PIGA",
+    "aliases": [],
+    "name": "phosphatidylinositol glycan anchor biosynthesis class A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9154",
+    "symbol": "PNKP",
+    "aliases": [],
+    "name": "polynucleotide kinase 3'-phosphatase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9314",
+    "symbol": "PPP3CA",
+    "aliases": [],
+    "name": "protein phosphatase 3 catalytic subunit alpha",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9457",
+    "symbol": "PLPBP",
+    "aliases": [],
+    "name": "pyridoxal phosphate binding protein",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9957",
+    "symbol": "RELN",
+    "aliases": [],
+    "name": "reelin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "amyotrophic-lateral-sclerosis-top120-v0.1.1-preview",
+  "release_generated_at": "2026-06-14T00:00:00Z",
+  "release_status": "draft",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 37,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 428,
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3683,
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3297,
+      "sha256": "1c0891b73eef2535532c68ca2ddf623d73468a402a7f1327d453d548ed5595f6"
+    },
+    {
+      "path": "data/source_snapshots/clinvar-gene-condition-amyotrophic-lateral-sclerosis-paper120-2026-06-14/manifest.json",
+      "bytes": 620,
+      "sha256": "e60ee2d733f9997998c937ca1d7faa6a926b74dcf613645afa0620c33177d0d5"
+    },
+    {
+      "path": "data/source_snapshots/clinvar-gene-condition-amyotrophic-lateral-sclerosis-paper120-2026-06-14/records.jsonl",
+      "bytes": 5406,
+      "sha256": "8ef81128a823964364be42ba6cfd5f303997a56de006004f8c4fe80a47e1d8c4"
+    },
+    {
+      "path": "data/source_snapshots/opentargets-amyotrophic-lateral-sclerosis-associated-targets-2026-06-14-paper120/manifest.json",
+      "bytes": 663,
+      "sha256": "187a895b8ab0a26c443f6b1a5a8c92bf839201e0a71ba71f2eb21357f7c97ae7"
+    },
+    {
+      "path": "data/source_snapshots/opentargets-amyotrophic-lateral-sclerosis-associated-targets-2026-06-14-paper120/records.jsonl",
+      "bytes": 62506,
+      "sha256": "e293e947b78d1771a417deeab554f1d7e992ac43c69a1714948cd9515887fcda"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 11233,
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 1287,
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/README.md",
+      "bytes": 543,
+      "sha256": "cdd2d10b96f71db60824b54b80d227adb378debfcee24ed52c5b3f840e242b6f"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/associations.json",
+      "bytes": 138159,
+      "sha256": "0a29df439c9732599a4da6854ae8dd8467005b5bbb0525a644cdae575c8b7842"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/changelog.json",
+      "bytes": 1641,
+      "sha256": "b29b2b460008deb209c05048225b47f78cd8dd89b593a15d6e5ee0612a341ce1"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/diseases.json",
+      "bytes": 158,
+      "sha256": "cae5793d5f7e4f93358b42eb384338ee2d6484710321e215bb55805baff19d3d"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/evidence_rows.jsonl",
+      "bytes": 120348,
+      "sha256": "e355151d84a8ab7c94b64a1e9d9dae2855bba2a0c22610cea3cc5b092a790572"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/genes.json",
+      "bytes": 25723,
+      "sha256": "5477924122a5126c9d11052b3ac3c834859a89bbc29f40cac3b627174417224b"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/release.json",
+      "bytes": 607,
+      "sha256": "2c4cf394d774a2b282353e4c625965272e2dc4e9925f4943048328dcedbccfef"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/review_artifacts.jsonl",
+      "bytes": 138816,
+      "sha256": "5c17d8c669d95dcb9d7c71ac9d2b334b33e9552ebaaaf6e376b68539cdcac293"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/source_snapshots.json",
+      "bytes": 2134,
+      "sha256": "27bb4acc8f35fd714c36c9109e2e1ef54a4b0703308ce4f69887ea4f85cedfbb"
+    },
+    {
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview/sources.json",
+      "bytes": 6915,
+      "sha256": "99ba10017604145374dcb4beb1bb19151a8937d2d60014ee43f2e6b874af2e2c"
+    },
+    {
+      "path": "schemas/README.md",
+      "bytes": 825,
+      "sha256": "d306274cb3d33c16d681f4748095a391e3a1c5f863bc001480756c04167770ba"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/manifest.json",
+      "bytes": 4736,
+      "sha256": "7520de98c03c1c77fbfc02f4e633bdd15c09962232f7ad54bf1864303a5d3db3"
+    },
+    {
+      "path": "schemas/public-export-gate-decision.schema.json",
+      "bytes": 1626,
+      "sha256": "8945fb7a00247b5f18eac4836b7192cf30584e65ab8cfd4b4e7c79d74ad86ab1"
+    },
+    {
+      "path": "schemas/public-export-gate.schema.json",
+      "bytes": 5704,
+      "sha256": "d3d8ca0bce8ab8f70939c8c4719f4a3e57817266be2604124e3e6b979316eb85"
+    },
+    {
+      "path": "schemas/public-source-gate-decision.schema.json",
+      "bytes": 1686,
+      "sha256": "4b331d60eb003dff2c9a3e566b90a6822f3c5e83f54b85a0e3fd1baf30cd0f00"
+    },
+    {
+      "path": "schemas/public-source-gate.schema.json",
+      "bytes": 7186,
+      "sha256": "77ce9d3ca75c9544e0eccea770695632164b8bbeb7693a595189f218446a5be4"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 6547,
+      "sha256": "a258e70d38c194387297820b7727bef6d26119c66541c6732af1cc6195fc15f1"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 1340,
+      "sha256": "b6c9a1ba6045c5d6ccd61eecd0b735a36bba1f39f0983dff8e4e5a471c9e7ef9"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 2378,
+      "sha256": "95e713c81cfb67241a03eb85323c22546c63afb83e96a72b4c41fb2250a10777"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-amyotrophic-lateral-sclerosis-top120-v0.1.1-preview.zip",
+      "bytes": 69753,
+      "sha256": "9ed7532be8b11eb3e63a2dcaa7d35d34799a3a473bf57cd2cc4eb1082cb07c18"
+    }
+  ]
+}

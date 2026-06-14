@@ -1,0 +1,1313 @@
+[
+  {
+    "id": "HGNC:10560",
+    "symbol": "ATXN7",
+    "aliases": [],
+    "name": "ataxin 7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10856",
+    "symbol": "SI",
+    "aliases": [],
+    "name": "sucrase-isomaltase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10967",
+    "symbol": "SLC22A3",
+    "aliases": [],
+    "name": "solute carrier family 22 member 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11006",
+    "symbol": "SLC2A2",
+    "aliases": [
+      "GLUT-2",
+      "GLUT2"
+    ],
+    "name": "solute carrier family 2 member 2",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11036",
+    "symbol": "SLC5A1",
+    "aliases": [],
+    "name": "solute carrier family 5 member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11037",
+    "symbol": "SLC5A2",
+    "aliases": [],
+    "name": "solute carrier family 5 member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11621",
+    "symbol": "HNF1A",
+    "aliases": [
+      "HNF1",
+      "HNF1\u03b1",
+      "LFB1",
+      "MODY3",
+      "TCF1"
+    ],
+    "name": "HNF1 homeobox A",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11630",
+    "symbol": "HNF1B",
+    "aliases": [
+      "HNF1beta",
+      "HNF1\u03b2",
+      "LFB3",
+      "MODY5",
+      "TCF2",
+      "VHNF1"
+    ],
+    "name": "HNF1 homeobox B",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11641",
+    "symbol": "TCF7L2",
+    "aliases": [
+      "TCF-4",
+      "TCF4"
+    ],
+    "name": "transcription factor 7 like 2",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11743",
+    "symbol": "TFAP2B",
+    "aliases": [],
+    "name": "transcription factor AP-2 beta",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11837",
+    "symbol": "TLE1",
+    "aliases": [],
+    "name": "TLE family member 1, transcriptional corepressor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11855",
+    "symbol": "TSPAN8",
+    "aliases": [],
+    "name": "tetraspanin 8",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12478",
+    "symbol": "UBE2E2",
+    "aliases": [],
+    "name": "ubiquitin conjugating enzyme E2 E2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12762",
+    "symbol": "WFS1",
+    "aliases": [
+      "DFNA14",
+      "DFNA38",
+      "DFNA6",
+      "DIDMOAD",
+      "WFS"
+    ],
+    "name": "wolframin ER transmembrane glycoprotein",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:13806",
+    "symbol": "NEUROG3",
+    "aliases": [],
+    "name": "neurogenin 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:15492",
+    "symbol": "ANKH",
+    "aliases": [],
+    "name": "ANKH inorganic pyrophosphate transport regulator",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1583",
+    "symbol": "CCND2",
+    "aliases": [],
+    "name": "cyclin D2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17194",
+    "symbol": "NDUFA13",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A13",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17722",
+    "symbol": "SPRED2",
+    "aliases": [],
+    "name": "sprouty related EVH1 domain containing 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18590",
+    "symbol": "PNPLA3",
+    "aliases": [],
+    "name": "patatin like domain 3, 1-acylglycerol-3-phosphate O-acyltransferase ",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18610",
+    "symbol": "KSR2",
+    "aliases": [],
+    "name": "kinase suppressor of ras 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18828",
+    "symbol": "NDUFAF1",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase complex assembly factor 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20303",
+    "symbol": "SLC30A8",
+    "aliases": [
+      "ZNT8",
+      "ZnT-8"
+    ],
+    "name": "solute carrier family 30 member 8",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20371",
+    "symbol": "NDUFA11",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A11",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20372",
+    "symbol": "NDUFB11",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B11",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21034",
+    "symbol": "NDUFAF4",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase complex assembly factor 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21050",
+    "symbol": "CDKAL1",
+    "aliases": [],
+    "name": "CDKAL1 threonylcarbamoyladenosine tRNA methylthiotransferase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21478",
+    "symbol": "RFX6",
+    "aliases": [],
+    "name": "regulatory factor X6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:23025",
+    "symbol": "KLF14",
+    "aliases": [],
+    "name": "KLF transcription factor 14",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:23987",
+    "symbol": "NDUFA12",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A12",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2521",
+    "symbol": "CTRB1",
+    "aliases": [],
+    "name": "chymotrypsinogen B1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2522",
+    "symbol": "CTRB2",
+    "aliases": [],
+    "name": "chymotrypsinogen B2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:28086",
+    "symbol": "NDUFAF2",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase complex assembly factor 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:28101",
+    "symbol": "MGAM2",
+    "aliases": [],
+    "name": "maltase-glucoamylase 2 (putative)",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2850",
+    "symbol": "DGKB",
+    "aliases": [],
+    "name": "diacylglycerol kinase beta",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:28510",
+    "symbol": "GLIS3",
+    "aliases": [],
+    "name": "GLIS family zinc finger 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:28867",
+    "symbol": "IGF2BP2",
+    "aliases": [
+      "IMP-2",
+      "P62",
+      "p62"
+    ],
+    "name": "insulin like growth factor 2 mRNA binding protein 2",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:28917",
+    "symbol": "JAZF1",
+    "aliases": [],
+    "name": "JAZF zinc finger 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29005",
+    "symbol": "TRIM66",
+    "aliases": [],
+    "name": "tripartite motif containing 66",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29836",
+    "symbol": "COXFA4L2",
+    "aliases": [],
+    "name": "cytochrome c oxidase hypoxia associated subunit FA4L2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29918",
+    "symbol": "NDUFAF3",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase complex assembly factor 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3009",
+    "symbol": "DPP4",
+    "aliases": [],
+    "name": "dipeptidyl peptidase 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3356",
+    "symbol": "ENPP1",
+    "aliases": [
+      "M6S1",
+      "NPPS",
+      "PC-1",
+      "PCA1",
+      "PDNP1"
+    ],
+    "name": "ectonucleotide pyrophosphatase/phosphodiesterase 1",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:336",
+    "symbol": "AGTR1",
+    "aliases": [],
+    "name": "angiotensin II receptor type 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3488",
+    "symbol": "ETS1",
+    "aliases": [],
+    "name": "ETS proto-oncogene 1, transcription factor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3690",
+    "symbol": "FGFR3",
+    "aliases": [],
+    "name": "fibroblast growth factor receptor 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3691",
+    "symbol": "FGFR4",
+    "aliases": [],
+    "name": "fibroblast growth factor receptor 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:392",
+    "symbol": "AKT2",
+    "aliases": [
+      "PKB\u03b2"
+    ],
+    "name": "AKT serine/threonine kinase 2",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4065",
+    "symbol": "GAA",
+    "aliases": [],
+    "name": "alpha glucosidase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4195",
+    "symbol": "GCK",
+    "aliases": [
+      "HK4",
+      "HKIV",
+      "MODY2"
+    ],
+    "name": "glucokinase",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4271",
+    "symbol": "GIPR",
+    "aliases": [],
+    "name": "gastric inhibitory polypeptide receptor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4324",
+    "symbol": "GLP1R",
+    "aliases": [],
+    "name": "glucagon like peptide 1 receptor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4456",
+    "symbol": "GPD2",
+    "aliases": [],
+    "name": "glycerol-3-phosphate dehydrogenase 2",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4565",
+    "symbol": "GRB14",
+    "aliases": [],
+    "name": "growth factor receptor bound protein 14",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4605",
+    "symbol": "GRP",
+    "aliases": [],
+    "name": "gastrin releasing peptide",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:477",
+    "symbol": "AMY2A",
+    "aliases": [],
+    "name": "amylase alpha 2A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5006",
+    "symbol": "HMGCR",
+    "aliases": [],
+    "name": "3-hydroxy-3-methylglutaryl-CoA reductase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5009",
+    "symbol": "HMGA2",
+    "aliases": [],
+    "name": "high mobility group AT-hook 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5024",
+    "symbol": "HNF4A",
+    "aliases": [
+      "HNF4",
+      "MODY",
+      "MODY1",
+      "NR2A1",
+      "TCF14"
+    ],
+    "name": "hepatocyte nuclear factor 4 alpha",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:59",
+    "symbol": "ABCC8",
+    "aliases": [
+      "ABC36",
+      "HHF1",
+      "HI",
+      "HRINS",
+      "MRP8",
+      "PHHI",
+      "SUR",
+      "SUR1",
+      "TNDM2"
+    ],
+    "name": "ATP binding cassette subfamily C member 8",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6091",
+    "symbol": "INSR",
+    "aliases": [],
+    "name": "insulin receptor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6107",
+    "symbol": "PDX1",
+    "aliases": [
+      "GSF",
+      "IDX-1",
+      "IPF1",
+      "IUF-1",
+      "MODY4",
+      "PDX-1",
+      "STF-1"
+    ],
+    "name": "pancreatic and duodenal homeobox 1",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6125",
+    "symbol": "IRS1",
+    "aliases": [
+      "HIRS-1"
+    ],
+    "name": "insulin receptor substrate 1",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:613",
+    "symbol": "APOE",
+    "aliases": [],
+    "name": "apolipoprotein E",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6257",
+    "symbol": "KCNJ11",
+    "aliases": [
+      "BIR",
+      "Kir6.2"
+    ],
+    "name": "potassium inwardly rectifying channel subfamily J member 11",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6294",
+    "symbol": "KCNQ1",
+    "aliases": [],
+    "name": "potassium voltage-gated channel subfamily Q member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6344",
+    "symbol": "KL",
+    "aliases": [],
+    "name": "klotho",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6619",
+    "symbol": "LIPC",
+    "aliases": [
+      "HL",
+      "HTGL"
+    ],
+    "name": "lipase C, hepatic type",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6677",
+    "symbol": "LPL",
+    "aliases": [],
+    "name": "lipoprotein lipase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7043",
+    "symbol": "MGAM",
+    "aliases": [],
+    "name": "maltase-glucoamylase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7455",
+    "symbol": "MT-ND1",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7456",
+    "symbol": "MT-ND2",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7458",
+    "symbol": "MT-ND3",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7459",
+    "symbol": "MT-ND4",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7460",
+    "symbol": "MT-ND4L",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7461",
+    "symbol": "MT-ND5",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7462",
+    "symbol": "MT-ND6",
+    "aliases": [],
+    "name": "mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7464",
+    "symbol": "MTNR1B",
+    "aliases": [],
+    "name": "melatonin receptor 1B",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7683",
+    "symbol": "NDUFA1",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7684",
+    "symbol": "NDUFA10",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A10",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7685",
+    "symbol": "NDUFA2",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7686",
+    "symbol": "NDUFA3",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7687",
+    "symbol": "COXFA4",
+    "aliases": [],
+    "name": "cytochrome c oxidase associated subunit FA4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7688",
+    "symbol": "NDUFA5",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7690",
+    "symbol": "NDUFA6",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7691",
+    "symbol": "NDUFA7",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7692",
+    "symbol": "NDUFA8",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A8",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7693",
+    "symbol": "NDUFA9",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit A9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7694",
+    "symbol": "NDUFAB1",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit AB1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7695",
+    "symbol": "NDUFB1",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7696",
+    "symbol": "NDUFB10",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B10",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7697",
+    "symbol": "NDUFB2",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7698",
+    "symbol": "NDUFB3",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7699",
+    "symbol": "NDUFB4",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7700",
+    "symbol": "NDUFB5",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7701",
+    "symbol": "NDUFB6",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7702",
+    "symbol": "NDUFB7",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7703",
+    "symbol": "NDUFB8",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B8",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7704",
+    "symbol": "NDUFB9",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit B9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7705",
+    "symbol": "NDUFC1",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit C1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7706",
+    "symbol": "NDUFC2",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit C2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7707",
+    "symbol": "NDUFS1",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase core subunit S1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7708",
+    "symbol": "NDUFS2",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase core subunit S2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7710",
+    "symbol": "NDUFS3",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase core subunit S3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7711",
+    "symbol": "NDUFS4",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit S4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7712",
+    "symbol": "NDUFS5",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit S5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7713",
+    "symbol": "NDUFS6",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit S6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7714",
+    "symbol": "NDUFS7",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase core subunit S7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7715",
+    "symbol": "NDUFS8",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase core subunit S8",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7716",
+    "symbol": "NDUFV1",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase core subunit V1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7717",
+    "symbol": "NDUFV2",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase core subunit V2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7719",
+    "symbol": "NDUFV3",
+    "aliases": [],
+    "name": "NADH:ubiquinone oxidoreductase subunit V3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7762",
+    "symbol": "NEUROD1",
+    "aliases": [
+      "BETA2",
+      "BHF-1",
+      "MODY6",
+      "NEUROD",
+      "NeuroD",
+      "bHLHa3"
+    ],
+    "name": "neuronal differentiation 1",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7979",
+    "symbol": "NR3C2",
+    "aliases": [],
+    "name": "nuclear receptor subfamily 3 group C member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8596",
+    "symbol": "PAM",
+    "aliases": [],
+    "name": "peptidylglycine alpha-amidating monooxygenase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8618",
+    "symbol": "PAX4",
+    "aliases": [
+      "MODY9"
+    ],
+    "name": "paired box 4",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9232",
+    "symbol": "PPARA",
+    "aliases": [],
+    "name": "peroxisome proliferator activated receptor alpha",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9236",
+    "symbol": "PPARG",
+    "aliases": [
+      "NR1C3",
+      "PPARG1",
+      "PPARG2",
+      "PPARgamma"
+    ],
+    "name": "peroxisome proliferator activated receptor gamma",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9459",
+    "symbol": "PROX1",
+    "aliases": [],
+    "name": "prospero homeobox 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9878",
+    "symbol": "RASGRP1",
+    "aliases": [],
+    "name": "RAS guanyl releasing protein 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  }
+]

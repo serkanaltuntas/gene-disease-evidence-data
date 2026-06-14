@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:opentargets:dilated-cardiomyopathy-associated-targets:2026-06-14:paper120",
+  "source_ids": [
+    "source:opentargets"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aopentargets%3Adilated-cardiomyopathy-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "api-v4-graphql-2026-06-14-paper120",
+  "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Dilated cardiomyopathy top-120 HGNC-resolved targets from a top-150 fetch window).",
+  "record_count": 120,
+  "sha256": "c9298ca3b2fe482b3065f38de618a1e1ab401cc6f8e601fc0ea7d4b15344fde1"
+}

@@ -1,0 +1,205 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "schizophrenia-top120-v0.1.1-preview",
+  "release_generated_at": "2026-06-14T00:00:00Z",
+  "release_status": "draft",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 37,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 428,
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3683,
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3297,
+      "sha256": "1c0891b73eef2535532c68ca2ddf623d73468a402a7f1327d453d548ed5595f6"
+    },
+    {
+      "path": "data/source_snapshots/clinvar-gene-condition-schizophrenia-paper120-2026-06-14/manifest.json",
+      "bytes": 571,
+      "sha256": "f068c7b42be36fbc27cf3844bd19c2aa561c29ad592de66d444d76b0c2bfa67b"
+    },
+    {
+      "path": "data/source_snapshots/clinvar-gene-condition-schizophrenia-paper120-2026-06-14/records.jsonl",
+      "bytes": 1854,
+      "sha256": "a4a767adc4762d242d524ca76462d86927b3f713d9b331fbd782aebe7f9f5941"
+    },
+    {
+      "path": "data/source_snapshots/opentargets-schizophrenia-associated-targets-2026-06-14-paper120/manifest.json",
+      "bytes": 615,
+      "sha256": "c6cac1c18863b1b442d946f4604e27c294884fa15c3eaad791362f5796f4a980"
+    },
+    {
+      "path": "data/source_snapshots/opentargets-schizophrenia-associated-targets-2026-06-14-paper120/records.jsonl",
+      "bytes": 56028,
+      "sha256": "f339ec6110192f02296a0702bdeea37dcabc63f13625bac189ecc483aa8cd986"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 11233,
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 1287,
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/README.md",
+      "bytes": 527,
+      "sha256": "57858c5fee0e1f3c9e0904c67ba0b0966f2b80b7e58228fd493e108617f25701"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/associations.json",
+      "bytes": 136483,
+      "sha256": "6629c8a53bb4e188915c6dc9364bebc5afab28c39ae90fd3337c1dc4bcdf65ed"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/changelog.json",
+      "bytes": 1528,
+      "sha256": "4c77e2c1b266ecc1168c354cb1f595cb8aecbef4af8c7bfea2c45e03d22fe8bf"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/diseases.json",
+      "bytes": 142,
+      "sha256": "94a0101eedef8b378c34dafc04599d2888009136db6da313d17d34eb350517dd"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/evidence_rows.jsonl",
+      "bytes": 105438,
+      "sha256": "007f2bd50fae210e68749fd135e18907e92236bd7016f3f8294b1e5da06841d0"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/genes.json",
+      "bytes": 24762,
+      "sha256": "9c29304b70b36f695d6e88c075e432a09a3cbefac25e7355cbda5e82ec8ef90f"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/release.json",
+      "bytes": 591,
+      "sha256": "b74a9adac05591fd663b47a9bfc4258cdec9565364a8d8e45141d0ac938ebd88"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/review_artifacts.jsonl",
+      "bytes": 138976,
+      "sha256": "647136c100b1d010eafad8b9eb296369859d71f7b76b3dbdce3210741ef08211"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/source_snapshots.json",
+      "bytes": 2037,
+      "sha256": "61dc20769d684fd456cb88e96d8f2c5f78ab64dca207f1792c5e21eeee57676b"
+    },
+    {
+      "path": "releases/schizophrenia-top120-v0.1.1-preview/sources.json",
+      "bytes": 6899,
+      "sha256": "c9326f6886a76fb05d7a105a1be0c74f5b757034d27537553cd214b450d9b7de"
+    },
+    {
+      "path": "schemas/README.md",
+      "bytes": 825,
+      "sha256": "d306274cb3d33c16d681f4748095a391e3a1c5f863bc001480756c04167770ba"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/manifest.json",
+      "bytes": 4736,
+      "sha256": "7520de98c03c1c77fbfc02f4e633bdd15c09962232f7ad54bf1864303a5d3db3"
+    },
+    {
+      "path": "schemas/public-export-gate-decision.schema.json",
+      "bytes": 1626,
+      "sha256": "8945fb7a00247b5f18eac4836b7192cf30584e65ab8cfd4b4e7c79d74ad86ab1"
+    },
+    {
+      "path": "schemas/public-export-gate.schema.json",
+      "bytes": 5704,
+      "sha256": "d3d8ca0bce8ab8f70939c8c4719f4a3e57817266be2604124e3e6b979316eb85"
+    },
+    {
+      "path": "schemas/public-source-gate-decision.schema.json",
+      "bytes": 1686,
+      "sha256": "4b331d60eb003dff2c9a3e566b90a6822f3c5e83f54b85a0e3fd1baf30cd0f00"
+    },
+    {
+      "path": "schemas/public-source-gate.schema.json",
+      "bytes": 7186,
+      "sha256": "77ce9d3ca75c9544e0eccea770695632164b8bbeb7693a595189f218446a5be4"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 6547,
+      "sha256": "a258e70d38c194387297820b7727bef6d26119c66541c6732af1cc6195fc15f1"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 1340,
+      "sha256": "b6c9a1ba6045c5d6ccd61eecd0b735a36bba1f39f0983dff8e4e5a471c9e7ef9"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 2378,
+      "sha256": "95e713c81cfb67241a03eb85323c22546c63afb83e96a72b4c41fb2250a10777"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-schizophrenia-top120-v0.1.1-preview.zip",
+      "bytes": 67149,
+      "sha256": "19262790f2b76c6ea32f8dc39afcf2fc45bfd85d0da376523bb0592ac489afc0"
+    }
+  ]
+}

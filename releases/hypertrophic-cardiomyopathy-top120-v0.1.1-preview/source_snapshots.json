@@ -1,0 +1,42 @@
+[
+  {
+    "id": "snapshot:clinvar:gene-condition:hypertrophic-cardiomyopathy-paper120:2026-06-14",
+    "source_ids": [
+      "source:clinvar"
+    ],
+    "path": "data/source_snapshots/clinvar-gene-condition-hypertrophic-cardiomyopathy-paper120-2026-06-14/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "gene_condition_source_id-2026-06-14-paper120",
+    "license_note": "ClinVar gene_condition_source_id filtered to Hypertrophic cardiomyopathy paper-scale top-120 scope genes and MONDO:0005045.",
+    "record_count": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed ClinVar gene-condition snapshot is acceptable for public-candidate rendering, but paper-grade use should prefer an archived monthly ClinVar release or otherwise documented dated upstream material.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "snapshot:opentargets:hypertrophic-cardiomyopathy-associated-targets:2026-06-14:paper120",
+    "source_ids": [
+      "source:opentargets"
+    ],
+    "path": "data/source_snapshots/opentargets-hypertrophic-cardiomyopathy-associated-targets-2026-06-14-paper120/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "api-v4-graphql-2026-06-14-paper120",
+    "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Hypertrophic cardiomyopathy top-120 HGNC-resolved targets from a top-150 fetch window).",
+    "record_count": 120,
+    "sha256": "a197b536a17f86df78963937a13bb59da6cd4d4a3ff1610193665262ccf51391",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed Open Targets development snapshot is acceptable for public-candidate rendering, but paper-grade use should refresh from a dated upstream export or documented current source pull.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  }
+]

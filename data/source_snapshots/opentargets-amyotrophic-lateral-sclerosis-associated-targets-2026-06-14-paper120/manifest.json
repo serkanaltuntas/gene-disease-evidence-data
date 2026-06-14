@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:opentargets:amyotrophic-lateral-sclerosis-associated-targets:2026-06-14:paper120",
+  "source_ids": [
+    "source:opentargets"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aopentargets%3Aamyotrophic-lateral-sclerosis-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "api-v4-graphql-2026-06-14-paper120",
+  "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Amyotrophic lateral sclerosis top-120 HGNC-resolved targets from a top-150 fetch window).",
+  "record_count": 120,
+  "sha256": "e293e947b78d1771a417deeab554f1d7e992ac43c69a1714948cd9515887fcda"
+}
