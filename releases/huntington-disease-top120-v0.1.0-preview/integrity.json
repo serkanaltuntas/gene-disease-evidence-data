@@ -1,0 +1,205 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "huntington-disease-top120-v0.1.0-preview",
+  "release_generated_at": "2026-06-14T00:00:00Z",
+  "release_status": "draft",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 37,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 428,
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3683,
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2680,
+      "sha256": "24a1eb0ac6b70541c4c2459052181fd1fc0bea3c96de427e5c6406407436277c"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ahuntington-disease-paper120%3A2026-06-14/manifest.json",
+      "bytes": 586,
+      "sha256": "b73dab2589ddff6dde8d4650cfdfd8f17a09add4fd70037cba487ba064be7963"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ahuntington-disease-paper120%3A2026-06-14/records.jsonl",
+      "bytes": 309,
+      "sha256": "6dd76ee94395e6ebe4be2d62fbd77edbb36cd8c23b97e5eef5e8fcfdc3b20692"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ahuntington-disease-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "bytes": 630,
+      "sha256": "cb589d44b80dd11d97f4350d2a5af20f39fc9b18a5d54c727b3f7fb0ea093022"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ahuntington-disease-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "bytes": 49278,
+      "sha256": "42d488421ea0f90dedd640b3d03a76e578e43a82a3f9e8ea4ed6e158a3e2ff33"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 11233,
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 1287,
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/README.md",
+      "bytes": 532,
+      "sha256": "eb2b2a7a32df5c2424095913ba0697d2422621b9750a962f78795e32e8ed65e6"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/associations.json",
+      "bytes": 135697,
+      "sha256": "64447e12f12152f1a6366fa6f1c4f21e9be25b7ccff732bb2e707ad3b48ed12d"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/changelog.json",
+      "bytes": 1563,
+      "sha256": "24df12bc5f3cf53ad4db73924205eb262f056c217eb8ba36dd9df5da01db53d1"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/diseases.json",
+      "bytes": 147,
+      "sha256": "a9ef1a32b76ace2ebc53e3cca6a755e7f919771bf9eafa296f396567bd2d1dd5"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "bytes": 95911,
+      "sha256": "7c3abad801ca046dced1b797c80e6a2c7f93d1171a1f28d138ec555609e9cfa5"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/genes.json",
+      "bytes": 25160,
+      "sha256": "abe2ea746f93d8686bd82c8a07805eac5a83532422238154a8db55cc21810fd8"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/release.json",
+      "bytes": 596,
+      "sha256": "616e0772bb7b2e270991b441d45e058c2a3645b4647d1880586c68f19f21fbbe"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "bytes": 138952,
+      "sha256": "7709a1db94aa98f43799b1cfc4d01999b4ba49dea66edc9a668da81aaddcb4dd"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/source_snapshots.json",
+      "bytes": 2101,
+      "sha256": "e1c21943436b83a2e9c658839cdbe440e0115dfdeefbdcdff0e74f0a82b9e614"
+    },
+    {
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/sources.json",
+      "bytes": 6904,
+      "sha256": "d9a9f28e8bc2c993d585e1ed2a7e8c207bdf5c1cd9e2def1fdaa24bdbde0da8f"
+    },
+    {
+      "path": "schemas/README.md",
+      "bytes": 825,
+      "sha256": "d306274cb3d33c16d681f4748095a391e3a1c5f863bc001480756c04167770ba"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/manifest.json",
+      "bytes": 4736,
+      "sha256": "7520de98c03c1c77fbfc02f4e633bdd15c09962232f7ad54bf1864303a5d3db3"
+    },
+    {
+      "path": "schemas/public-export-gate-decision.schema.json",
+      "bytes": 1626,
+      "sha256": "8945fb7a00247b5f18eac4836b7192cf30584e65ab8cfd4b4e7c79d74ad86ab1"
+    },
+    {
+      "path": "schemas/public-export-gate.schema.json",
+      "bytes": 5704,
+      "sha256": "d3d8ca0bce8ab8f70939c8c4719f4a3e57817266be2604124e3e6b979316eb85"
+    },
+    {
+      "path": "schemas/public-source-gate-decision.schema.json",
+      "bytes": 1686,
+      "sha256": "4b331d60eb003dff2c9a3e566b90a6822f3c5e83f54b85a0e3fd1baf30cd0f00"
+    },
+    {
+      "path": "schemas/public-source-gate.schema.json",
+      "bytes": 7186,
+      "sha256": "77ce9d3ca75c9544e0eccea770695632164b8bbeb7693a595189f218446a5be4"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 6547,
+      "sha256": "a258e70d38c194387297820b7727bef6d26119c66541c6732af1cc6195fc15f1"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 1340,
+      "sha256": "b6c9a1ba6045c5d6ccd61eecd0b735a36bba1f39f0983dff8e4e5a471c9e7ef9"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 2378,
+      "sha256": "95e713c81cfb67241a03eb85323c22546c63afb83e96a72b4c41fb2250a10777"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-huntington-disease-top120-v0.1.0-preview.zip",
+      "bytes": 59271,
+      "sha256": "bd670e099a8d88ce4304f232acf34c7a9398d4171d1ebf3debb0a19e1237933d"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "epilepsy-top120-v0.1.0-preview",
+  "release_generated_at": "2026-06-14T00:00:00Z",
+  "release_status": "draft",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 37,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 428,
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3683,
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2680,
+      "sha256": "24a1eb0ac6b70541c4c2459052181fd1fc0bea3c96de427e5c6406407436277c"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aepilepsy-paper120%3A2026-06-14/manifest.json",
+      "bytes": 556,
+      "sha256": "2bd8cf9d42783478c06850841886a2add61dc6962dca569d6229f389b7fbfb79"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aepilepsy-paper120%3A2026-06-14/records.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aepilepsy-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "bytes": 600,
+      "sha256": "34d83dd93804c23126eb4d2a4f4a65e514b63598ad1a702189014abcd35655c3"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aepilepsy-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "bytes": 92109,
+      "sha256": "a533d7d6451b55acdf646f4247fb3026dd31f6c6f18e592522857dc338a133ef"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 11233,
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 1287,
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/README.md",
+      "bytes": 522,
+      "sha256": "5310d4e7a16b58dc976fa7caa7cc70281eb5ed349df7403e2d93d25b1611562d"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/associations.json",
+      "bytes": 135583,
+      "sha256": "5d3c6266fff71dfb35dd3b1191264297fd3aa23a2ccd3361ed37458b6c6a454f"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/changelog.json",
+      "bytes": 869,
+      "sha256": "36afa25a2049d1cdac829f9b376f6847b5faa8d8db76ec7094b336852ed07ae4"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/diseases.json",
+      "bytes": 157,
+      "sha256": "795a6cbfc7db4a61f855c7cd749095ad0e7fe1e3280d58199c286ca0006e481b"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "bytes": 136918,
+      "sha256": "b6de00b56ce11f76ec8abf3eb4e1cb18565071dd234a26660afab77e54f5fc6c"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/genes.json",
+      "bytes": 25237,
+      "sha256": "d2daeb2ef581fd6ada94f23f87f2cb7060ef01c83a90935ec2986570d61c72f1"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/release.json",
+      "bytes": 586,
+      "sha256": "0479eceb138b33c415223a12a79ad07b26a5ece24ba1c919afcedc942e801dfd"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "bytes": 139120,
+      "sha256": "4236c6e01a4f7f476496dfbf4330d54035702c7a7a6097ea6c4ac8e37061b98a"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/source_snapshots.json",
+      "bytes": 2041,
+      "sha256": "d59876ffd70fc1802df2ed00a5f879ab222231872cdf808c744b25ca219b728f"
+    },
+    {
+      "path": "releases/epilepsy-top120-v0.1.0-preview/sources.json",
+      "bytes": 8749,
+      "sha256": "2274809a56528e3369e78bedc922c1a4b716b5a644957e61a7f75b62efeebf3e"
+    },
+    {
+      "path": "schemas/README.md",
+      "bytes": 825,
+      "sha256": "d306274cb3d33c16d681f4748095a391e3a1c5f863bc001480756c04167770ba"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/manifest.json",
+      "bytes": 4736,
+      "sha256": "7520de98c03c1c77fbfc02f4e633bdd15c09962232f7ad54bf1864303a5d3db3"
+    },
+    {
+      "path": "schemas/public-export-gate-decision.schema.json",
+      "bytes": 1626,
+      "sha256": "8945fb7a00247b5f18eac4836b7192cf30584e65ab8cfd4b4e7c79d74ad86ab1"
+    },
+    {
+      "path": "schemas/public-export-gate.schema.json",
+      "bytes": 5704,
+      "sha256": "d3d8ca0bce8ab8f70939c8c4719f4a3e57817266be2604124e3e6b979316eb85"
+    },
+    {
+      "path": "schemas/public-source-gate-decision.schema.json",
+      "bytes": 1686,
+      "sha256": "4b331d60eb003dff2c9a3e566b90a6822f3c5e83f54b85a0e3fd1baf30cd0f00"
+    },
+    {
+      "path": "schemas/public-source-gate.schema.json",
+      "bytes": 7186,
+      "sha256": "77ce9d3ca75c9544e0eccea770695632164b8bbeb7693a595189f218446a5be4"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 6547,
+      "sha256": "a258e70d38c194387297820b7727bef6d26119c66541c6732af1cc6195fc15f1"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 1340,
+      "sha256": "b6c9a1ba6045c5d6ccd61eecd0b735a36bba1f39f0983dff8e4e5a471c9e7ef9"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 2378,
+      "sha256": "95e713c81cfb67241a03eb85323c22546c63afb83e96a72b4c41fb2250a10777"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-epilepsy-top120-v0.1.0-preview.zip",
+      "bytes": 75820,
+      "sha256": "9699922d5f1fa44bc350446b8286508e995765802e34b1978a99ae30e9695c10"
+    }
+  ]
+}

@@ -6,68 +6,112 @@
     {
       "schema": "release.schema.json",
       "artifact_type": "release metadata",
-      "example_paths": ["data/releases/<release-id>/release.json"],
-      "validated_by": ["src/gdei/validation.py"]
+      "example_paths": [
+        "data/releases/<release-id>/release.json"
+      ],
+      "validated_by": [
+        "src/gdei/validation.py"
+      ]
     },
     {
       "schema": "gene.schema.json",
       "artifact_type": "release gene rows",
-      "example_paths": ["data/releases/<release-id>/genes.json"],
-      "validated_by": ["src/gdei/validation.py"]
+      "example_paths": [
+        "data/releases/<release-id>/genes.json"
+      ],
+      "validated_by": [
+        "src/gdei/validation.py"
+      ]
     },
     {
       "schema": "disease.schema.json",
       "artifact_type": "release disease rows",
-      "example_paths": ["data/releases/<release-id>/diseases.json"],
-      "validated_by": ["src/gdei/validation.py"]
+      "example_paths": [
+        "data/releases/<release-id>/diseases.json"
+      ],
+      "validated_by": [
+        "src/gdei/validation.py"
+      ]
     },
     {
       "schema": "source.schema.json",
       "artifact_type": "release source rows",
-      "example_paths": ["data/releases/<release-id>/sources.json"],
-      "validated_by": ["src/gdei/validation.py"]
+      "example_paths": [
+        "data/releases/<release-id>/sources.json"
+      ],
+      "validated_by": [
+        "src/gdei/validation.py"
+      ]
     },
     {
       "schema": "source-snapshot.schema.json",
       "artifact_type": "release source snapshot rows",
-      "example_paths": ["data/releases/<release-id>/source_snapshots.json"],
-      "validated_by": ["src/gdei/validation.py"]
+      "example_paths": [
+        "data/releases/<release-id>/source_snapshots.json"
+      ],
+      "validated_by": [
+        "src/gdei/validation.py"
+      ]
     },
     {
       "schema": "association.schema.json",
       "artifact_type": "release association rows",
-      "example_paths": ["data/releases/<release-id>/associations.json"],
-      "validated_by": ["src/gdei/validation.py"]
+      "example_paths": [
+        "data/releases/<release-id>/associations.json"
+      ],
+      "validated_by": [
+        "src/gdei/validation.py"
+      ]
     },
     {
       "schema": "evidence-row.schema.json",
       "artifact_type": "release evidence rows",
-      "example_paths": ["data/releases/<release-id>/evidence_rows.json"],
-      "validated_by": ["src/gdei/validation.py"]
+      "example_paths": [
+        "data/releases/<release-id>/evidence_rows.json"
+      ],
+      "validated_by": [
+        "src/gdei/validation.py"
+      ]
     },
     {
       "schema": "review-artifact.schema.json",
       "artifact_type": "automatic review artifact rows",
-      "example_paths": ["data/releases/<release-id>/review_artifacts.json"],
-      "validated_by": ["src/gdei/validation.py"]
+      "example_paths": [
+        "data/releases/<release-id>/review_artifacts.json"
+      ],
+      "validated_by": [
+        "src/gdei/validation.py"
+      ]
     },
     {
       "schema": "release-integrity.schema.json",
       "artifact_type": "public release integrity manifest",
-      "example_paths": ["releases/<release-id>/integrity.json"],
-      "validated_by": ["src/gdei/integrity.py"]
+      "example_paths": [
+        "releases/<release-id>/integrity.json"
+      ],
+      "validated_by": [
+        "src/gdei/integrity.py"
+      ]
     },
     {
       "schema": "release-candidate-checklist.schema.json",
       "artifact_type": "release candidate checklist manifest",
-      "example_paths": ["data/release_candidates/<config-id>/rc-001.json"],
-      "validated_by": ["src/gdei/release_candidate.py"]
+      "example_paths": [
+        "data/release_candidates/<config-id>/rc-001.json"
+      ],
+      "validated_by": [
+        "src/gdei/release_candidate.py"
+      ]
     },
     {
       "schema": "review-decision.schema.json",
       "artifact_type": "release candidate human review decision",
-      "example_paths": ["data/release_candidates/<config-id>/rc-001-review-decision.json"],
-      "validated_by": ["src/gdei/release_candidate.py"]
+      "example_paths": [
+        "data/release_candidates/<config-id>/rc-001-review-decision.json"
+      ],
+      "validated_by": [
+        "src/gdei/release_candidate.py"
+      ]
     },
     {
       "schema": "source-recheck.schema.json",
@@ -75,7 +119,10 @@
       "example_paths": [
         "data/release_candidates/<config-id>/rc-001-source-recheck.json"
       ],
-      "validated_by": ["src/gdei/release_candidate.py", "tests/test_release_candidate.py"]
+      "validated_by": [
+        "src/gdei/release_candidate.py",
+        "tests/test_release_candidate.py"
+      ]
     },
     {
       "schema": "public-source-gate.schema.json",
@@ -83,7 +130,9 @@
       "example_paths": [
         "data/release_candidates/<config-id>/rc-001-public-source-gate.json"
       ],
-      "validated_by": ["tests/test_release_candidate.py"]
+      "validated_by": [
+        "tests/test_release_candidate.py"
+      ]
     },
     {
       "schema": "public-source-gate-decision.schema.json",
@@ -91,7 +140,9 @@
       "example_paths": [
         "data/release_candidates/<config-id>/rc-001-public-source-gate-decision.json"
       ],
-      "validated_by": ["tests/test_release_candidate.py"]
+      "validated_by": [
+        "tests/test_release_candidate.py"
+      ]
     },
     {
       "schema": "public-export-gate.schema.json",
@@ -99,7 +150,9 @@
       "example_paths": [
         "data/release_candidates/<config-id>/rc-001-public-export-gate.json"
       ],
-      "validated_by": ["tests/test_release_candidate.py"]
+      "validated_by": [
+        "tests/test_release_candidate.py"
+      ]
     },
     {
       "schema": "public-export-gate-decision.schema.json",
@@ -107,7 +160,9 @@
       "example_paths": [
         "data/release_candidates/<config-id>/rc-001-public-export-gate-decision.json"
       ],
-      "validated_by": ["tests/test_release_candidate.py"]
+      "validated_by": [
+        "tests/test_release_candidate.py"
+      ]
     }
   ]
 }

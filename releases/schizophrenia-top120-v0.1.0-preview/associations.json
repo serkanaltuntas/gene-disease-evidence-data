@@ -1,0 +1,3368 @@
+[
+  {
+    "id": "assoc:10002:0005090:fd51d5a5f266",
+    "gene_id": "HGNC:10002",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:3463edff8b9beff0"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:10560:0005090:638af830e87a",
+    "gene_id": "HGNC:10560",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:2ac188d69ff97e15"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:10585:0005090:3b3d0a9708b5",
+    "gene_id": "HGNC:10585",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:19912427b0403bf1"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:10671:0005090:6076bd360ade",
+    "gene_id": "HGNC:10671",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:a38d714c86f23446"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:10807:0005090:5c74a7104412",
+    "gene_id": "HGNC:10807",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:dc3e741d3825df6f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:1085:0005090:bb9c4eaf6e26",
+    "gene_id": "HGNC:1085",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:5c9c7f49110e30c7"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:11049:0005090:44ea31f4ed8a",
+    "gene_id": "HGNC:11049",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:7698b24745c266f0"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:11306:0005090:9f3ecfcadb15",
+    "gene_id": "HGNC:11306",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:8cd6891ecd299f9e"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:11634:0005090:18f4ef5c7050",
+    "gene_id": "HGNC:11634",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:d2bce6a63e2db34d"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:11743:0005090:137c319e7908",
+    "gene_id": "HGNC:11743",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:2fb7613693742bd6"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:11960:0005090:aa591d3be82d",
+    "gene_id": "HGNC:11960",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:172b416b7ce7ca99"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:12719:0005090:308038b7112b",
+    "gene_id": "HGNC:12719",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:1cfbd792bef08446"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:12851:0005090:541ac02d5f52",
+    "gene_id": "HGNC:12851",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:4a76088d53d12a63"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:13221:0005090:cc5a0adf2cf9",
+    "gene_id": "HGNC:13221",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:9989edc1b73f18d3"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:13222:0005090:a8ef8ef0677c",
+    "gene_id": "HGNC:13222",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:1aa8fc1a02e5f7f3"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:13248:0005090:c6e3e67b49fe",
+    "gene_id": "HGNC:13248",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:50135546d33cf0b6"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:1390:0005090:ea0e1e7c8744",
+    "gene_id": "HGNC:1390",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:c8a4bae3f68017ff"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:1396:0005090:1f6419aff21f",
+    "gene_id": "HGNC:1396",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:41eb528a7a2eeb45"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:14026:0005090:c374ce4b7e63",
+    "gene_id": "HGNC:14026",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:5052b2e1d11e7232"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:14294:0005090:9daa7883468f",
+    "gene_id": "HGNC:14294",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:8f40b58030325b7d",
+      "ev:feb0a5c34256e8b4"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance."
+    ]
+  },
+  {
+    "id": "assoc:14598:0005090:8b6c67bdcea3",
+    "gene_id": "HGNC:14598",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:d27f71f261392898"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:14986:0005090:3882183964bd",
+    "gene_id": "HGNC:14986",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:5dd3358a32b4191b"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:15850:0005090:a7805aabbcc8",
+    "gene_id": "HGNC:15850",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:9a48780219ac0164"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:16454:0005090:1a8929c04a99",
+    "gene_id": "HGNC:16454",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:2b987fe472cd5a98"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:16648:0005090:dfa629f75726",
+    "gene_id": "HGNC:16648",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:355198e4b43431ee"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:16699:0005090:b69c7d976b56",
+    "gene_id": "HGNC:16699",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:04b2f19ad0170453"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:16700:0005090:5aa2e379f87b",
+    "gene_id": "HGNC:16700",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:f5d76fcf21847ab3"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:16851:0005090:70d2b4fab7cd",
+    "gene_id": "HGNC:16851",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:b163e557a253df1f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:17149:0005090:74da4d899574",
+    "gene_id": "HGNC:17149",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:3d565415572d5ee9"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:17302:0005090:9fb33f194bc2",
+    "gene_id": "HGNC:17302",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:647b90f6e8391424"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:17452:0005090:03e8ae3e08a6",
+    "gene_id": "HGNC:17452",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:dc3eac7fb96de365"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:17474:0005090:722bf0673156",
+    "gene_id": "HGNC:17474",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:ecf646d27714df6e"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:17662:0005090:11e6320cdfa7",
+    "gene_id": "HGNC:17662",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:66b59e358ee760a2"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:18469:0005090:f6794b9ed781",
+    "gene_id": "HGNC:18469",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:0bb9fe52e50775c8"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:18601:0005090:d78c13049e44",
+    "gene_id": "HGNC:18601",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:a468f5cb0529c8ae",
+      "ev:e68bf11803f40168"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance."
+    ]
+  },
+  {
+    "id": "assoc:19357:0005090:f625ff34581b",
+    "gene_id": "HGNC:19357",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:09f3348b45848e4e"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:1950:0005090:6b34f6782561",
+    "gene_id": "HGNC:1950",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:a72c517e6787e030"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:1952:0005090:80230669c0f0",
+    "gene_id": "HGNC:1952",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:75b80861ba1bb635"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:1953:0005090:ac4be1c3ce33",
+    "gene_id": "HGNC:1953",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:168bd2ffbc6b7e3d"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:1957:0005090:30f15349ec24",
+    "gene_id": "HGNC:1957",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:7a49b4aa2f880acd"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:19873:0005090:fac5cede7a11",
+    "gene_id": "HGNC:19873",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:6641966003a847f6"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:20092:0005090:5a46f9448fc4",
+    "gene_id": "HGNC:20092",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:a5c4fd84bcb13974"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:20862:0005090:72f7ded77b08",
+    "gene_id": "HGNC:20862",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:ec74df60906df280"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:21532:0005090:7a3d5916f96d",
+    "gene_id": "HGNC:21532",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:235ad43fb4767eb8"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:21581:0005090:a3f499f3e616",
+    "gene_id": "HGNC:21581",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:9ecd7dbd611bc1ad"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:21637:0005090:b37429044e93",
+    "gene_id": "HGNC:21637",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:e0dd408317128a4a"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:21711:0005090:e365cda06cbf",
+    "gene_id": "HGNC:21711",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:7139002d871f3c2e"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:2174:0005090:3125b2c8e589",
+    "gene_id": "HGNC:2174",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:615490cfbb7a737c"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:2235:0005090:936acd9253e4",
+    "gene_id": "HGNC:2235",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:23e68c9532da1e93"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:2314:0005090:62694b8d0335",
+    "gene_id": "HGNC:2314",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:d5eeb2c17ffe86c6"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:24003:0005090:e5b08d220847",
+    "gene_id": "HGNC:24003",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:525d1eb69cdac310"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:24004:0005090:8f0c91297b24",
+    "gene_id": "HGNC:24004",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:138b887ec2c238a0"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:24005:0005090:c8d0ab701299",
+    "gene_id": "HGNC:24005",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:198332581dc8b8fd"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:24099:0005090:a4866dcab24b",
+    "gene_id": "HGNC:24099",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:edbe2983e2504559"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:24574:0005090:729411e8810a",
+    "gene_id": "HGNC:24574",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:dfdae811f84d931a"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:25474:0005090:18163494ce38",
+    "gene_id": "HGNC:25474",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:92950cf58edfd390"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:2553:0005090:fb9f88687179",
+    "gene_id": "HGNC:2553",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:ee11474f44d0594a"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:26437:0005090:6d61b68e2324",
+    "gene_id": "HGNC:26437",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:f7e36057e5c364a6"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:2707:0005090:11ca4b7ef102",
+    "gene_id": "HGNC:2707",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:1929477e7a5371fe"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:277:0005090:ada189fe4c38",
+    "gene_id": "HGNC:277",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:79d026ffd6eb783f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:278:0005090:94ee51f074f1",
+    "gene_id": "HGNC:278",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:699339c0c664985a"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:280:0005090:4607a2ff3bf0",
+    "gene_id": "HGNC:280",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:4475f849bc56687c"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:29010:0005090:b806a747de78",
+    "gene_id": "HGNC:29010",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:7fd3b4326722c434"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:29025:0005090:169b6d54575e",
+    "gene_id": "HGNC:29025",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:f2467db792391f36"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:29117:0005090:5f08213d47ac",
+    "gene_id": "HGNC:29117",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:e815126114795a86"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:29214:0005090:640782fd5ad8",
+    "gene_id": "HGNC:29214",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:3c5f84e7e98220b7"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:29316:0005090:1a2d076c5116",
+    "gene_id": "HGNC:29316",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:89854c552488ec84"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:29874:0005090:07156f7524fd",
+    "gene_id": "HGNC:29874",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:81f07762ddbb09fd"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:3012:0005090:bc133a2cecc4",
+    "gene_id": "HGNC:3012",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:e849c567ed545fb2"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:3023:0005090:ac6259df1e7f",
+    "gene_id": "HGNC:3023",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:901c78135e7e1d3f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:3024:0005090:0bfc2c8f4168",
+    "gene_id": "HGNC:3024",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:0666b72465104d25",
+      "ev:c28caa5589c38146"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance."
+    ]
+  },
+  {
+    "id": "assoc:3025:0005090:e351ba36a82e",
+    "gene_id": "HGNC:3025",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:c4209f6dfc9e730f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:30619:0005090:6a0f9a1e3bc7",
+    "gene_id": "HGNC:30619",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:3347b49159a9252f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:32326:0005090:057c6eba47f8",
+    "gene_id": "HGNC:32326",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:a72067a5d5bd185b"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:3340:0005090:8669d5a8f7cd",
+    "gene_id": "HGNC:3340",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:7cc45d8eac64b47d"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:3468:0005090:70b20ff4e687",
+    "gene_id": "HGNC:3468",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:639151b3d645133f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:3657:0005090:23fec351f2f7",
+    "gene_id": "HGNC:3657",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:43f2536b2df3f134"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:3821:0005090:7b6468039a50",
+    "gene_id": "HGNC:3821",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:3260feca0f04d778"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:3823:0005090:4fd1a8dda3c0",
+    "gene_id": "HGNC:3823",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:c2adffa568d1ca67"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:393:0005090:d278b1ac253c",
+    "gene_id": "HGNC:393",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:aaaf77faa8ae5d77"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:4020:0005090:9b2119f832b3",
+    "gene_id": "HGNC:4020",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:49a8b84df6b19070"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:4023:0005090:e2ddf541ea3d",
+    "gene_id": "HGNC:4023",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:5615918bc18567cf"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:4232:0005090:3289e0a58b4d",
+    "gene_id": "HGNC:4232",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:2862a06c5ca592a5"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:4460:0005090:8424666e8110",
+    "gene_id": "HGNC:4460",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:361e8be9961f2f3a"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:4571:0005090:280612a46a86",
+    "gene_id": "HGNC:4571",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:e5cae828aa5b7b90"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:4585:0005090:bda2c4c7d9e5",
+    "gene_id": "HGNC:4585",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:dbdf3b1b4270ded0"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:4595:0005090:0823ad205e64",
+    "gene_id": "HGNC:4595",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:b846f026e8566441"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:4845:0005090:f51f46d11201",
+    "gene_id": "HGNC:4845",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:21909bc1fcce1b20"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5286:0005090:5d02e482bec1",
+    "gene_id": "HGNC:5286",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:400544d873e029e2"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5287:0005090:ee7b036fe742",
+    "gene_id": "HGNC:5287",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:6d28e65d29d748fc"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5289:0005090:441ec5163399",
+    "gene_id": "HGNC:5289",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:9595e658fe78feea"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5291:0005090:adb6a38d1bbb",
+    "gene_id": "HGNC:5291",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:257023ca6f17d4fc"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5292:0005090:c328fe02554c",
+    "gene_id": "HGNC:5292",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:a2856ac809b01d5e"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5293:0005090:d299942bee25",
+    "gene_id": "HGNC:5293",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:3e735104e75ffb5f",
+      "ev:48b86a14f46a4752"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance."
+    ]
+  },
+  {
+    "id": "assoc:5294:0005090:43710debbeb0",
+    "gene_id": "HGNC:5294",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:46755dd81e9e7f6a"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5295:0005090:7213cfeaffd1",
+    "gene_id": "HGNC:5295",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:da38880c75fb4962"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5297:0005090:d0907b3ef369",
+    "gene_id": "HGNC:5297",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:949c7da9170837ec"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5298:0005090:21882a1c2e56",
+    "gene_id": "HGNC:5298",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:d0681b4f2bbb1caa"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5299:0005090:d6c3129d646f",
+    "gene_id": "HGNC:5299",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:13dfed3dc1ba421f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5300:0005090:3cf70fbf88b5",
+    "gene_id": "HGNC:5300",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:f499475cd21f7e49"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5301:0005090:208fbbcf8c37",
+    "gene_id": "HGNC:5301",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:e88d9a8605dc96ae"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:5302:0005090:3f1fd9624b41",
+    "gene_id": "HGNC:5302",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:7b7838784215176f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:6168:0005090:bfedca91f014",
+    "gene_id": "HGNC:6168",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:4324f9a127a915e5"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:6231:0005090:71cc521013b8",
+    "gene_id": "HGNC:6231",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:b9e0f1979a7ed97c"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:6249:0005090:78a9dd0987a3",
+    "gene_id": "HGNC:6249",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:c4f28f2c5c326b1e"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:6299:0005090:26d02ef9cb0a",
+    "gene_id": "HGNC:6299",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:3fbaf1dd2c8ce580"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:6762:0005090:9baaa417509b",
+    "gene_id": "HGNC:6762",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:8ba8036a6c2120d9"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:6824:0005090:95f5b0cc6266",
+    "gene_id": "HGNC:6824",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:e8d16f24118b6e0d"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:7162:0005090:6b38a807fe1c",
+    "gene_id": "HGNC:7162",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:1fd7dca2d4ab620e"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:7436:0005090:09e4544308a0",
+    "gene_id": "HGNC:7436",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:163c1a76c455363b",
+      "ev:e83257d79324c4f5"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance."
+    ]
+  },
+  {
+    "id": "assoc:7656:0005090:658e3056f2a9",
+    "gene_id": "HGNC:7656",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:e1fe47638926ce6d"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:8000:0005090:50ef830ea902",
+    "gene_id": "HGNC:8000",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:a37a92a7310c5d9d"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:8008:0005090:9306481f1104",
+    "gene_id": "HGNC:8008",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:af52d2aa79cb252f"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:812:0005090:d1a6efa5a587",
+    "gene_id": "HGNC:812",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:6fc09c91670d22f9"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:8153:0005090:05584a4420fe",
+    "gene_id": "HGNC:8153",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:f2f3967cb2e69e4e"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:8154:0005090:0f6f778d59fc",
+    "gene_id": "HGNC:8154",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:5d3e3739bc55e5e3"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:8156:0005090:8f5b261403a1",
+    "gene_id": "HGNC:8156",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:f1b3ec883ab31c35"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:8781:0005090:fa055440663c",
+    "gene_id": "HGNC:8781",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:dc4a945392c99674"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:9407:0005090:1677a56f24f5",
+    "gene_id": "HGNC:9407",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "single_source_observed",
+    "evidence_row_ids": [
+      "ev:899e43fa8126f897"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:opentargets"
+      ],
+      "silent_source_ids": [
+        "source:clinvar"
+      ],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Single supporting source with queried-but-silent release source context."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance.",
+      "Single-source Open Targets evidence has not passed review gates."
+    ]
+  },
+  {
+    "id": "assoc:9898:0005090:ebc806782a79",
+    "gene_id": "HGNC:9898",
+    "disease_id": "MONDO:0005090",
+    "status": "observed_unreviewed",
+    "support_tier": "multi_source_observed",
+    "evidence_row_ids": [
+      "ev:2ad7319c29ba3888",
+      "ev:d446ef990a1ca820"
+    ],
+    "source_coverage": {
+      "supporting_source_ids": [
+        "source:clinvar",
+        "source:opentargets"
+      ],
+      "silent_source_ids": [],
+      "conflicting_source_ids": [],
+      "source_independence_note": "Multiple supporting sources are present in release evidence coverage."
+    },
+    "review_state": "ai_reviewed",
+    "caveats": [
+      "Public-candidate draft; research-use only and not a clinical or manuscript-grade finding.",
+      "AI/referee review artifacts are advisory and do not replace human scientific review.",
+      "ClinVar gene-condition context has not passed human scientific review.",
+      "ClinVar gene-condition context is provenance only; not diagnostic, treatment, or clinical decision-making guidance.",
+      "Open Targets scores are source-attributed evidence signals, not truth or clinical validity scores.",
+      "Open Targets target-disease association context is not diagnostic, treatment, or clinical decision-making guidance."
+    ]
+  }
+]

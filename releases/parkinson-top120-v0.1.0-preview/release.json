@@ -1,0 +1,12 @@
+{
+  "id": "parkinson-top120-v0.1.0-preview",
+  "schema_version": "0.1.0",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "status": "draft",
+  "research_use_only": true,
+  "notes": [
+    "Public preview data package for research-use evaluation of source-attributed gene-disease evidence records.",
+    "Not medical advice, diagnosis, treatment guidance, patient risk prediction, clinical decision support, clinical certainty, or a clinical-use dataset.",
+    "Not a manuscript-grade release; source boundaries, provenance, and review gates must remain visible when rendered or cited."
+  ]
+}

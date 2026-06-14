@@ -1,0 +1,152 @@
+[
+  {
+    "id": "source:hgnc",
+    "name": "HGNC",
+    "accessed_at": "2026-06-14",
+    "version": "hgnc-complete-set-amyotrophic-lateral-sclerosis-paper120-2026-06-14",
+    "license_note": "HGNC data are used for stable gene symbol and identifier normalization.",
+    "license": "CC0 1.0",
+    "license_url": "https://www.genenames.org/about/license/",
+    "terms_url": "https://www.genenames.org/about/license/",
+    "citation": "HGNC (RRID:SCR_002827); recommended citation: Seal et al. 2025, Genenames.org: the HGNC and PGNC resources in 2026.",
+    "citation_url": "https://www.genenames.org/about/publications/",
+    "recommended_citations": [
+      {
+        "id": "citation:hgnc:genenames-2026",
+        "citation_type": "publication",
+        "title": "Genenames.org: the HGNC and PGNC resources in 2026",
+        "venue": "Nucleic Acids Research",
+        "year": 2025,
+        "doi": "10.1093/nar/gkaf1229",
+        "pmid": "41287213",
+        "url": "https://doi.org/10.1093/nar/gkaf1229",
+        "source_page_url": "https://www.genenames.org/about/publications/"
+      }
+    ],
+    "approved_for_public_release": true,
+    "notes": [
+      "HGNC states that all HGNC data are freely available under Creative Commons Zero.",
+      "HGNC recommends attribution even though source attribution is not mandatory under CC0."
+    ],
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "Acceptable for public-candidate rendering; re-check HGNC citation and license pages before paper-grade use.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "source:mondo",
+    "name": "MONDO Disease Ontology",
+    "accessed_at": "2026-06-07",
+    "version": "development-mondo-identifier-context",
+    "license_note": "MONDO is used for disease identifiers and disease label context.",
+    "license": "CC BY 4.0",
+    "license_url": "https://github.com/monarch-initiative/mondo/blob/master/LICENSE",
+    "terms_url": "https://mondo.monarchinitiative.org/",
+    "citation": "Mondo Disease Ontology; recommended citation: Vasilevsky et al. 2025, Mondo: integrating disease terminology across communities.",
+    "citation_url": "https://mondo.monarchinitiative.org/",
+    "recommended_citations": [
+      {
+        "id": "citation:mondo:integrating-disease-terminology-2025",
+        "citation_type": "publication",
+        "title": "Mondo: integrating disease terminology across communities",
+        "venue": "Genetics",
+        "year": 2025,
+        "doi": "10.1093/genetics/iyaf215",
+        "url": "https://doi.org/10.1093/genetics/iyaf215",
+        "source_page_url": "https://mondo.monarchinitiative.org/"
+      }
+    ],
+    "approved_for_public_release": true,
+    "notes": [
+      "Mondo source metadata must be re-checked before a paper-grade release."
+    ],
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "Acceptable as disease identifier context for public-candidate rendering; re-check MONDO license and citation metadata before paper-grade use.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "source:opentargets",
+    "name": "Open Targets Platform",
+    "accessed_at": "2026-06-14",
+    "version": "api-v4-graphql-2026-06-14-paper120",
+    "license_note": "Open Targets Platform data are used as source-attributed target-disease association evidence.",
+    "license": "CC0 1.0",
+    "license_url": "https://platform-docs.opentargets.org/licence",
+    "terms_url": "https://platform-docs.opentargets.org/licence/terms-of-use",
+    "citation": "Open Targets Platform; recommended citation: Buniello et al. 2025, Open Targets Platform: facilitating therapeutic hypotheses building in drug discovery.",
+    "citation_url": "https://platform-docs.opentargets.org/citation",
+    "recommended_citations": [
+      {
+        "id": "citation:opentargets:platform-2025",
+        "citation_type": "publication",
+        "title": "Open Targets Platform: facilitating therapeutic hypotheses building in drug discovery",
+        "venue": "Nucleic Acids Research",
+        "year": 2025,
+        "doi": "10.1093/nar/gkae1128",
+        "url": "https://doi.org/10.1093/nar/gkae1128",
+        "source_page_url": "https://platform-docs.opentargets.org/citation"
+      }
+    ],
+    "approved_for_public_release": true,
+    "notes": [
+      "Open Targets Platform data is marked CC0 1.0 in the official licence documentation.",
+      "Open Targets expects attribution for online services, databases, or software according to good scientific practice."
+    ],
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "Acceptable for public-candidate rendering; re-check Open Targets license, terms, and citation pages before paper-grade use.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "source:clinvar",
+    "name": "ClinVar",
+    "accessed_at": "2026-06-14",
+    "version": "gene_condition_source_id-2026-06-14-paper120",
+    "license_note": "ClinVar gene-condition context is used as source-attributed evidence, not as clinical certainty.",
+    "license": "NCBI public data; reuse subject to NCBI policies",
+    "license_url": "https://www.ncbi.nlm.nih.gov/home/about/policies/",
+    "terms_url": "https://www.ncbi.nlm.nih.gov/home/about/policies/",
+    "citation": "ClinVar; NCBI asks copied or distributed ClinVar data to attribute ClinVar and allows citing ClinVar publications such as PMID:29165669.",
+    "citation_url": "https://www.ncbi.nlm.nih.gov/clinvar/docs/maintenance_use/",
+    "recommended_citations": [
+      {
+        "id": "citation:clinvar:improving-access-2018",
+        "citation_type": "publication",
+        "title": "ClinVar: improving access to variant interpretations and supporting evidence",
+        "venue": "Nucleic Acids Research",
+        "year": 2018,
+        "doi": "10.1093/nar/gkx1153",
+        "pmid": "29165669",
+        "pmcid": "PMC5753237",
+        "url": "https://doi.org/10.1093/nar/gkx1153",
+        "source_page_url": "https://www.ncbi.nlm.nih.gov/clinvar/docs/maintenance_use/"
+      }
+    ],
+    "approved_for_public_release": true,
+    "notes": [
+      "ClinVar asks that distributed or copied data attribute ClinVar as a data source.",
+      "ClinVar content is not direct diagnostic or medical decision-making guidance."
+    ],
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "Acceptable for public-candidate rendering; re-check NCBI/ClinVar attribution and reuse guidance before paper-grade use.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  }
+]

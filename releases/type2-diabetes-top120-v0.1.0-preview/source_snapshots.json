@@ -1,0 +1,42 @@
+[
+  {
+    "id": "snapshot:clinvar:gene-condition:type2-diabetes-paper120:2026-06-14",
+    "source_ids": [
+      "source:clinvar"
+    ],
+    "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Atype2-diabetes-paper120%3A2026-06-14/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "gene_condition_source_id-2026-06-14-paper120",
+    "license_note": "ClinVar gene_condition_source_id filtered to Type 2 diabetes mellitus paper-scale top-120 scope genes and MONDO:0005148.",
+    "record_count": 21,
+    "sha256": "9e193e34c468817119c551a041506dbfd4b874a85adb6f12e0d39d0bb2485690",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed ClinVar gene-condition snapshot is acceptable for public-candidate rendering, but paper-grade use should prefer an archived monthly ClinVar release or otherwise documented dated upstream material.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "snapshot:opentargets:type2-diabetes-associated-targets:2026-06-14:paper120",
+    "source_ids": [
+      "source:opentargets"
+    ],
+    "path": "data/source_snapshots/snapshot%3Aopentargets%3Atype2-diabetes-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "api-v4-graphql-2026-06-14-paper120",
+    "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Type 2 diabetes mellitus top-120 HGNC-resolved targets from a top-150 fetch window).",
+    "record_count": 120,
+    "sha256": "94c8be03f63a6f60aa854dec02853f1c0d8fd5e1e3d99185e415ff6c79d12e03",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed Open Targets development snapshot is acceptable for public-candidate rendering, but paper-grade use should refresh from a dated upstream export or documented current source pull.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  }
+]

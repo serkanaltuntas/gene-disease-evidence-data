@@ -31,3 +31,10 @@ A paper-grade release should include:
 - downloadable archive
 - citation metadata
 - DOI-backed mirror when appropriate
+
+## Integrity Sidecars
+
+`releases/<release-id>/integrity.json` is the canonical integrity sidecar for a release.
+It records SHA-256 checksums for release files and downloadable archives. Archives are
+deterministic bundles for download; unless a specific release states otherwise, the
+sidecar `integrity.json` is not required to be embedded inside each zip archive.

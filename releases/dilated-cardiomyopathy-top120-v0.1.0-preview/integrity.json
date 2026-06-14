@@ -1,0 +1,205 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "dilated-cardiomyopathy-top120-v0.1.0-preview",
+  "release_generated_at": "2026-06-14T00:00:00Z",
+  "release_status": "draft",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 37,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 428,
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3683,
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2680,
+      "sha256": "24a1eb0ac6b70541c4c2459052181fd1fc0bea3c96de427e5c6406407436277c"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Adilated-cardiomyopathy-paper120%3A2026-06-14/manifest.json",
+      "bytes": 598,
+      "sha256": "9824f0c9439d0a66db9fd5a0a92e97c3a238a0a6f9283942a780e54f20b03d42"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Adilated-cardiomyopathy-paper120%3A2026-06-14/records.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Adilated-cardiomyopathy-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "bytes": 642,
+      "sha256": "d1fc239bbcb2596f540e90dc5b8fb867171063af7bfbee9c59c0248828dfae82"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Adilated-cardiomyopathy-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "bytes": 81351,
+      "sha256": "c9298ca3b2fe482b3065f38de618a1e1ab401cc6f8e601fc0ea7d4b15344fde1"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 11233,
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 1287,
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/README.md",
+      "bytes": 536,
+      "sha256": "8a19b201d35622e03b33543d091008b81b1f5761d1264e9c76cbb2a12bd9ba2b"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/associations.json",
+      "bytes": 135567,
+      "sha256": "582aa09d17bffb6406f872b36fa6ee4e54675b8393a3815d62958364cccfe5ec"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/changelog.json",
+      "bytes": 925,
+      "sha256": "12c5802b6fd4e267612b83831c2beea5c8f2e28ff525abec13560039adcedcf2"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/diseases.json",
+      "bytes": 171,
+      "sha256": "483f1a4df231be16de7254174c36f02d1a6f76e24f3d876c4b2100684bfc2dc6"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "bytes": 128638,
+      "sha256": "da8199c6387e3b73a5fe797393b693aec9c6ccc83e9f4545840bcee5dd1e88b2"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/genes.json",
+      "bytes": 24351,
+      "sha256": "9537e372d016ad98ec42232995684698bf864bf278ad2392ca9d7fb14e9d21ab"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/release.json",
+      "bytes": 600,
+      "sha256": "2e1e6b977616fae9fc1e128260aa142445f5684456823ac238f66fb42e802213"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "bytes": 139056,
+      "sha256": "356bb7e5109ece1821fabeebd9a436a14d886d4072de4bfb350e94ce6b9ee565"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/source_snapshots.json",
+      "bytes": 2125,
+      "sha256": "8e089280f59671430a5705c74cd116ad553981f4fd443fbdbee14331ed5b5d83"
+    },
+    {
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/sources.json",
+      "bytes": 8763,
+      "sha256": "018bb07b7ffcfd5009c4fc4862cc77dc313651bb360a2bcf25eb4a46f7b2e9a3"
+    },
+    {
+      "path": "schemas/README.md",
+      "bytes": 825,
+      "sha256": "d306274cb3d33c16d681f4748095a391e3a1c5f863bc001480756c04167770ba"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/manifest.json",
+      "bytes": 4736,
+      "sha256": "7520de98c03c1c77fbfc02f4e633bdd15c09962232f7ad54bf1864303a5d3db3"
+    },
+    {
+      "path": "schemas/public-export-gate-decision.schema.json",
+      "bytes": 1626,
+      "sha256": "8945fb7a00247b5f18eac4836b7192cf30584e65ab8cfd4b4e7c79d74ad86ab1"
+    },
+    {
+      "path": "schemas/public-export-gate.schema.json",
+      "bytes": 5704,
+      "sha256": "d3d8ca0bce8ab8f70939c8c4719f4a3e57817266be2604124e3e6b979316eb85"
+    },
+    {
+      "path": "schemas/public-source-gate-decision.schema.json",
+      "bytes": 1686,
+      "sha256": "4b331d60eb003dff2c9a3e566b90a6822f3c5e83f54b85a0e3fd1baf30cd0f00"
+    },
+    {
+      "path": "schemas/public-source-gate.schema.json",
+      "bytes": 7186,
+      "sha256": "77ce9d3ca75c9544e0eccea770695632164b8bbeb7693a595189f218446a5be4"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 6547,
+      "sha256": "a258e70d38c194387297820b7727bef6d26119c66541c6732af1cc6195fc15f1"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 1340,
+      "sha256": "b6c9a1ba6045c5d6ccd61eecd0b735a36bba1f39f0983dff8e4e5a471c9e7ef9"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 2378,
+      "sha256": "95e713c81cfb67241a03eb85323c22546c63afb83e96a72b4c41fb2250a10777"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-dilated-cardiomyopathy-top120-v0.1.0-preview.zip",
+      "bytes": 73268,
+      "sha256": "60f200c029df1855223bacc374f5081f1701da149f5d2488cde0df8c7e20b82d"
+    }
+  ]
+}

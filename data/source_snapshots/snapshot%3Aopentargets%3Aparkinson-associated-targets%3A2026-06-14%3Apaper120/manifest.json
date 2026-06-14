@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:opentargets:parkinson-associated-targets:2026-06-14:paper120",
+  "source_ids": [
+    "source:opentargets"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aopentargets%3Aparkinson-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "api-v4-graphql-2026-06-14-paper120",
+  "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Parkinson disease top-120 HGNC-resolved targets from a top-150 fetch window).",
+  "record_count": 120,
+  "sha256": "c08e05dc364137de07d862adfd437a660b55fa1680f51d4c16a75cd31afea9d6"
+}

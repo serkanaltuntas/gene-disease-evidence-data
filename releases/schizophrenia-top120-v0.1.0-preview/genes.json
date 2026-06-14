@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "HGNC:10002",
+    "symbol": "RGS6",
+    "aliases": [],
+    "name": "regulator of G protein signaling 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10560",
+    "symbol": "ATXN7",
+    "aliases": [],
+    "name": "ataxin 7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10585",
+    "symbol": "SCN1A",
+    "aliases": [],
+    "name": "sodium voltage-gated channel alpha subunit 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10671",
+    "symbol": "SDCCAG8",
+    "aliases": [],
+    "name": "SHH signaling and ciliogenesis regulator SDCCAG8",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:10807",
+    "symbol": "SGCD",
+    "aliases": [],
+    "name": "sarcoglycan delta",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1085",
+    "symbol": "BNIP3L",
+    "aliases": [],
+    "name": "BCL2 interacting protein 3 like",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11049",
+    "symbol": "SLC6A3",
+    "aliases": [],
+    "name": "solute carrier family 6 member 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11306",
+    "symbol": "SRPK2",
+    "aliases": [],
+    "name": "SRSF protein kinase 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11634",
+    "symbol": "TCF4",
+    "aliases": [],
+    "name": "transcription factor 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11743",
+    "symbol": "TFAP2B",
+    "aliases": [],
+    "name": "transcription factor AP-2 beta",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:11960",
+    "symbol": "GIGYF2",
+    "aliases": [],
+    "name": "GRB10 interacting GYF protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12719",
+    "symbol": "VRK2",
+    "aliases": [],
+    "name": "VRK serine/threonine kinase 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:12851",
+    "symbol": "YWHAE",
+    "aliases": [],
+    "name": "tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:13221",
+    "symbol": "BCL11A",
+    "aliases": [],
+    "name": "BCL11 transcription factor A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:13222",
+    "symbol": "BCL11B",
+    "aliases": [],
+    "name": "BCL11 transcription factor B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:13248",
+    "symbol": "CALN1",
+    "aliases": [],
+    "name": "calneuron 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1390",
+    "symbol": "CACNA1C",
+    "aliases": [],
+    "name": "calcium voltage-gated channel subunit alpha1 C",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1396",
+    "symbol": "CACNA1I",
+    "aliases": [],
+    "name": "calcium voltage-gated channel subunit alpha1 I",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14026",
+    "symbol": "CSMD1",
+    "aliases": [],
+    "name": "CUB and Sushi multiple domains 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14294",
+    "symbol": "SHANK3",
+    "aliases": [
+      "KIAA1650",
+      "PSAP2",
+      "SPANK-2",
+      "prosap2"
+    ],
+    "name": "SH3 and multiple ankyrin repeat domains 3",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14598",
+    "symbol": "IMMP2L",
+    "aliases": [],
+    "name": "inner mitochondrial membrane peptidase subunit 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:14986",
+    "symbol": "SNAP91",
+    "aliases": [],
+    "name": "synaptosome associated protein 91",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:15850",
+    "symbol": "PPP1R16B",
+    "aliases": [],
+    "name": "protein phosphatase 1 regulatory subunit 16B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16454",
+    "symbol": "NMUR2",
+    "aliases": [],
+    "name": "neuromedin U receptor 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16648",
+    "symbol": "PJA1",
+    "aliases": [],
+    "name": "praja ring finger ubiquitin ligase 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16699",
+    "symbol": "SORCS3",
+    "aliases": [],
+    "name": "sortilin related VPS10 domain containing receptor 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16700",
+    "symbol": "ZFPM2",
+    "aliases": [],
+    "name": "zinc finger protein, FOG family member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:16851",
+    "symbol": "RALGPS1",
+    "aliases": [],
+    "name": "Ral GEF with PH domain and SH3 binding motif 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17149",
+    "symbol": "VSIG2",
+    "aliases": [],
+    "name": "V-set and immunoglobulin domain containing 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17302",
+    "symbol": "NEGR1",
+    "aliases": [],
+    "name": "neuronal growth regulator 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17452",
+    "symbol": "AS3MT",
+    "aliases": [],
+    "name": "arsenite methyltransferase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17474",
+    "symbol": "ESAM",
+    "aliases": [],
+    "name": "endothelial cell adhesion molecule",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:17662",
+    "symbol": "PTBP2",
+    "aliases": [],
+    "name": "polypyrimidine tract binding protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18469",
+    "symbol": "ZDHHC2",
+    "aliases": [],
+    "name": "zDHHC palmitoyltransferase 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:18601",
+    "symbol": "RTN4R",
+    "aliases": [
+      "NOGOR",
+      "NgR",
+      "NgR1"
+    ],
+    "name": "reticulon 4 receptor",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:19357",
+    "symbol": "GGNBP2",
+    "aliases": [],
+    "name": "gametogenetin binding protein 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1950",
+    "symbol": "CHRM1",
+    "aliases": [],
+    "name": "cholinergic receptor muscarinic 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1952",
+    "symbol": "CHRM3",
+    "aliases": [],
+    "name": "cholinergic receptor muscarinic 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1953",
+    "symbol": "CHRM4",
+    "aliases": [],
+    "name": "cholinergic receptor muscarinic 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:1957",
+    "symbol": "CHRNA3",
+    "aliases": [],
+    "name": "cholinergic receptor nicotinic alpha 3 subunit",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:19873",
+    "symbol": "GALNT10",
+    "aliases": [],
+    "name": "polypeptide N-acetylgalactosaminyltransferase 10",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20092",
+    "symbol": "ATF7IP",
+    "aliases": [],
+    "name": "activating transcription factor 7 interacting protein",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:20862",
+    "symbol": "SLC39A8",
+    "aliases": [],
+    "name": "solute carrier family 39 member 8",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21532",
+    "symbol": "SNX19",
+    "aliases": [],
+    "name": "sorting nexin 19",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21581",
+    "symbol": "CARMIL1",
+    "aliases": [],
+    "name": "capping protein regulator and myosin 1 linker 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21637",
+    "symbol": "SATB2",
+    "aliases": [],
+    "name": "SATB homeobox 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:21711",
+    "symbol": "ZNF804A",
+    "aliases": [],
+    "name": "zinc finger protein 804A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2174",
+    "symbol": "CNTN4",
+    "aliases": [],
+    "name": "contactin 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2235",
+    "symbol": "KLF6",
+    "aliases": [],
+    "name": "KLF transcription factor 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2314",
+    "symbol": "CPNE1",
+    "aliases": [],
+    "name": "copine 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:24003",
+    "symbol": "HTR3C",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 3C",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:24004",
+    "symbol": "HTR3D",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 3D",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:24005",
+    "symbol": "HTR3E",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 3E",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:24099",
+    "symbol": "TMTC1",
+    "aliases": [],
+    "name": "transmembrane O-mannosyltransferase targeting cadherins 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:24574",
+    "symbol": "SPATS2L",
+    "aliases": [],
+    "name": "spermatogenesis associated serine rich 2 like",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:25474",
+    "symbol": "ENOX1",
+    "aliases": [],
+    "name": "ecto-NOX disulfide-thiol exchanger 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2553",
+    "symbol": "CUL3",
+    "aliases": [],
+    "name": "cullin 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:26437",
+    "symbol": "TSNARE1",
+    "aliases": [],
+    "name": "t-SNARE domain containing 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:2707",
+    "symbol": "ACE",
+    "aliases": [],
+    "name": "angiotensin I converting enzyme",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:277",
+    "symbol": "ADRA1A",
+    "aliases": [],
+    "name": "adrenoceptor alpha 1A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:278",
+    "symbol": "ADRA1B",
+    "aliases": [],
+    "name": "adrenoceptor alpha 1B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:280",
+    "symbol": "ADRA1D",
+    "aliases": [],
+    "name": "adrenoceptor alpha 1D",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29010",
+    "symbol": "SETD1A",
+    "aliases": [],
+    "name": "SET domain containing 1A, histone lysine methyltransferase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29025",
+    "symbol": "ZNF536",
+    "aliases": [],
+    "name": "zinc finger protein 536",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29117",
+    "symbol": "WSCD2",
+    "aliases": [],
+    "name": "WSC domain containing 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29214",
+    "symbol": "GRAMD1B",
+    "aliases": [],
+    "name": "GRAM domain containing 1B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29316",
+    "symbol": "ZSWIM6",
+    "aliases": [],
+    "name": "zinc finger SWIM-type containing 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:29874",
+    "symbol": "THOC7",
+    "aliases": [],
+    "name": "THO complex subunit 7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3012",
+    "symbol": "DPYD",
+    "aliases": [],
+    "name": "dihydropyrimidine dehydrogenase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3023",
+    "symbol": "DRD2",
+    "aliases": [],
+    "name": "dopamine receptor D2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3024",
+    "symbol": "DRD3",
+    "aliases": [],
+    "name": "dopamine receptor D3",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3025",
+    "symbol": "DRD4",
+    "aliases": [],
+    "name": "dopamine receptor D4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:30619",
+    "symbol": "SPHKAP",
+    "aliases": [],
+    "name": "SPHK1 interactor, AKAP domain containing",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:32326",
+    "symbol": "IGSF9B",
+    "aliases": [],
+    "name": "immunoglobulin superfamily member 9B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3340",
+    "symbol": "EMX1",
+    "aliases": [],
+    "name": "empty spiracles homeobox 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3468",
+    "symbol": "ESR2",
+    "aliases": [],
+    "name": "estrogen receptor 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3657",
+    "symbol": "FES",
+    "aliases": [],
+    "name": "FES proto-oncogene, tyrosine kinase",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3821",
+    "symbol": "FOXO3",
+    "aliases": [],
+    "name": "forkhead box O3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:3823",
+    "symbol": "FOXP1",
+    "aliases": [],
+    "name": "forkhead box P1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:393",
+    "symbol": "AKT3",
+    "aliases": [],
+    "name": "AKT serine/threonine kinase 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4020",
+    "symbol": "FUT9",
+    "aliases": [],
+    "name": "fucosyltransferase 9",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4023",
+    "symbol": "FXR1",
+    "aliases": [],
+    "name": "FMR1 autosomal homolog 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4232",
+    "symbol": "GDNF",
+    "aliases": [],
+    "name": "glial cell derived neurotrophic factor",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4460",
+    "symbol": "GPM6A",
+    "aliases": [],
+    "name": "glycoprotein M6A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4571",
+    "symbol": "GRIA1",
+    "aliases": [],
+    "name": "glutamate ionotropic receptor AMPA type subunit 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4585",
+    "symbol": "GRIN2A",
+    "aliases": [],
+    "name": "glutamate ionotropic receptor NMDA type subunit 2A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4595",
+    "symbol": "GRM3",
+    "aliases": [],
+    "name": "glutamate metabotropic receptor 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:4845",
+    "symbol": "HCN1",
+    "aliases": [],
+    "name": "hyperpolarization activated cyclic nucleotide gated potassium channel 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5286",
+    "symbol": "HTR1A",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 1A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5287",
+    "symbol": "HTR1B",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 1B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5289",
+    "symbol": "HTR1D",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 1D",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5291",
+    "symbol": "HTR1E",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 1E",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5292",
+    "symbol": "HTR1F",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 1F",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5293",
+    "symbol": "HTR2A",
+    "aliases": [
+      "5-HT2A",
+      "HTR2"
+    ],
+    "name": "5-hydroxytryptamine receptor 2A",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5294",
+    "symbol": "HTR2B",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 2B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5295",
+    "symbol": "HTR2C",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 2C",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5297",
+    "symbol": "HTR3A",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 3A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5298",
+    "symbol": "HTR3B",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 3B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5299",
+    "symbol": "HTR4",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 4",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5300",
+    "symbol": "HTR5A",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 5A",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5301",
+    "symbol": "HTR6",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 6",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:5302",
+    "symbol": "HTR7",
+    "aliases": [],
+    "name": "5-hydroxytryptamine receptor 7",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6168",
+    "symbol": "ITIH3",
+    "aliases": [],
+    "name": "inter-alpha-trypsin inhibitor heavy chain 3",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6231",
+    "symbol": "KCNB1",
+    "aliases": [],
+    "name": "potassium voltage-gated channel subfamily B member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6249",
+    "symbol": "KCNG2",
+    "aliases": [],
+    "name": "potassium voltage-gated channel modifier subfamily G member 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6299",
+    "symbol": "KCNQ5",
+    "aliases": [],
+    "name": "potassium voltage-gated channel subfamily Q member 5",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6762",
+    "symbol": "MAD1L1",
+    "aliases": [],
+    "name": "mitotic arrest deficient 1 like 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:6824",
+    "symbol": "MAN2A1",
+    "aliases": [],
+    "name": "mannosidase alpha class 2A member 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7162",
+    "symbol": "MMP16",
+    "aliases": [],
+    "name": "matrix metallopeptidase 16",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7436",
+    "symbol": "MTHFR",
+    "aliases": [],
+    "name": "methylenetetrahydrofolate reductase",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:7656",
+    "symbol": "NCAM1",
+    "aliases": [],
+    "name": "neural cell adhesion molecule 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8000",
+    "symbol": "NRGN",
+    "aliases": [],
+    "name": "neurogranin",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8008",
+    "symbol": "NRXN1",
+    "aliases": [],
+    "name": "neurexin 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:812",
+    "symbol": "ATP2A2",
+    "aliases": [],
+    "name": "ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8153",
+    "symbol": "OPRD1",
+    "aliases": [],
+    "name": "opioid receptor delta 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8154",
+    "symbol": "OPRK1",
+    "aliases": [],
+    "name": "opioid receptor kappa 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8156",
+    "symbol": "OPRM1",
+    "aliases": [],
+    "name": "opioid receptor mu 1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:8781",
+    "symbol": "PDE4B",
+    "aliases": [],
+    "name": "phosphodiesterase 4B",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9407",
+    "symbol": "PRKD1",
+    "aliases": [],
+    "name": "protein kinase D1",
+    "source_provenance": [
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  },
+  {
+    "id": "HGNC:9898",
+    "symbol": "RBM12",
+    "aliases": [
+      "HRIHFB2091",
+      "KIAA0765",
+      "SWAN"
+    ],
+    "name": "RNA binding motif protein 12",
+    "source_provenance": [
+      "source:clinvar",
+      "source:hgnc",
+      "source:opentargets"
+    ]
+  }
+]

@@ -7,6 +7,11 @@ downloadable release artifacts, schemas, changelogs, and citation metadata.
 
 ## Current Status
 
+The `*-top120-v0.1.0-preview` releases are a 12-disease public preview batch for
+research-use inspection of the package shape, provenance, source boundaries, and
+review-gated evidence records. They are `draft` releases, not manuscript-grade
+biomedical evidence.
+
 `v0.2.0` is the current Alzheimer disease public-candidate research-use export
 (it de-doubles the ClinVar `source_record_id` format used in the v0.1.x line).
 These public-candidate releases validate the public data package, integrity
@@ -41,6 +46,13 @@ releases/
 archives/
   downloadable release bundles
 ```
+
+## Integrity
+
+Each release directory contains an `integrity.json` sidecar manifest with SHA-256
+checksums for the release files and its downloadable archive. The sidecar manifest is the
+canonical integrity record; zip archives are deterministic downloadable bundles and do not
+need to contain their own `integrity.json` file.
 
 ## Research-Use Boundary
 

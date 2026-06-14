@@ -1,0 +1,205 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "inflammatory-bowel-disease-top120-v0.1.0-preview",
+  "release_generated_at": "2026-06-14T00:00:00Z",
+  "release_status": "draft",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 37,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 428,
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3683,
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2680,
+      "sha256": "24a1eb0ac6b70541c4c2459052181fd1fc0bea3c96de427e5c6406407436277c"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ainflammatory-bowel-disease-paper120%3A2026-06-14/manifest.json",
+      "bytes": 610,
+      "sha256": "376b15209b185e465fcc16ab0423a94305662c3ca629552cbb51c61c62ff16aa"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ainflammatory-bowel-disease-paper120%3A2026-06-14/records.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ainflammatory-bowel-disease-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "bytes": 654,
+      "sha256": "183d8174e40ec7cf9a5fba219925d92efe24d07e412d8625ee0698a5e2a0ec5c"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ainflammatory-bowel-disease-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "bytes": 64991,
+      "sha256": "757bf15d5fa63745f2c862f82086fbf8322b27e2dd87f3cf95c11551f0b5ade5"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 11233,
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 1287,
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/README.md",
+      "bytes": 540,
+      "sha256": "76fa54b6f94558722feafc7c944007fdeff17a86ec3aa87eef4bcf20c9769676"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/associations.json",
+      "bytes": 135579,
+      "sha256": "5a28f535b7c38ef5a1c59275c8346d1d333edf80a9d56dd9fa580a3009a30fe2"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/changelog.json",
+      "bytes": 941,
+      "sha256": "792afb3335f8d68a349725bbe7465e2bc070d39e29d67c0c0df00ef86804abea"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/diseases.json",
+      "bytes": 175,
+      "sha256": "4d700db41a3362156f87701a467c648158a7b077f612747de48a27eda89ccf4a"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "bytes": 112901,
+      "sha256": "4780ca1c2169279446a07a1fa4023959ed384d128e44bb81e3bd8741b2ece75c"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/genes.json",
+      "bytes": 24241,
+      "sha256": "10c0ff8f4eb50b90e9961da28516d001f93c7bc9735f601db34398c79d4833ee"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/release.json",
+      "bytes": 604,
+      "sha256": "7db5d3f445813e7376af8a8acb963b7dcedfcac0b1905e47eddbaf6ffb615d57"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "bytes": 139104,
+      "sha256": "30d11a3ec7b02e100b7651cac32efd41775e713c38e23cdd75ddd7e8b9715515"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/source_snapshots.json",
+      "bytes": 2149,
+      "sha256": "909f2e68630e0bf2ecc56b1952b3dac4c8081b2d3a5b755e94b091a0124ff0cf"
+    },
+    {
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/sources.json",
+      "bytes": 8767,
+      "sha256": "d9fdbcf534a70596e701fbfc1af9ecdbb8170c511d949051972dec1f707eb6f7"
+    },
+    {
+      "path": "schemas/README.md",
+      "bytes": 825,
+      "sha256": "d306274cb3d33c16d681f4748095a391e3a1c5f863bc001480756c04167770ba"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/manifest.json",
+      "bytes": 4736,
+      "sha256": "7520de98c03c1c77fbfc02f4e633bdd15c09962232f7ad54bf1864303a5d3db3"
+    },
+    {
+      "path": "schemas/public-export-gate-decision.schema.json",
+      "bytes": 1626,
+      "sha256": "8945fb7a00247b5f18eac4836b7192cf30584e65ab8cfd4b4e7c79d74ad86ab1"
+    },
+    {
+      "path": "schemas/public-export-gate.schema.json",
+      "bytes": 5704,
+      "sha256": "d3d8ca0bce8ab8f70939c8c4719f4a3e57817266be2604124e3e6b979316eb85"
+    },
+    {
+      "path": "schemas/public-source-gate-decision.schema.json",
+      "bytes": 1686,
+      "sha256": "4b331d60eb003dff2c9a3e566b90a6822f3c5e83f54b85a0e3fd1baf30cd0f00"
+    },
+    {
+      "path": "schemas/public-source-gate.schema.json",
+      "bytes": 7186,
+      "sha256": "77ce9d3ca75c9544e0eccea770695632164b8bbeb7693a595189f218446a5be4"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 6547,
+      "sha256": "a258e70d38c194387297820b7727bef6d26119c66541c6732af1cc6195fc15f1"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 1340,
+      "sha256": "b6c9a1ba6045c5d6ccd61eecd0b735a36bba1f39f0983dff8e4e5a471c9e7ef9"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 2378,
+      "sha256": "95e713c81cfb67241a03eb85323c22546c63afb83e96a72b4c41fb2250a10777"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-inflammatory-bowel-disease-top120-v0.1.0-preview.zip",
+      "bytes": 69924,
+      "sha256": "3cb6d0ddd2e7665a1931a5f8ec2591e626b0a2fc2d9cc24171a7063d0c5f087a"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "manifest_version": "release-batch-export-v1",
+  "manifest_id": "top120-public-preview-v0.1.0",
+  "release_count": 12,
+  "source_review": {
+    "decision": "approved",
+    "reviewed_at": "2026-06-14T00:40:33Z",
+    "reviewer_id": "serkan",
+    "gate_digest": "2d67b3ddcb002d8391eba0e3145deeae9b9d1b82080a9ba2b4056923b9f62188",
+    "scope": "human source/license/citation gate retained in the private pipeline repo"
+  },
+  "release_ids": [
+    "alzheimer-top120-v0.1.0-preview",
+    "parkinson-top120-v0.1.0-preview",
+    "type2-diabetes-top120-v0.1.0-preview",
+    "breast-carcinoma-top120-v0.1.0-preview",
+    "dilated-cardiomyopathy-top120-v0.1.0-preview",
+    "amyotrophic-lateral-sclerosis-top120-v0.1.0-preview",
+    "huntington-disease-top120-v0.1.0-preview",
+    "cystic-fibrosis-top120-v0.1.0-preview",
+    "schizophrenia-top120-v0.1.0-preview",
+    "epilepsy-top120-v0.1.0-preview",
+    "inflammatory-bowel-disease-top120-v0.1.0-preview",
+    "hypertrophic-cardiomyopathy-top120-v0.1.0-preview"
+  ],
+  "releases": [
+    {
+      "disease_id": "MONDO:0004975",
+      "disease_label": "Alzheimer disease",
+      "release_id": "alzheimer-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-alzheimer-top120-v0.1.0-preview.zip",
+      "archive_sha256": "c19924ac66d5ddc443d4611b27ceb1ffab4ad0828fee0cf1b906a373cc10d886",
+      "integrity_path": "releases/alzheimer-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "0bfab4d2a382b95d68ab87513dfa0a3952a1f8d94eeb6a71d823866a5979eb80"
+    },
+    {
+      "disease_id": "MONDO:0005180",
+      "disease_label": "Parkinson disease",
+      "release_id": "parkinson-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-parkinson-top120-v0.1.0-preview.zip",
+      "archive_sha256": "636142c9693a7caf025087fd521722dd73b84f9504d530b414e8840df245333d",
+      "integrity_path": "releases/parkinson-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "62b6ca93d6d1b20e5002003c5da4d509ebdaacb5d9bfcd3260ce3b524ee8d79b"
+    },
+    {
+      "disease_id": "MONDO:0005148",
+      "disease_label": "Type 2 diabetes mellitus",
+      "release_id": "type2-diabetes-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-type2-diabetes-top120-v0.1.0-preview.zip",
+      "archive_sha256": "ccbdecc8783a206b6073dcb08f8b5cd120c7f962a0db307cd7afdd511538f35c",
+      "integrity_path": "releases/type2-diabetes-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "c1c13d03ccecb398a05881be9ab8101f13dee4383267cdc98a56475d23572c3f"
+    },
+    {
+      "disease_id": "MONDO:0004989",
+      "disease_label": "Breast carcinoma",
+      "release_id": "breast-carcinoma-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-breast-carcinoma-top120-v0.1.0-preview.zip",
+      "archive_sha256": "ce34fc4fd1eba5310ce3f13bae7994885ba067f5b06a712fcf048b38456aef52",
+      "integrity_path": "releases/breast-carcinoma-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "f884117c2894c0ebda25bb815ef919bcc08a3aa06259b6bf80a76f98eccfec66"
+    },
+    {
+      "disease_id": "MONDO:0005021",
+      "disease_label": "Dilated cardiomyopathy",
+      "release_id": "dilated-cardiomyopathy-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-dilated-cardiomyopathy-top120-v0.1.0-preview.zip",
+      "archive_sha256": "60f200c029df1855223bacc374f5081f1701da149f5d2488cde0df8c7e20b82d",
+      "integrity_path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "38f3ac040d4d47529977e843d5bd4e6d1b43767233dd2b4d05023a2161ba5340"
+    },
+    {
+      "disease_id": "MONDO:0004976",
+      "disease_label": "Amyotrophic lateral sclerosis",
+      "release_id": "amyotrophic-lateral-sclerosis-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-amyotrophic-lateral-sclerosis-top120-v0.1.0-preview.zip",
+      "archive_sha256": "bff0414d486eb77ecb1868150aa3545ab6ecb325ddf503f2d4b802a249911fda",
+      "integrity_path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "a0457c4aaf1263c7cedd8812f1f7a9b325295f259a039bf2a2eabb9087e52449"
+    },
+    {
+      "disease_id": "MONDO:0007739",
+      "disease_label": "Huntington disease",
+      "release_id": "huntington-disease-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-huntington-disease-top120-v0.1.0-preview.zip",
+      "archive_sha256": "bd670e099a8d88ce4304f232acf34c7a9398d4171d1ebf3debb0a19e1237933d",
+      "integrity_path": "releases/huntington-disease-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "6c757f4d686be26c2e5e458da22e29fd5d1d422f20fa68ef8e7af613eee6384c"
+    },
+    {
+      "disease_id": "MONDO:0009061",
+      "disease_label": "Cystic fibrosis",
+      "release_id": "cystic-fibrosis-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-cystic-fibrosis-top120-v0.1.0-preview.zip",
+      "archive_sha256": "37d20f87bf520456f7d88b7f00f34caf7d2738a3154a994706c1891c8046dd28",
+      "integrity_path": "releases/cystic-fibrosis-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "a4fd1e57f55c1dccb7d23f401643c5526ed59574096516275e9ea00e58c8b4c9"
+    },
+    {
+      "disease_id": "MONDO:0005090",
+      "disease_label": "Schizophrenia",
+      "release_id": "schizophrenia-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-schizophrenia-top120-v0.1.0-preview.zip",
+      "archive_sha256": "ff9a51891a3be404a2d375a1cb69100d3082927707598edbb628e4b88e9a25a2",
+      "integrity_path": "releases/schizophrenia-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "1094efd6d0380f326bdab2524828d91931f932647840c53ebc8ab5e175c39bfe"
+    },
+    {
+      "disease_id": "MONDO:0005027",
+      "disease_label": "Epilepsy",
+      "release_id": "epilepsy-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-epilepsy-top120-v0.1.0-preview.zip",
+      "archive_sha256": "9699922d5f1fa44bc350446b8286508e995765802e34b1978a99ae30e9695c10",
+      "integrity_path": "releases/epilepsy-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "4b44a00d485a3a67705349820ddbf7b4c93acfcbfad968d0beb1984255ef131e"
+    },
+    {
+      "disease_id": "MONDO:0005265",
+      "disease_label": "Inflammatory bowel disease",
+      "release_id": "inflammatory-bowel-disease-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-inflammatory-bowel-disease-top120-v0.1.0-preview.zip",
+      "archive_sha256": "3cb6d0ddd2e7665a1931a5f8ec2591e626b0a2fc2d9cc24171a7063d0c5f087a",
+      "integrity_path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "e3b75d239cb89dba90469fbc1feb31cc677b2adfd359fa968fa0aa57321b77aa"
+    },
+    {
+      "disease_id": "MONDO:0005045",
+      "disease_label": "Hypertrophic cardiomyopathy",
+      "release_id": "hypertrophic-cardiomyopathy-top120-v0.1.0-preview",
+      "archive_path": "archives/gene-disease-evidence-hypertrophic-cardiomyopathy-top120-v0.1.0-preview.zip",
+      "archive_sha256": "de1f6654c41ce93a549937a6bee79e9a6e5f1c94b5bec23a309a5f7b9365a9b5",
+      "integrity_path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/integrity.json",
+      "integrity_sha256": "e2fe0b5b3bf1058e5ec171a948e9cc78de394ea1f2a7ddfabf1f775749ecbe3a"
+    }
+  ]
+}

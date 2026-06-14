@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:opentargets:epilepsy-associated-targets:2026-06-14:paper120",
+  "source_ids": [
+    "source:opentargets"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aopentargets%3Aepilepsy-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "api-v4-graphql-2026-06-14-paper120",
+  "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Epilepsy top-120 HGNC-resolved targets from a top-150 fetch window).",
+  "record_count": 120,
+  "sha256": "a533d7d6451b55acdf646f4247fb3026dd31f6c6f18e592522857dc338a133ef"
+}

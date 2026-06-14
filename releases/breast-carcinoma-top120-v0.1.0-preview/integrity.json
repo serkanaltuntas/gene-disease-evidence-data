@@ -1,0 +1,205 @@
+{
+  "manifest_version": "release-integrity-v1",
+  "release_id": "breast-carcinoma-top120-v0.1.0-preview",
+  "release_generated_at": "2026-06-14T00:00:00Z",
+  "release_status": "draft",
+  "schema_version": "0.1.0",
+  "digest_algorithm": "sha256",
+  "canonical_path_root": "repository-root",
+  "file_count": 37,
+  "archive_count": 1,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 428,
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3683,
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2680,
+      "sha256": "24a1eb0ac6b70541c4c2459052181fd1fc0bea3c96de427e5c6406407436277c"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Abreast-carcinoma-paper120%3A2026-06-14/manifest.json",
+      "bytes": 580,
+      "sha256": "8b2f9f4db854c28f787a8762ad8668e0195aba84884786400356c03ebdc845e3"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Abreast-carcinoma-paper120%3A2026-06-14/records.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Abreast-carcinoma-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "bytes": 624,
+      "sha256": "08459958b28bd353c6403d4b8c60a3f6aca42dbc110e59a3f56057f1085cf365"
+    },
+    {
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Abreast-carcinoma-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "bytes": 77810,
+      "sha256": "cf2bee50cbae48cb99e6f018fb67a842236682c3c335fc6fa34c8e7128ca32ca"
+    },
+    {
+      "path": "docs/data-dictionary.md",
+      "bytes": 11233,
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "path": "docs/release-policy.md",
+      "bytes": 1287,
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/README.md",
+      "bytes": 530,
+      "sha256": "053cd29669b45dbea8e43a181120b58e58e6d97e94aa048a99ac47c35e944e05"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/associations.json",
+      "bytes": 135563,
+      "sha256": "5129bb4a28d82ce77acbc9400a54d4e3651e4fe52c611b85c3fdf53bab0d136f"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/changelog.json",
+      "bytes": 901,
+      "sha256": "2b7fa6ba312eb827a2dc873c1a1d2150e6f2c5601a57913f6b3f25309d0dbdd0"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/diseases.json",
+      "bytes": 165,
+      "sha256": "8de749455a38f6f141c2eeea073c395dfc4bac19d3bf2163e9e60a429b7a6fcc"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "bytes": 124978,
+      "sha256": "b5791719094997561b6a023ee010269280bc346ec4b036357ac8d02fe68b46ec"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/genes.json",
+      "bytes": 23947,
+      "sha256": "3766fea2d1f63f5ba83e6e9aae86227b86aa41de4821846762d382c4ca1372e7"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/release.json",
+      "bytes": 594,
+      "sha256": "c26d14010cde75cecc78caad36eebf16bcadedcf89f566d665ebf0effb3aa0bf"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "bytes": 139040,
+      "sha256": "d71cba0c6ad76dea99732f47f50d76a52da31d4eb873c3a022d3ba46f32849d8"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/source_snapshots.json",
+      "bytes": 2089,
+      "sha256": "c1f1883aca9f373968abdc2109d065c6298caddb4e7457da6228dffb0907af37"
+    },
+    {
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/sources.json",
+      "bytes": 8757,
+      "sha256": "9a7e7f5965d93b32169ac81826f7181ef3adb92ba22f40e8ae93f9e11c68dcca"
+    },
+    {
+      "path": "schemas/README.md",
+      "bytes": 825,
+      "sha256": "d306274cb3d33c16d681f4748095a391e3a1c5f863bc001480756c04167770ba"
+    },
+    {
+      "path": "schemas/association.schema.json",
+      "bytes": 1802,
+      "sha256": "5d67accffeca5996ae4265c4ce473396cb1f7189401ed0c99b0325c2a83143e0"
+    },
+    {
+      "path": "schemas/disease.schema.json",
+      "bytes": 516,
+      "sha256": "c2777ed7e39cd3b10ac2b193361f7c27d74a65ba90788fc5626d2ebf87ad9d27"
+    },
+    {
+      "path": "schemas/evidence-row.schema.json",
+      "bytes": 1938,
+      "sha256": "afd8566aa0a1a370f434808fd4e23af8a20c0742f4cd393f28023fde569beee7"
+    },
+    {
+      "path": "schemas/gene.schema.json",
+      "bytes": 554,
+      "sha256": "ebd61d1549edb2d307526667feafeb0aa0f10db65ce6afabb2638330bc012b09"
+    },
+    {
+      "path": "schemas/manifest.json",
+      "bytes": 4736,
+      "sha256": "7520de98c03c1c77fbfc02f4e633bdd15c09962232f7ad54bf1864303a5d3db3"
+    },
+    {
+      "path": "schemas/public-export-gate-decision.schema.json",
+      "bytes": 1626,
+      "sha256": "8945fb7a00247b5f18eac4836b7192cf30584e65ab8cfd4b4e7c79d74ad86ab1"
+    },
+    {
+      "path": "schemas/public-export-gate.schema.json",
+      "bytes": 5704,
+      "sha256": "d3d8ca0bce8ab8f70939c8c4719f4a3e57817266be2604124e3e6b979316eb85"
+    },
+    {
+      "path": "schemas/public-source-gate-decision.schema.json",
+      "bytes": 1686,
+      "sha256": "4b331d60eb003dff2c9a3e566b90a6822f3c5e83f54b85a0e3fd1baf30cd0f00"
+    },
+    {
+      "path": "schemas/public-source-gate.schema.json",
+      "bytes": 7186,
+      "sha256": "77ce9d3ca75c9544e0eccea770695632164b8bbeb7693a595189f218446a5be4"
+    },
+    {
+      "path": "schemas/release-candidate-checklist.schema.json",
+      "bytes": 4636,
+      "sha256": "c3e8488117eea77d1e46ab1545ae6df0ac68b828ece2f2a0cb6ea2f5fd39c9da"
+    },
+    {
+      "path": "schemas/release-integrity.schema.json",
+      "bytes": 1524,
+      "sha256": "4d084f2d40f704c747e6e7492d1203788d6d07efd4fb686b6c07890021e19b44"
+    },
+    {
+      "path": "schemas/release.schema.json",
+      "bytes": 679,
+      "sha256": "4a41ba490d8c95112e4ad559e7baaa74045fa64e8bfa0ad78e8c1aaefd6a1c7a"
+    },
+    {
+      "path": "schemas/review-artifact.schema.json",
+      "bytes": 892,
+      "sha256": "14a378d8233f10dc5824a505ec2e6232e8d96dcd2dbcbc81a4bdb49b828e2cd6"
+    },
+    {
+      "path": "schemas/review-decision.schema.json",
+      "bytes": 1715,
+      "sha256": "ac4d6251cdee54fba059360a4b26cb50a9b8875d202f3992553fb0a9cd4e667d"
+    },
+    {
+      "path": "schemas/source-recheck.schema.json",
+      "bytes": 6547,
+      "sha256": "a258e70d38c194387297820b7727bef6d26119c66541c6732af1cc6195fc15f1"
+    },
+    {
+      "path": "schemas/source-snapshot.schema.json",
+      "bytes": 1340,
+      "sha256": "b6c9a1ba6045c5d6ccd61eecd0b735a36bba1f39f0983dff8e4e5a471c9e7ef9"
+    },
+    {
+      "path": "schemas/source.schema.json",
+      "bytes": 2378,
+      "sha256": "95e713c81cfb67241a03eb85323c22546c63afb83e96a72b4c41fb2250a10777"
+    }
+  ],
+  "archives": [
+    {
+      "path": "archives/gene-disease-evidence-breast-carcinoma-top120-v0.1.0-preview.zip",
+      "bytes": 74332,
+      "sha256": "ce34fc4fd1eba5310ce3f13bae7994885ba067f5b06a712fcf048b38456aef52"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:huntington-disease-paper120:2026-06-14",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ahuntington-disease-paper120%3A2026-06-14/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "gene_condition_source_id-2026-06-14-paper120",
+  "license_note": "ClinVar gene_condition_source_id filtered to Huntington disease paper-scale top-120 scope genes and MONDO:0007739.",
+  "record_count": 1,
+  "sha256": "6dd76ee94395e6ebe4be2d62fbd77edbb36cd8c23b97e5eef5e8fcfdc3b20692"
+}

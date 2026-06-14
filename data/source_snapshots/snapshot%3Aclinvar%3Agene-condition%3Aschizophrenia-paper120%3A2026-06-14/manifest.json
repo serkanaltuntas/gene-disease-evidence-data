@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:clinvar:gene-condition:schizophrenia-paper120:2026-06-14",
+  "source_ids": [
+    "source:clinvar"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aschizophrenia-paper120%3A2026-06-14/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "gene_condition_source_id-2026-06-14-paper120",
+  "license_note": "ClinVar gene_condition_source_id filtered to Schizophrenia paper-scale top-120 scope genes and MONDO:0005090.",
+  "record_count": 6,
+  "sha256": "a4a767adc4762d242d524ca76462d86927b3f713d9b331fbd782aebe7f9f5941"
+}

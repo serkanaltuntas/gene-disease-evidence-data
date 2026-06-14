@@ -1,0 +1,12 @@
+{
+  "id": "snapshot:opentargets:huntington-disease-associated-targets:2026-06-14:paper120",
+  "source_ids": [
+    "source:opentargets"
+  ],
+  "path": "data/source_snapshots/snapshot%3Aopentargets%3Ahuntington-disease-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+  "accessed_at": "2026-06-14",
+  "version": "api-v4-graphql-2026-06-14-paper120",
+  "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Huntington disease top-120 HGNC-resolved targets from a top-150 fetch window).",
+  "record_count": 120,
+  "sha256": "42d488421ea0f90dedd640b3d03a76e578e43a82a3f9e8ea4ed6e158a3e2ff33"
+}

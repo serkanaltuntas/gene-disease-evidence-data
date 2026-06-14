@@ -1,0 +1,42 @@
+[
+  {
+    "id": "snapshot:clinvar:gene-condition:amyotrophic-lateral-sclerosis-paper120:2026-06-14",
+    "source_ids": [
+      "source:clinvar"
+    ],
+    "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aamyotrophic-lateral-sclerosis-paper120%3A2026-06-14/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "gene_condition_source_id-2026-06-14-paper120",
+    "license_note": "ClinVar gene_condition_source_id filtered to Amyotrophic lateral sclerosis paper-scale top-120 scope genes and MONDO:0004976.",
+    "record_count": 17,
+    "sha256": "8ef81128a823964364be42ba6cfd5f303997a56de006004f8c4fe80a47e1d8c4",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed ClinVar gene-condition snapshot is acceptable for public-candidate rendering, but paper-grade use should prefer an archived monthly ClinVar release or otherwise documented dated upstream material.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  },
+  {
+    "id": "snapshot:opentargets:amyotrophic-lateral-sclerosis-associated-targets:2026-06-14:paper120",
+    "source_ids": [
+      "source:opentargets"
+    ],
+    "path": "data/source_snapshots/snapshot%3Aopentargets%3Aamyotrophic-lateral-sclerosis-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+    "accessed_at": "2026-06-14",
+    "version": "api-v4-graphql-2026-06-14-paper120",
+    "license_note": "Open Targets Platform GraphQL API paper-scale development snapshot (Amyotrophic lateral sclerosis top-120 HGNC-resolved targets from a top-150 fetch window).",
+    "record_count": 120,
+    "sha256": "e293e947b78d1771a417deeab554f1d7e992ac43c69a1714948cd9515887fcda",
+    "freshness": {
+      "assessed_at": "2026-06-09",
+      "basis": "The fixed Open Targets development snapshot is acceptable for public-candidate rendering, but paper-grade use should refresh from a dated upstream export or documented current source pull.",
+      "max_age_days": 30,
+      "next_review_due": "2026-07-09",
+      "paper_grade_blocker": false,
+      "status": "refresh_recommended"
+    }
+  }
+]
