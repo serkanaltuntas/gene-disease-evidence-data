@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-06-14T11:05:00Z",
+  "id": "top120-public-preview-v0.1.1",
+  "notes": [
+    "Public aggregate package for research-use inspection of source-attributed gene-disease evidence records.",
+    "Not medical advice, diagnosis, treatment guidance, patient risk prediction, clinical decision support, clinical certainty, or a clinical-use dataset.",
+    "Paper-grade gates passed in the private pipeline; this does not imply manuscript acceptance, external peer review, or clinical validity."
+  ],
+  "release_count": 12,
+  "release_kind": "120-association public preview aggregate",
+  "research_use_only": true,
+  "schema_version": "0.1.0",
+  "status": "public_preview_paper_gate_passed",
+  "totals": {
+    "associations": 1440,
+    "disease_count": 12,
+    "evidence_rows": 1505,
+    "gene_rows": 1440,
+    "source_snapshots": 24
+  }
+}

@@ -1,0 +1,955 @@
+{
+  "archive_count": 1,
+  "archives": [
+    {
+      "bytes": 602991,
+      "path": "archives/gene-disease-evidence-top120-public-preview-v0.1.1.zip",
+      "sha256": "a11506d5608586bbaa78221ac77153e44d526c0a477d969d3622c9fc49c2e6be"
+    }
+  ],
+  "canonical_path_root": "repository-root",
+  "digest_algorithm": "sha256",
+  "file_count": 187,
+  "files": [
+    {
+      "bytes": 428,
+      "path": "CITATION.cff",
+      "sha256": "8b77a34baa74d34752760631e884d273d530c47901126430109d2f83ca0f56dd"
+    },
+    {
+      "bytes": 3683,
+      "path": "LICENSE",
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "bytes": 567,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aalzheimer-paper120%3A2026-06-14/manifest.json",
+      "sha256": "ce38dfcba09d11924947580a6728546d0c9adbf8333b51d8452268c86c41e552"
+    },
+    {
+      "bytes": 1824,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aalzheimer-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "7a705662c494b117cefff5c02b079851d0038a054bee95851146689b69ca889b"
+    },
+    {
+      "bytes": 620,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aamyotrophic-lateral-sclerosis-paper120%3A2026-06-14/manifest.json",
+      "sha256": "e60ee2d733f9997998c937ca1d7faa6a926b74dcf613645afa0620c33177d0d5"
+    },
+    {
+      "bytes": 5406,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aamyotrophic-lateral-sclerosis-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "8ef81128a823964364be42ba6cfd5f303997a56de006004f8c4fe80a47e1d8c4"
+    },
+    {
+      "bytes": 580,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Abreast-carcinoma-paper120%3A2026-06-14/manifest.json",
+      "sha256": "8b2f9f4db854c28f787a8762ad8668e0195aba84884786400356c03ebdc845e3"
+    },
+    {
+      "bytes": 0,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Abreast-carcinoma-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 577,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Acystic-fibrosis-paper120%3A2026-06-14/manifest.json",
+      "sha256": "ce048dcd359390697e0ce0624fc6d8f9b22de8d1038dba2ab401a57d5bce16cc"
+    },
+    {
+      "bytes": 618,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Acystic-fibrosis-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "ecb1325ff27238681027a1eb4ae94cedde3805a02b02b544f8585c3e6221e28a"
+    },
+    {
+      "bytes": 598,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Adilated-cardiomyopathy-paper120%3A2026-06-14/manifest.json",
+      "sha256": "9824f0c9439d0a66db9fd5a0a92e97c3a238a0a6f9283942a780e54f20b03d42"
+    },
+    {
+      "bytes": 0,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Adilated-cardiomyopathy-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 556,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aepilepsy-paper120%3A2026-06-14/manifest.json",
+      "sha256": "2bd8cf9d42783478c06850841886a2add61dc6962dca569d6229f389b7fbfb79"
+    },
+    {
+      "bytes": 0,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aepilepsy-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 586,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ahuntington-disease-paper120%3A2026-06-14/manifest.json",
+      "sha256": "b73dab2589ddff6dde8d4650cfdfd8f17a09add4fd70037cba487ba064be7963"
+    },
+    {
+      "bytes": 309,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ahuntington-disease-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "6dd76ee94395e6ebe4be2d62fbd77edbb36cd8c23b97e5eef5e8fcfdc3b20692"
+    },
+    {
+      "bytes": 613,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ahypertrophic-cardiomyopathy-paper120%3A2026-06-14/manifest.json",
+      "sha256": "986f9f20463f448f4dade6b88324054bd426aed38782502a67d912959eed251e"
+    },
+    {
+      "bytes": 0,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ahypertrophic-cardiomyopathy-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 610,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ainflammatory-bowel-disease-paper120%3A2026-06-14/manifest.json",
+      "sha256": "376b15209b185e465fcc16ab0423a94305662c3ca629552cbb51c61c62ff16aa"
+    },
+    {
+      "bytes": 0,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Ainflammatory-bowel-disease-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 568,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aparkinson-paper120%3A2026-06-14/manifest.json",
+      "sha256": "2018220818894c90ee433895c7096180b60dd18d5b79bed1c4b2684c9e162eb8"
+    },
+    {
+      "bytes": 3684,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aparkinson-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "aa811cdabadf1972ac577419c22952b65e83cceeed18636b2f97ba0e3270d546"
+    },
+    {
+      "bytes": 571,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aschizophrenia-paper120%3A2026-06-14/manifest.json",
+      "sha256": "f068c7b42be36fbc27cf3844bd19c2aa561c29ad592de66d444d76b0c2bfa67b"
+    },
+    {
+      "bytes": 1854,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Aschizophrenia-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "a4a767adc4762d242d524ca76462d86927b3f713d9b331fbd782aebe7f9f5941"
+    },
+    {
+      "bytes": 585,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Atype2-diabetes-paper120%3A2026-06-14/manifest.json",
+      "sha256": "403c67aa2f09b0d9120ee93e3c84ee41cf42714961d7daec051f9f7203569062"
+    },
+    {
+      "bytes": 6705,
+      "path": "data/source_snapshots/snapshot%3Aclinvar%3Agene-condition%3Atype2-diabetes-paper120%3A2026-06-14/records.jsonl",
+      "sha256": "9e193e34c468817119c551a041506dbfd4b874a85adb6f12e0d39d0bb2485690"
+    },
+    {
+      "bytes": 611,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aalzheimer-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "8e5c2bda95cba5a459ca2e24899a11e214859b562123cc8fc53bb0a111f462d6"
+    },
+    {
+      "bytes": 61049,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aalzheimer-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "3e83377ce1ecf48bd64e471ae9a5a505bcaf06e40c2dd4043a74b33d6780ff8c"
+    },
+    {
+      "bytes": 663,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aamyotrophic-lateral-sclerosis-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "187a895b8ab0a26c443f6b1a5a8c92bf839201e0a71ba71f2eb21357f7c97ae7"
+    },
+    {
+      "bytes": 62506,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aamyotrophic-lateral-sclerosis-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "e293e947b78d1771a417deeab554f1d7e992ac43c69a1714948cd9515887fcda"
+    },
+    {
+      "bytes": 624,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Abreast-carcinoma-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "08459958b28bd353c6403d4b8c60a3f6aca42dbc110e59a3f56057f1085cf365"
+    },
+    {
+      "bytes": 77810,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Abreast-carcinoma-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "cf2bee50cbae48cb99e6f018fb67a842236682c3c335fc6fa34c8e7128ca32ca"
+    },
+    {
+      "bytes": 621,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Acystic-fibrosis-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "a058c56f5fd9fbe76a5c0502381c27e3eea553784f61b5f3d1eb1df09ee8a92b"
+    },
+    {
+      "bytes": 46009,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Acystic-fibrosis-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "1968693dc52596707adee4cec030388254b1ff9d897be550035f45726a0d96c9"
+    },
+    {
+      "bytes": 642,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Adilated-cardiomyopathy-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "d1fc239bbcb2596f540e90dc5b8fb867171063af7bfbee9c59c0248828dfae82"
+    },
+    {
+      "bytes": 81351,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Adilated-cardiomyopathy-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "c9298ca3b2fe482b3065f38de618a1e1ab401cc6f8e601fc0ea7d4b15344fde1"
+    },
+    {
+      "bytes": 600,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aepilepsy-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "34d83dd93804c23126eb4d2a4f4a65e514b63598ad1a702189014abcd35655c3"
+    },
+    {
+      "bytes": 92109,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aepilepsy-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "a533d7d6451b55acdf646f4247fb3026dd31f6c6f18e592522857dc338a133ef"
+    },
+    {
+      "bytes": 630,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ahuntington-disease-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "cb589d44b80dd11d97f4350d2a5af20f39fc9b18a5d54c727b3f7fb0ea093022"
+    },
+    {
+      "bytes": 49278,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ahuntington-disease-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "42d488421ea0f90dedd640b3d03a76e578e43a82a3f9e8ea4ed6e158a3e2ff33"
+    },
+    {
+      "bytes": 657,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ahypertrophic-cardiomyopathy-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "45ca358f793b0102f03a4035b203152b1f8d3806ff92e46112ac6354ef91e7a1"
+    },
+    {
+      "bytes": 80246,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ahypertrophic-cardiomyopathy-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "a197b536a17f86df78963937a13bb59da6cd4d4a3ff1610193665262ccf51391"
+    },
+    {
+      "bytes": 654,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ainflammatory-bowel-disease-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "183d8174e40ec7cf9a5fba219925d92efe24d07e412d8625ee0698a5e2a0ec5c"
+    },
+    {
+      "bytes": 64991,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Ainflammatory-bowel-disease-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "757bf15d5fa63745f2c862f82086fbf8322b27e2dd87f3cf95c11551f0b5ade5"
+    },
+    {
+      "bytes": 611,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aparkinson-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "9c1a94e197182380a192b6bc986d28170429d349e089933b2b6a903290fb7339"
+    },
+    {
+      "bytes": 61954,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aparkinson-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "c08e05dc364137de07d862adfd437a660b55fa1680f51d4c16a75cd31afea9d6"
+    },
+    {
+      "bytes": 615,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aschizophrenia-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "c6cac1c18863b1b442d946f4604e27c294884fa15c3eaad791362f5796f4a980"
+    },
+    {
+      "bytes": 56028,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Aschizophrenia-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "f339ec6110192f02296a0702bdeea37dcabc63f13625bac189ecc483aa8cd986"
+    },
+    {
+      "bytes": 628,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Atype2-diabetes-associated-targets%3A2026-06-14%3Apaper120/manifest.json",
+      "sha256": "8fe45a0e6dd35d7910dc882d6d9460e40e3a5b8217070bcdac563bdfce431419"
+    },
+    {
+      "bytes": 61619,
+      "path": "data/source_snapshots/snapshot%3Aopentargets%3Atype2-diabetes-associated-targets%3A2026-06-14%3Apaper120/records.jsonl",
+      "sha256": "94c8be03f63a6f60aa854dec02853f1c0d8fd5e1e3d99185e415ff6c79d12e03"
+    },
+    {
+      "bytes": 11233,
+      "path": "docs/data-dictionary.md",
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "bytes": 1287,
+      "path": "docs/release-policy.md",
+      "sha256": "64966dc606df72f562d0292f990ef29a6f658bd151738f076d1bbcf130b7a1e1"
+    },
+    {
+      "bytes": 523,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/README.md",
+      "sha256": "4a0569134512a10d4eb61c8d9fa9f308bbb4059c483cdcf976bbf71ebb601463"
+    },
+    {
+      "bytes": 136421,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/associations.json",
+      "sha256": "4ae706da037138cf4a614a9af1c8131cebff7f1b61a23780178aafa6640cf740"
+    },
+    {
+      "bytes": 1500,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/changelog.json",
+      "sha256": "a35357eff383a54fb33517b27547adf3707142b47c0b0c9ea8b08a6842bd1439"
+    },
+    {
+      "bytes": 179,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/diseases.json",
+      "sha256": "ac5fed035f77d913da90f22ceb9b7e8aa881744270f53d69f577e8fb95dc5216"
+    },
+    {
+      "bytes": 109885,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "36da3285c9ee13dc5d3861585546b50d76c120a49d78e16c50086efc373d88e2"
+    },
+    {
+      "bytes": 24767,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/genes.json",
+      "sha256": "5aea6a6af7b9f974d8161e827542b0dff3bd06a98599155fba6dab6cb5b77335"
+    },
+    {
+      "bytes": 7224,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/integrity.json",
+      "sha256": "0bfab4d2a382b95d68ab87513dfa0a3952a1f8d94eeb6a71d823866a5979eb80"
+    },
+    {
+      "bytes": 587,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/release.json",
+      "sha256": "bf000ea6cbb28260686701f22358320d7a24d2ccaf3075375e998a19c02ca778"
+    },
+    {
+      "bytes": 138728,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "d2739b97277d829dbea04b72f0ebf67ac37d704924c72ae88461af410e4d390d"
+    },
+    {
+      "bytes": 2063,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "dd06fd7625ca4ac52bcd320f8fe1318c7a87bf0a87c6b18f6ee3bea56e4aece7"
+    },
+    {
+      "bytes": 6895,
+      "path": "releases/alzheimer-top120-v0.1.0-preview/sources.json",
+      "sha256": "77f8e499e197aec9e50b5e653a1cabffa4db7748b1b5c7e8c8ed948d028078c6"
+    },
+    {
+      "bytes": 543,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/README.md",
+      "sha256": "6224bbb0c8ff513070254926cce20ae21df4d51618f0684943b9bc233c2db6b1"
+    },
+    {
+      "bytes": 138159,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/associations.json",
+      "sha256": "0a29df439c9732599a4da6854ae8dd8467005b5bbb0525a644cdae575c8b7842"
+    },
+    {
+      "bytes": 1641,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/changelog.json",
+      "sha256": "61b7fb1d23bcbadadb4cb60586521be120ceb2163e48d33db1b11ead1eca53b4"
+    },
+    {
+      "bytes": 158,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/diseases.json",
+      "sha256": "cae5793d5f7e4f93358b42eb384338ee2d6484710321e215bb55805baff19d3d"
+    },
+    {
+      "bytes": 120348,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "e355151d84a8ab7c94b64a1e9d9dae2855bba2a0c22610cea3cc5b092a790572"
+    },
+    {
+      "bytes": 25723,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/genes.json",
+      "sha256": "5477924122a5126c9d11052b3ac3c834859a89bbc29f40cac3b627174417224b"
+    },
+    {
+      "bytes": 7544,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/integrity.json",
+      "sha256": "a0457c4aaf1263c7cedd8812f1f7a9b325295f259a039bf2a2eabb9087e52449"
+    },
+    {
+      "bytes": 607,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/release.json",
+      "sha256": "b9f2d41cd1e91e09a4fd0d6eea63aaf42167eb3a93e22ea21a26d1c3477e7d82"
+    },
+    {
+      "bytes": 138816,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "5c17d8c669d95dcb9d7c71ac9d2b334b33e9552ebaaaf6e376b68539cdcac293"
+    },
+    {
+      "bytes": 2168,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "1bacc2a69dad12b213d137b0b003e68150121731cfe8cc42fe9afba37a9522d6"
+    },
+    {
+      "bytes": 6915,
+      "path": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.0-preview/sources.json",
+      "sha256": "99ba10017604145374dcb4beb1bb19151a8937d2d60014ee43f2e6b874af2e2c"
+    },
+    {
+      "bytes": 530,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/README.md",
+      "sha256": "053cd29669b45dbea8e43a181120b58e58e6d97e94aa048a99ac47c35e944e05"
+    },
+    {
+      "bytes": 135563,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/associations.json",
+      "sha256": "5129bb4a28d82ce77acbc9400a54d4e3651e4fe52c611b85c3fdf53bab0d136f"
+    },
+    {
+      "bytes": 901,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/changelog.json",
+      "sha256": "2b7fa6ba312eb827a2dc873c1a1d2150e6f2c5601a57913f6b3f25309d0dbdd0"
+    },
+    {
+      "bytes": 165,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/diseases.json",
+      "sha256": "8de749455a38f6f141c2eeea073c395dfc4bac19d3bf2163e9e60a429b7a6fcc"
+    },
+    {
+      "bytes": 124978,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "b5791719094997561b6a023ee010269280bc346ec4b036357ac8d02fe68b46ec"
+    },
+    {
+      "bytes": 23947,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/genes.json",
+      "sha256": "3766fea2d1f63f5ba83e6e9aae86227b86aa41de4821846762d382c4ca1372e7"
+    },
+    {
+      "bytes": 7332,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/integrity.json",
+      "sha256": "f884117c2894c0ebda25bb815ef919bcc08a3aa06259b6bf80a76f98eccfec66"
+    },
+    {
+      "bytes": 594,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/release.json",
+      "sha256": "c26d14010cde75cecc78caad36eebf16bcadedcf89f566d665ebf0effb3aa0bf"
+    },
+    {
+      "bytes": 139040,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "d71cba0c6ad76dea99732f47f50d76a52da31d4eb873c3a022d3ba46f32849d8"
+    },
+    {
+      "bytes": 2089,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "c1f1883aca9f373968abdc2109d065c6298caddb4e7457da6228dffb0907af37"
+    },
+    {
+      "bytes": 8757,
+      "path": "releases/breast-carcinoma-top120-v0.1.0-preview/sources.json",
+      "sha256": "9a7e7f5965d93b32169ac81826f7181ef3adb92ba22f40e8ae93f9e11c68dcca"
+    },
+    {
+      "bytes": 529,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/README.md",
+      "sha256": "b8d608f0629348c038e8b270cf538217f07bbaf8d03703b1e0ee07e4a457dd04"
+    },
+    {
+      "bytes": 135977,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/associations.json",
+      "sha256": "6cdd94c18144aed0824cf6a609f5fc16ac85e9feeab5d9a99da23db8361d80f5"
+    },
+    {
+      "bytes": 1542,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/changelog.json",
+      "sha256": "174662475519226876ac4d645bc0b42bd33af87ee97c5e61ede004390b1962b7"
+    },
+    {
+      "bytes": 144,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/diseases.json",
+      "sha256": "4f1a971010388e6c1787b6d14b816346a7a9d842be25cd2a356f37d9f6325830"
+    },
+    {
+      "bytes": 94561,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "eca655952e52ce26143bc651f08de5c06a7395fd13d121c9cc385bf26dd10659"
+    },
+    {
+      "bytes": 23714,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/genes.json",
+      "sha256": "1e2fb1248a63b48b0acc0734af1477f865b0a767fc53778302ebeb9606192beb"
+    },
+    {
+      "bytes": 7318,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/integrity.json",
+      "sha256": "a4fd1e57f55c1dccb7d23f401643c5526ed59574096516275e9ea00e58c8b4c9"
+    },
+    {
+      "bytes": 593,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/release.json",
+      "sha256": "a06fffcb247823e93bb3596291214e58b17ac77bd5263ffe5c2ec90e1e9aa098"
+    },
+    {
+      "bytes": 139448,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "b5cb811e220343fbe3dbfbc4350a4d0db79b1eb284ca2ab1abd3323d9f48b1e0"
+    },
+    {
+      "bytes": 2083,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "9786750a3583071b318d2ef3a8e3e5978510042cc65b7d27767f70bd1f2a3a49"
+    },
+    {
+      "bytes": 6901,
+      "path": "releases/cystic-fibrosis-top120-v0.1.0-preview/sources.json",
+      "sha256": "aa0e8724f7636e1fae053ea2c1708d08fe522a086415cf6a79b8b92fae3908e8"
+    },
+    {
+      "bytes": 536,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/README.md",
+      "sha256": "8a19b201d35622e03b33543d091008b81b1f5761d1264e9c76cbb2a12bd9ba2b"
+    },
+    {
+      "bytes": 135567,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/associations.json",
+      "sha256": "582aa09d17bffb6406f872b36fa6ee4e54675b8393a3815d62958364cccfe5ec"
+    },
+    {
+      "bytes": 925,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/changelog.json",
+      "sha256": "12c5802b6fd4e267612b83831c2beea5c8f2e28ff525abec13560039adcedcf2"
+    },
+    {
+      "bytes": 171,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/diseases.json",
+      "sha256": "483f1a4df231be16de7254174c36f02d1a6f76e24f3d876c4b2100684bfc2dc6"
+    },
+    {
+      "bytes": 128638,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "da8199c6387e3b73a5fe797393b693aec9c6ccc83e9f4545840bcee5dd1e88b2"
+    },
+    {
+      "bytes": 24351,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/genes.json",
+      "sha256": "9537e372d016ad98ec42232995684698bf864bf278ad2392ca9d7fb14e9d21ab"
+    },
+    {
+      "bytes": 7428,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/integrity.json",
+      "sha256": "38f3ac040d4d47529977e843d5bd4e6d1b43767233dd2b4d05023a2161ba5340"
+    },
+    {
+      "bytes": 600,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/release.json",
+      "sha256": "2e1e6b977616fae9fc1e128260aa142445f5684456823ac238f66fb42e802213"
+    },
+    {
+      "bytes": 139056,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "356bb7e5109ece1821fabeebd9a436a14d886d4072de4bfb350e94ce6b9ee565"
+    },
+    {
+      "bytes": 2125,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "8e089280f59671430a5705c74cd116ad553981f4fd443fbdbee14331ed5b5d83"
+    },
+    {
+      "bytes": 8763,
+      "path": "releases/dilated-cardiomyopathy-top120-v0.1.0-preview/sources.json",
+      "sha256": "018bb07b7ffcfd5009c4fc4862cc77dc313651bb360a2bcf25eb4a46f7b2e9a3"
+    },
+    {
+      "bytes": 522,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/README.md",
+      "sha256": "5310d4e7a16b58dc976fa7caa7cc70281eb5ed349df7403e2d93d25b1611562d"
+    },
+    {
+      "bytes": 135583,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/associations.json",
+      "sha256": "5d3c6266fff71dfb35dd3b1191264297fd3aa23a2ccd3361ed37458b6c6a454f"
+    },
+    {
+      "bytes": 869,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/changelog.json",
+      "sha256": "36afa25a2049d1cdac829f9b376f6847b5faa8d8db76ec7094b336852ed07ae4"
+    },
+    {
+      "bytes": 157,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/diseases.json",
+      "sha256": "795a6cbfc7db4a61f855c7cd749095ad0e7fe1e3280d58199c286ca0006e481b"
+    },
+    {
+      "bytes": 136918,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "b6de00b56ce11f76ec8abf3eb4e1cb18565071dd234a26660afab77e54f5fc6c"
+    },
+    {
+      "bytes": 25237,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/genes.json",
+      "sha256": "d2daeb2ef581fd6ada94f23f87f2cb7060ef01c83a90935ec2986570d61c72f1"
+    },
+    {
+      "bytes": 7204,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/integrity.json",
+      "sha256": "4b44a00d485a3a67705349820ddbf7b4c93acfcbfad968d0beb1984255ef131e"
+    },
+    {
+      "bytes": 586,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/release.json",
+      "sha256": "0479eceb138b33c415223a12a79ad07b26a5ece24ba1c919afcedc942e801dfd"
+    },
+    {
+      "bytes": 139120,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "4236c6e01a4f7f476496dfbf4330d54035702c7a7a6097ea6c4ac8e37061b98a"
+    },
+    {
+      "bytes": 2041,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "d59876ffd70fc1802df2ed00a5f879ab222231872cdf808c744b25ca219b728f"
+    },
+    {
+      "bytes": 8749,
+      "path": "releases/epilepsy-top120-v0.1.0-preview/sources.json",
+      "sha256": "2274809a56528e3369e78bedc922c1a4b716b5a644957e61a7f75b62efeebf3e"
+    },
+    {
+      "bytes": 532,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/README.md",
+      "sha256": "eb2b2a7a32df5c2424095913ba0697d2422621b9750a962f78795e32e8ed65e6"
+    },
+    {
+      "bytes": 135697,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/associations.json",
+      "sha256": "64447e12f12152f1a6366fa6f1c4f21e9be25b7ccff732bb2e707ad3b48ed12d"
+    },
+    {
+      "bytes": 1563,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/changelog.json",
+      "sha256": "24df12bc5f3cf53ad4db73924205eb262f056c217eb8ba36dd9df5da01db53d1"
+    },
+    {
+      "bytes": 147,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/diseases.json",
+      "sha256": "a9ef1a32b76ace2ebc53e3cca6a755e7f919771bf9eafa296f396567bd2d1dd5"
+    },
+    {
+      "bytes": 95911,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "7c3abad801ca046dced1b797c80e6a2c7f93d1171a1f28d138ec555609e9cfa5"
+    },
+    {
+      "bytes": 25160,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/genes.json",
+      "sha256": "abe2ea746f93d8686bd82c8a07805eac5a83532422238154a8db55cc21810fd8"
+    },
+    {
+      "bytes": 7366,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/integrity.json",
+      "sha256": "6c757f4d686be26c2e5e458da22e29fd5d1d422f20fa68ef8e7af613eee6384c"
+    },
+    {
+      "bytes": 596,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/release.json",
+      "sha256": "616e0772bb7b2e270991b441d45e058c2a3645b4647d1880586c68f19f21fbbe"
+    },
+    {
+      "bytes": 138952,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "7709a1db94aa98f43799b1cfc4d01999b4ba49dea66edc9a668da81aaddcb4dd"
+    },
+    {
+      "bytes": 2101,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "e1c21943436b83a2e9c658839cdbe440e0115dfdeefbdcdff0e74f0a82b9e614"
+    },
+    {
+      "bytes": 6904,
+      "path": "releases/huntington-disease-top120-v0.1.0-preview/sources.json",
+      "sha256": "d9a9f28e8bc2c993d585e1ed2a7e8c207bdf5c1cd9e2def1fdaa24bdbde0da8f"
+    },
+    {
+      "bytes": 541,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/README.md",
+      "sha256": "8046fc79676cef2082ae324cc048d3c0e41674f852d75a882e84b266000b3663"
+    },
+    {
+      "bytes": 135553,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/associations.json",
+      "sha256": "745506fc530dd42bc070f88b1a6cb4a3e16a842b49afbb85f54293e0f27f8a2e"
+    },
+    {
+      "bytes": 945,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/changelog.json",
+      "sha256": "fb049d6e89e2fda63da9655333c661d3e4ae2362da5383acf33ef8df86762406"
+    },
+    {
+      "bytes": 176,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/diseases.json",
+      "sha256": "00fdf53cba83be6eaa55905d9c401e4951f03342ff36b515a9d7e4692060cbcc"
+    },
+    {
+      "bytes": 128305,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "04cf37cd6ccbe02c5699dbd16d769ad22b2ee9b213b9d1312079823d7a97f94d"
+    },
+    {
+      "bytes": 24130,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/genes.json",
+      "sha256": "03c1eb52902107fc108be780f6541f4015961ddef4320116dbe5931c02a9afe0"
+    },
+    {
+      "bytes": 7508,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/integrity.json",
+      "sha256": "e2fe0b5b3bf1058e5ec171a948e9cc78de394ea1f2a7ddfabf1f775749ecbe3a"
+    },
+    {
+      "bytes": 605,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/release.json",
+      "sha256": "11e42f1487ed09cacbaa4765872fedfafa642fbaf6581921dc81a97e3b1813f2"
+    },
+    {
+      "bytes": 139000,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "f589dca498df90faf687562b26c75087da53ea10ac166808758c2b6d9d3518bc"
+    },
+    {
+      "bytes": 2155,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "7d5498f490cdea276e3e49612e0951a1706ff31c1e3462b200fa51d84bb49d4e"
+    },
+    {
+      "bytes": 8768,
+      "path": "releases/hypertrophic-cardiomyopathy-top120-v0.1.0-preview/sources.json",
+      "sha256": "56347eb8c8b7ae1b4dd0c8737b5a034218a00bbf5482566977da5f940a32c70e"
+    },
+    {
+      "bytes": 540,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/README.md",
+      "sha256": "76fa54b6f94558722feafc7c944007fdeff17a86ec3aa87eef4bcf20c9769676"
+    },
+    {
+      "bytes": 135579,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/associations.json",
+      "sha256": "5a28f535b7c38ef5a1c59275c8346d1d333edf80a9d56dd9fa580a3009a30fe2"
+    },
+    {
+      "bytes": 941,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/changelog.json",
+      "sha256": "792afb3335f8d68a349725bbe7465e2bc070d39e29d67c0c0df00ef86804abea"
+    },
+    {
+      "bytes": 175,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/diseases.json",
+      "sha256": "4d700db41a3362156f87701a467c648158a7b077f612747de48a27eda89ccf4a"
+    },
+    {
+      "bytes": 112901,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "4780ca1c2169279446a07a1fa4023959ed384d128e44bb81e3bd8741b2ece75c"
+    },
+    {
+      "bytes": 24241,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/genes.json",
+      "sha256": "10c0ff8f4eb50b90e9961da28516d001f93c7bc9735f601db34398c79d4833ee"
+    },
+    {
+      "bytes": 7492,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/integrity.json",
+      "sha256": "e3b75d239cb89dba90469fbc1feb31cc677b2adfd359fa968fa0aa57321b77aa"
+    },
+    {
+      "bytes": 604,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/release.json",
+      "sha256": "7db5d3f445813e7376af8a8acb963b7dcedfcac0b1905e47eddbaf6ffb615d57"
+    },
+    {
+      "bytes": 139104,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "30d11a3ec7b02e100b7651cac32efd41775e713c38e23cdd75ddd7e8b9715515"
+    },
+    {
+      "bytes": 2149,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "909f2e68630e0bf2ecc56b1952b3dac4c8081b2d3a5b755e94b091a0124ff0cf"
+    },
+    {
+      "bytes": 8767,
+      "path": "releases/inflammatory-bowel-disease-top120-v0.1.0-preview/sources.json",
+      "sha256": "d9fdbcf534a70596e701fbfc1af9ecdbb8170c511d949051972dec1f707eb6f7"
+    },
+    {
+      "bytes": 523,
+      "path": "releases/parkinson-top120-v0.1.0-preview/README.md",
+      "sha256": "c5d4872b9083d214ce94e1524e21046b80e6b0d3998fa868e9dc6263074d0d89"
+    },
+    {
+      "bytes": 137347,
+      "path": "releases/parkinson-top120-v0.1.0-preview/associations.json",
+      "sha256": "aca60df7423d8d136b6f72d7503df31e9138d78ec02ac72ece0f14ccb81e0f98"
+    },
+    {
+      "bytes": 1501,
+      "path": "releases/parkinson-top120-v0.1.0-preview/changelog.json",
+      "sha256": "9deb49dd7a96b08fac5cc7b4f4ce0473e70cfabd660a0cf2dfbf0a98739906c4"
+    },
+    {
+      "bytes": 146,
+      "path": "releases/parkinson-top120-v0.1.0-preview/diseases.json",
+      "sha256": "6216af0c4e6af4140b5d81a0eee30778ac9350b463322d1a1a367091ddb3d15a"
+    },
+    {
+      "bytes": 113721,
+      "path": "releases/parkinson-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "f14506d526158f39f024f66b83b7aa249e2e3e1f49f279430c63120cd0bb2a08"
+    },
+    {
+      "bytes": 25892,
+      "path": "releases/parkinson-top120-v0.1.0-preview/genes.json",
+      "sha256": "16740634b3d1e457e9bf7b7a23f9bb534146daf32c76701a2ba34d2af35c43d7"
+    },
+    {
+      "bytes": 7224,
+      "path": "releases/parkinson-top120-v0.1.0-preview/integrity.json",
+      "sha256": "62b6ca93d6d1b20e5002003c5da4d509ebdaacb5d9bfcd3260ce3b524ee8d79b"
+    },
+    {
+      "bytes": 587,
+      "path": "releases/parkinson-top120-v0.1.0-preview/release.json",
+      "sha256": "be32d4c5b42de86eb6e8a1ac4d5c138efb3555d7eeaaf916cab1ec3358c27b4c"
+    },
+    {
+      "bytes": 138688,
+      "path": "releases/parkinson-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "c9ea57721ac2dcc2a361013ed81e630298fef1d09feb81427c642c3335256568"
+    },
+    {
+      "bytes": 2064,
+      "path": "releases/parkinson-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "83cf19b6f4d6ad2152414eda2f0f72588e0ba64a8f4d51f42f592bb532104449"
+    },
+    {
+      "bytes": 6895,
+      "path": "releases/parkinson-top120-v0.1.0-preview/sources.json",
+      "sha256": "f2f279b85493c032bf3da263bdfcd716c398388dc6a67ef8fa44ff6fbe28982d"
+    },
+    {
+      "bytes": 527,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/README.md",
+      "sha256": "ae70f89e52de74af941d80db11a96e947902bb50ac01fb151b9a49009033da10"
+    },
+    {
+      "bytes": 136483,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/associations.json",
+      "sha256": "6629c8a53bb4e188915c6dc9364bebc5afab28c39ae90fd3337c1dc4bcdf65ed"
+    },
+    {
+      "bytes": 1528,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/changelog.json",
+      "sha256": "25f5d34fd3c1eb330df9bcb33165f36e2d9de9a255f7f2366d732cf0701ece7a"
+    },
+    {
+      "bytes": 142,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/diseases.json",
+      "sha256": "94a0101eedef8b378c34dafc04599d2888009136db6da313d17d34eb350517dd"
+    },
+    {
+      "bytes": 105438,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "007f2bd50fae210e68749fd135e18907e92236bd7016f3f8294b1e5da06841d0"
+    },
+    {
+      "bytes": 24762,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/genes.json",
+      "sha256": "9c29304b70b36f695d6e88c075e432a09a3cbefac25e7355cbda5e82ec8ef90f"
+    },
+    {
+      "bytes": 7288,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/integrity.json",
+      "sha256": "1094efd6d0380f326bdab2524828d91931f932647840c53ebc8ab5e175c39bfe"
+    },
+    {
+      "bytes": 591,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/release.json",
+      "sha256": "15b371521061546751d7108b7ac34018cd6decc23dac430ea7b4ae16e502d93e"
+    },
+    {
+      "bytes": 138976,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "647136c100b1d010eafad8b9eb296369859d71f7b76b3dbdce3210741ef08211"
+    },
+    {
+      "bytes": 2071,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "67f22795820705fcd4891e5e0ae0fc3223f124b9de960c2acb3b8ee9f8ce18fc"
+    },
+    {
+      "bytes": 6899,
+      "path": "releases/schizophrenia-top120-v0.1.0-preview/sources.json",
+      "sha256": "c9326f6886a76fb05d7a105a1be0c74f5b757034d27537553cd214b450d9b7de"
+    },
+    {
+      "bytes": 1063,
+      "path": "releases/top120-public-preview-v0.1.1/README.md",
+      "sha256": "6bf45629be428541a59a9da9b35ea7fb9f1913a711506abaffa219dfed71f184"
+    },
+    {
+      "bytes": 8158,
+      "path": "releases/top120-public-preview-v0.1.1/batch-manifest.json",
+      "sha256": "44b3509d05ddaf847cd2fc2adbcda8c00c15140a76507b1f823726cb65b90d01"
+    },
+    {
+      "bytes": 853,
+      "path": "releases/top120-public-preview-v0.1.1/release.json",
+      "sha256": "30856ea450da8264a8c3e432add4faf036c6d3422cc4016f5a52bf4568b17fcd"
+    },
+    {
+      "bytes": 528,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/README.md",
+      "sha256": "2d0b547ab82369ecb00326ba90d2f494a49102b42dfda074c897230601ce2f36"
+    },
+    {
+      "bytes": 138695,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/associations.json",
+      "sha256": "5b559a912f46125328dedc2d43514983f057f2a95b1298b8c5a761071876ca6c"
+    },
+    {
+      "bytes": 1536,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/changelog.json",
+      "sha256": "9420cffb304daf79b29c062445b4388e24de7e46c16c817e6e85b1eaed62e304"
+    },
+    {
+      "bytes": 153,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/diseases.json",
+      "sha256": "743dd9b754a2d26ce6f8a3ca900a289133d4f9bfac21963b7bc51f4e2d9f7bd6"
+    },
+    {
+      "bytes": 118707,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/evidence_rows.jsonl",
+      "sha256": "7acf62eb48e7bfa9b214613f05da79952fd1374f1e4552cbef7864138c25e6ff"
+    },
+    {
+      "bytes": 26718,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/genes.json",
+      "sha256": "5c936a67f9e6ff6ef8bdb4bf2b22efeba8345186bc906ed4f5ac9ada5d5dd61a"
+    },
+    {
+      "bytes": 7304,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/integrity.json",
+      "sha256": "c1c13d03ccecb398a05881be9ab8101f13dee4383267cdc98a56475d23572c3f"
+    },
+    {
+      "bytes": 592,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/release.json",
+      "sha256": "dd4819ad743f41e1704d79e8725aca38f00652e860865489b4dc95559ae3d7c4"
+    },
+    {
+      "bytes": 138464,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/review_artifacts.jsonl",
+      "sha256": "d27fcdc8c31a429c7e67d57e8c912832c38d9f9131c79103f556ecd5b01c1a14"
+    },
+    {
+      "bytes": 2098,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/source_snapshots.json",
+      "sha256": "cddb2197218a493db6f74d3fc6b213cc800285fb48c93ccfefb955ef0ce7e9d7"
+    },
+    {
+      "bytes": 6900,
+      "path": "releases/type2-diabetes-top120-v0.1.0-preview/sources.json",
+      "sha256": "fe727ea93dccb531a21d5125f217a6745812e447994054418da414dc8f1ed174"
+    }
+  ],
+  "manifest_version": "release-integrity-v1",
+  "release_generated_at": "2026-06-14T11:05:00Z",
+  "release_id": "top120-public-preview-v0.1.1",
+  "release_status": "public_preview_paper_gate_passed",
+  "schema_version": "0.1.0"
+}
