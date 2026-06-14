@@ -7,25 +7,27 @@ downloadable release artifacts, schemas, changelogs, and citation metadata.
 
 ## Current Status
 
-The `*-top120-v0.1.0-preview` releases are a 12-disease public preview batch for
-research-use inspection of the package shape, provenance, source boundaries, and
-review-gated evidence records. They are `draft` releases, not manuscript-grade
-biomedical evidence.
+`top120-public-preview-v0.1.1` is the current public aggregate release for the
+Gene-Disease Evidence Index. It packages twelve disease-scoped 120-association
+preview releases into one research-use distribution with public integrity
+metadata, archive checksums, and release-gate summaries.
 
-`v0.2.0` is the current Alzheimer disease public-candidate research-use export
-(it de-doubles the ClinVar `source_record_id` format used in the v0.1.x line).
-These public-candidate releases validate the public data package, integrity
-manifest, and rendered resource sync before a paper-grade snapshot. They should
-not be cited as a manuscript-grade biomedical dataset. Earlier tags (`v0.1.0`,
-`v0.1.1`) remain available as historical artifacts.
+The aggregate contains 12 diseases, 1,440 candidate associations, 1,138 unique
+genes, 1,505 evidence rows, 24 source snapshots, and 5,760 advisory review
+artifacts. It passed the private paper-grade gate for public-preview release, but
+it remains a research-use candidate association resource, not clinical evidence,
+clinical guidance, or external peer-reviewed curation.
+
+The `*-top120-v0.1.0-preview` directories are the disease-scoped components of
+the aggregate. Earlier releases such as `v0.2.0`, `v0.1.1`, and `v0.1.0` remain
+available as historical development/public-candidate artifacts.
 
 ## Public Resource
 
-Planned rendered home:
+Rendered home: <https://serkan.ai/gene-disease-evidence/>
 
-```text
-https://serkan.ai/gene-disease-evidence/
-```
+Current GitHub release:
+<https://github.com/serkanaltuntas/gene-disease-evidence-data/releases/tag/top120-public-preview-v0.1.1>
 
 ## Package Layout
 
@@ -34,7 +36,13 @@ schemas/
   association.schema.json
   release.schema.json
 releases/
-  v0.2.0/
+  top120-public-preview-v0.1.1/
+    release.json
+    batch-manifest.json
+    integrity.json
+    archives/
+      gene-disease-evidence-top120-public-preview-v0.1.1.zip
+  <disease>-top120-v0.1.0-preview/
     release.json
     genes.json
     diseases.json
@@ -42,7 +50,6 @@ releases/
     associations.json
     evidence_rows.jsonl
     review_artifacts.jsonl
-    integrity.json
 archives/
   downloadable release bundles
 ```
@@ -62,8 +69,10 @@ guidance, treatment guidance, patient data, or clinical decision support.
 ## Citation
 
 Use release-specific citation metadata and fixed archive checksums. The current
-`v0.2.0` export is public-candidate research-use data, not manuscript-grade
-evidence. See `CITATION.cff`.
+`top120-public-preview-v0.1.1` aggregate is public-preview research-use data with
+paper-grade release gates passed in the private pipeline. It should still be
+described as source-attributed candidate association data, not clinical evidence.
+See `CITATION.cff`.
 
 ## License
 
