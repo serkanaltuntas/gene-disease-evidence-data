@@ -7,7 +7,7 @@ downloadable release artifacts, schemas, changelogs, and citation metadata.
 
 ## Current Status
 
-`top120-public-preview-v0.1.2` is the current public aggregate release for the
+`top120-public-preview-v0.1.3` is the current public aggregate release for the
 Gene-Disease Evidence Index. It packages twelve disease-scoped 120-association
 preview releases into one research-use distribution with public integrity
 metadata, archive checksums, and release-gate summaries.
@@ -20,16 +20,16 @@ clinical guidance, or external peer-reviewed curation.
 
 The `*-top120-v0.1.1-preview` directories are the current disease-scoped
 components of the aggregate. Earlier releases such as
-`top120-public-preview-v0.1.1`, `*-top120-v0.1.0-preview`, `v0.2.0`, `v0.1.1`,
-and `v0.1.0` remain available as historical development/public-candidate
-artifacts.
+`top120-public-preview-v0.1.2`, `top120-public-preview-v0.1.1`,
+`*-top120-v0.1.0-preview`, `v0.2.0`, `v0.1.1`, and `v0.1.0` remain available as
+historical development/public-candidate artifacts.
 
 ## Public Resource
 
 Rendered home: <https://serkan.ai/gene-disease-evidence/>
 
 Current GitHub release:
-<https://github.com/serkanaltuntas/gene-disease-evidence-data/releases/tag/top120-public-preview-v0.1.2>
+<https://github.com/serkanaltuntas/gene-disease-evidence-data/releases/tag/top120-public-preview-v0.1.3>
 
 ## Package Layout
 
@@ -38,12 +38,12 @@ schemas/
   association.schema.json
   release.schema.json
 releases/
-  top120-public-preview-v0.1.2/
+  top120-public-preview-v0.1.3/
     release.json
     batch-manifest.json
     integrity.json
     archives/
-      gene-disease-evidence-top120-public-preview-v0.1.2.zip
+      gene-disease-evidence-top120-public-preview-v0.1.3.zip
   <disease>-top120-v0.1.1-preview/
     release.json
     genes.json
@@ -71,7 +71,7 @@ guidance, treatment guidance, patient data, or clinical decision support.
 ## Citation
 
 Use release-specific citation metadata and fixed archive checksums. The current
-`top120-public-preview-v0.1.2` aggregate is public-preview research-use data with
+`top120-public-preview-v0.1.3` aggregate is public-preview research-use data with
 paper-grade release gates passed in the private pipeline. It should still be
 described as source-attributed candidate association data, not clinical evidence.
 See `CITATION.cff`.

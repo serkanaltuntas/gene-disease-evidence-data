@@ -1,11 +1,16 @@
 cff-version: 1.2.0
-message: "Public-candidate research-use data package. Do not cite this as a manuscript-grade biomedical dataset."
-title: "Gene-Disease Evidence Data"
+message: "Research-use public preview data package. Cite the fixed tagged release and archive checksum; do not cite as a clinical or manuscript-accepted dataset."
+title: "Gene-Disease Evidence Index: 120-Association Public Preview Aggregate"
 authors:
   - family-names: "Altuntas"
     given-names: "Serkan"
 repository-code: "https://github.com/serkanaltuntas/gene-disease-evidence-data"
 url: "https://serkan.ai/gene-disease-evidence/"
 license: "CC-BY-4.0"
-version: "v0.2.0"
-date-released: "2026-06-10"
+version: "top120-public-preview-v0.1.3"
+date-released: "2026-06-16"
+keywords:
+  - gene-disease associations
+  - source-attributed evidence
+  - research-use data
+  - public preview
