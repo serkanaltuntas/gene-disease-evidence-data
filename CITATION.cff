@@ -4,6 +4,7 @@ title: "Gene-Disease Evidence Index: 120-Association Public Preview Aggregate"
 authors:
   - family-names: "Altuntas"
     given-names: "Serkan"
+    orcid: "https://orcid.org/0000-0001-7385-1904"
 repository-code: "https://github.com/serkanaltuntas/gene-disease-evidence-data"
 url: "https://serkan.ai/gene-disease-evidence/"
 license: "CC-BY-4.0"
