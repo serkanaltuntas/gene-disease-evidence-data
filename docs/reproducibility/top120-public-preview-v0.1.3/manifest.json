@@ -16,19 +16,19 @@
       "bytes": 1302,
       "path": "figures/inputs/figure-input-manifest.json",
       "role": "figure_input_snapshot",
-      "sha256": "e33748141bb4b70f87ec5227d6007a4b0dc06400836d0a11a2838c2e45ae9447"
+      "sha256": "000e2f2c27b1c75ce21fd47da88b5813b9d182958dcaf0a21c3c65db13883dd4"
     },
     {
       "bytes": 9769,
       "path": "figures/inputs/pipeline_overview.json",
       "role": "figure_input_snapshot",
-      "sha256": "99aad16f10705993ec8c5daac4175a523637fa180f09f3e162634acbd2636b64"
+      "sha256": "418e5ea4b8dbdd47fd50db8cc809e1f414922bd89acf137704f0c1ab2af6c3f5"
     },
     {
-      "bytes": 3380,
+      "bytes": 3381,
       "path": "figures/inputs/render_raw_traceability.json",
       "role": "figure_input_snapshot",
-      "sha256": "8597cdc4854807c1111f6fb93b1e49d44fb89769ad5105a2df80a61f8d70964e"
+      "sha256": "d2ffbb0893f12529dd226f91210495dfb86feb2a3624350ab0712d71401a58e6"
     },
     {
       "bytes": 4370,
@@ -37,10 +37,10 @@
       "sha256": "6006e6d82d79025e4ec6d55b7bdb8f34a6388e2ded01d98fac2d04bc5895e3d9"
     },
     {
-      "bytes": 7569,
+      "bytes": 7558,
       "path": "figures/svg/pipeline_overview.svg",
       "role": "figure_svg_or_visual_qa_snapshot",
-      "sha256": "617add33d72086b3c55a401b3a78d375a439a91861ee19fd0baff0fbcf079005"
+      "sha256": "9fabd0dc0b14dce8e6bb3cceced06bdd38f6e41d68231b2447e09148738aa88b"
     },
     {
       "bytes": 4009,
@@ -58,13 +58,13 @@
       "bytes": 1754,
       "path": "figures/svg/svg-manifest.json",
       "role": "figure_svg_or_visual_qa_snapshot",
-      "sha256": "cd455aa900eb19f87d724f6f9bbba43f99fbdd2098f96c74dca1b803bbb7e7ce"
+      "sha256": "c1f47ab7be6b106801a91fd17b20202f8867ac7f41aa661f4a87f69e6ff1602b"
     },
     {
-      "bytes": 1543,
+      "bytes": 1614,
       "path": "figures/svg/visual-qa.json",
       "role": "figure_svg_or_visual_qa_snapshot",
-      "sha256": "6fe70a087f9dc28d2c5d48af3ef812990ecbca33d6112128791e79696edf7631"
+      "sha256": "e4e718ffdc2a05d820c7b245aa273aa91dcafa36baa5b3d6641387d5864b1e88"
     },
     {
       "bytes": 5558,
@@ -73,10 +73,10 @@
       "sha256": "08dd76c8acaa44d8b22c22108fb2039fca785b0bf45a1b12b146b7f8873c0e6e"
     },
     {
-      "bytes": 10222,
+      "bytes": 10406,
       "path": "scripts/rebuild_figure_inputs.py",
       "role": "public_helper_script",
-      "sha256": "4911fac2ec96610ff4e5b927ca1ba9f4a1ad440a490fdba28177dcf0d3331cf6"
+      "sha256": "7bcd477fc8fef8a73eac5adb228fc4d81bb7045e88381671f6fe6bf90a2eed48"
     },
     {
       "bytes": 18835,

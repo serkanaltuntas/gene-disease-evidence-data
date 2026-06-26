@@ -58,7 +58,7 @@ def pipeline_overview_payload(
     gate_nodes = [
         {
             "id": f"gate:{row['gate']}",
-            "label": row["gate"].replace("_", " "),
+            "label": display_gate_label(row["gate"]),
             "kind": "review_gate",
             "result": row["result"],
             "details": row["details"],
@@ -176,6 +176,13 @@ def source_support_silence_payload(
     }
 
 
+def display_gate_label(gate: str) -> str:
+    labels = {
+        "advisory_referee_reviews": "internal advisory review",
+    }
+    return labels.get(gate, gate.replace("_", " "))
+
+
 def render_raw_traceability_payload(
     *,
     overview: dict[str, str],
@@ -220,8 +227,8 @@ def render_raw_traceability_payload(
         ],
         "table_manifest": {
             "path": "docs/methods/tables/manifest.json",
-            "input_count": 9,
-            "output_count": 10,
+            "input_count": 10,
+            "output_count": 12,
         },
     }
 

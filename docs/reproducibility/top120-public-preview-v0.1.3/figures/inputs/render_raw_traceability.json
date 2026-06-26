@@ -90,7 +90,7 @@
   ],
   "table_manifest": {
     "path": "docs/methods/tables/manifest.json",
-    "input_count": 9,
-    "output_count": 10
+    "input_count": 10,
+    "output_count": 12
   }
 }

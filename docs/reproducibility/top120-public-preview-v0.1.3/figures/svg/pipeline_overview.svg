@@ -35,7 +35,7 @@
 <text x="818" y="370" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#0f172a">Rendered resource</text>
 <text x="818" y="413" font-family="Arial, sans-serif" font-size="12" font-weight="normal" fill="#0f172a">serkan.ai resource pages</text>
 <text x="60" y="540" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">Review Gate Results</text>
-<text x="60" y="565" font-family="Arial, sans-serif" font-size="13" font-weight="normal" fill="#0f172a">Advisory outputs remain review gates; human release disposition remains final.</text>
+<text x="60" y="565" font-family="Arial, sans-serif" font-size="13" font-weight="normal" fill="#0f172a">Internal advisory checks do not replace human release disposition.</text>
 <rect x="60" y="600" width="490" height="38" rx="4" fill="#dcfce7" stroke="#64748b" stroke-width="1" />
 <text x="74" y="624" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0f172a">source/license review</text>
 <text x="450" y="624" font-family="Arial, sans-serif" font-size="12" font-weight="normal" fill="#0f172a">approved</text>
@@ -55,7 +55,7 @@
 <text x="614" y="732" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0f172a">language boundary</text>
 <text x="990" y="732" font-family="Arial, sans-serif" font-size="12" font-weight="normal" fill="#0f172a">approved</text>
 <rect x="60" y="762" width="490" height="38" rx="4" fill="#dcfce7" stroke="#64748b" stroke-width="1" />
-<text x="74" y="786" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0f172a">advisory referee review</text>
+<text x="74" y="786" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0f172a">internal advisory review</text>
 <text x="450" y="786" font-family="Arial, sans-serif" font-size="12" font-weight="normal" fill="#0f172a">approved</text>
 <rect x="600" y="762" width="490" height="38" rx="4" fill="#dcfce7" stroke="#64748b" stroke-width="1" />
 <text x="614" y="786" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0f172a">archive integrity</text>

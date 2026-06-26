@@ -153,7 +153,7 @@
     },
     {
       "id": "gate:advisory_referee_reviews",
-      "label": "advisory referee reviews",
+      "label": "internal advisory review",
       "kind": "review_gate",
       "result": "approved",
       "details": "advisory only; human release gate remains final"

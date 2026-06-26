@@ -1,5 +1,5 @@
 {
-  "check_version": "methods-svg-visual-qa-v1",
+  "check_version": "methods-svg-visual-qa-v2",
   "status": "pass",
   "input_dir": "docs/methods/figures/svg",
   "figure_count": 3,
@@ -36,6 +36,7 @@
   "checks": [
     "SVG XML parses successfully.",
     "Canvas dimensions and viewBox are explicit.",
+    "Rectangles and connector lines stay within the declared canvas.",
     "Text elements fit within the declared canvas using a conservative width estimate.",
     "Visible text avoids encoded path fragments such as %3A.",
     "Visible text runs are no longer than 125 characters."
@@ -47,7 +48,7 @@
   "output": {
     "path": "docs/methods/figures/svg/visual-qa.json",
     "row_count": 1,
-    "bytes": 1349,
-    "sha256": "a737b74d8061578cdbed5f34d29c1d9203151500ec98c31bb98d667dc464e49c"
+    "bytes": 1420,
+    "sha256": "db972670177f90a9366b149af4ce8976fb4eb66e34486d100672f319c0690f8d"
   }
 }
