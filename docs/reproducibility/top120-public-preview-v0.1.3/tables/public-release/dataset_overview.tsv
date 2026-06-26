@@ -1,0 +1,12 @@
+metric	value	source
+release_id	top120-public-preview-v0.1.3	batch-manifest
+diseases	12	batch-manifest
+associations	1440	batch-manifest
+gene_rows	1440	batch-manifest
+unique_genes	1138	batch-manifest
+evidence_rows	1505	batch-manifest
+source_snapshots	24	batch-manifest
+review_artifacts	5760	batch-manifest
+archive_path	archives/gene-disease-evidence-top120-public-preview-v0.1.3.zip	integrity
+archive_sha256	5e7d379a16ba8d862fca49129d7e3c640735387914df40d33ad0bcad4edea33b	integrity
+archive_bytes	616485	integrity

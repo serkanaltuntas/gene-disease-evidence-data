@@ -1,0 +1,53 @@
+{
+  "check_version": "methods-svg-visual-qa-v1",
+  "status": "pass",
+  "input_dir": "docs/methods/figures/svg",
+  "figure_count": 3,
+  "issue_count": 0,
+  "figures": [
+    {
+      "path": "docs/methods/figures/svg/pipeline_overview.svg",
+      "status": "pass",
+      "width": 1200,
+      "height": 980,
+      "viewBox": "0 0 1200 980",
+      "text_count": 39,
+      "issues": []
+    },
+    {
+      "path": "docs/methods/figures/svg/render_raw_traceability.svg",
+      "status": "pass",
+      "width": 1200,
+      "height": 760,
+      "viewBox": "0 0 1200 760",
+      "text_count": 22,
+      "issues": []
+    },
+    {
+      "path": "docs/methods/figures/svg/source_support_silence.svg",
+      "status": "pass",
+      "width": 1200,
+      "height": 900,
+      "viewBox": "0 0 1200 900",
+      "text_count": 34,
+      "issues": []
+    }
+  ],
+  "checks": [
+    "SVG XML parses successfully.",
+    "Canvas dimensions and viewBox are explicit.",
+    "Text elements fit within the declared canvas using a conservative width estimate.",
+    "Visible text avoids encoded path fragments such as %3A.",
+    "Visible text runs are no longer than 125 characters."
+  ],
+  "notes": [
+    "This is a static layout gate; final paper figures still require human visual review.",
+    "Figures are research-use visual summaries, not clinical evidence displays."
+  ],
+  "output": {
+    "path": "docs/methods/figures/svg/visual-qa.json",
+    "row_count": 1,
+    "bytes": 1349,
+    "sha256": "a737b74d8061578cdbed5f34d29c1d9203151500ec98c31bb98d667dc464e49c"
+  }
+}

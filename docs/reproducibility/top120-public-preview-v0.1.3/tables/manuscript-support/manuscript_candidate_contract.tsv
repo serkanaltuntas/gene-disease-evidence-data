@@ -1,0 +1,13 @@
+contract_id	disease_label	disease_id	candidate_denominator	context_only_count	high_or_moderate_context_only_count	cluster_guard_warning	context_records_promoted
+variable_observed_minimum_support	Alzheimer disease	MONDO:0004975	39	21	21	True	0
+variable_observed_minimum_support	Parkinson disease	MONDO:0005180	36	24	24	True	0
+variable_observed_minimum_support	Type 2 diabetes mellitus	MONDO:0005148	59	1	1	False	0
+variable_observed_minimum_support	Breast carcinoma	MONDO:0004989	60	0	0	False	0
+variable_observed_minimum_support	Dilated cardiomyopathy	MONDO:0005021	60	0	0	False	0
+variable_observed_minimum_support	Amyotrophic lateral sclerosis	MONDO:0004976	60	0	0	False	0
+variable_observed_minimum_support	Huntington disease	MONDO:0007739	3	57	57	True	0
+variable_observed_minimum_support	Cystic fibrosis	MONDO:0009061	21	39	39	True	0
+variable_observed_minimum_support	Schizophrenia	MONDO:0005090	60	0	0	False	0
+variable_observed_minimum_support	Epilepsy	MONDO:0005027	60	0	0	False	0
+variable_observed_minimum_support	Inflammatory bowel disease	MONDO:0005265	60	0	0	False	0
+variable_observed_minimum_support	Hypertrophic cardiomyopathy	MONDO:0005045	60	0	0	False	0

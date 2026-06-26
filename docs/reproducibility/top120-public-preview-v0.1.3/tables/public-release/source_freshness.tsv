@@ -1,0 +1,6 @@
+source_id	roles	disease_count	source_record_count	snapshot_count	snapshot_record_count	freshness_status_counts	accessed_at_values	next_review_due_values	missing_freshness_count	paper_grade_blocker_count
+source:clinvar	"{""evidence"":12,""evidence_snapshot"":12}"	12	12	12	65	"{""refresh_recommended"":24}"	2026-06-14	2026-07-09	0	0
+source:efo	"{""ontology_crosswalk_context"":5}"	5	5	0	0	"{""refresh_recommended"":5}"	2026-06-11	2026-07-11	0	0
+source:hgnc	"{""gene_identity"":12}"	12	12	0	0	"{""refresh_recommended"":12}"	2026-06-14	2026-07-09	0	0
+source:mondo	"{""disease_identity"":12}"	12	12	0	0	"{""refresh_recommended"":12}"	2026-06-07	2026-07-09	0	0
+source:opentargets	"{""evidence"":12,""evidence_snapshot"":12}"	12	12	12	1440	"{""refresh_recommended"":24}"	2026-06-14	2026-07-09	0	0

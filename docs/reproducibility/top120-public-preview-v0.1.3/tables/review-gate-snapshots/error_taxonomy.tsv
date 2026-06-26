@@ -1,0 +1,11 @@
+error_class	severity	count	denominator	disposition	residual_risk
+identifier_error	major	0	36	approved	no_observed_error_in_sample
+source_attribution_error	major	0	36	approved	no_observed_error_in_sample
+evidence_normalization_error	major	0	36	approved	no_observed_error_in_sample
+disease_scope_error	minor	0	36	approved	no_observed_error_in_sample
+gene_selection_ranking_error	minor	0	36	approved	no_observed_error_in_sample
+duplicate_or_merge_error	minor	0	36	approved	no_observed_error_in_sample
+source_silence_disagreement_interpretation_error	minor	0	36	approved	no_observed_error_in_sample
+review_artifact_error	minor	0	36	approved	no_observed_error_in_sample
+archive_integrity_error	major	0	36	approved	no_observed_error_in_sample
+language_boundary_error	major	0	36	approved	no_observed_error_in_sample

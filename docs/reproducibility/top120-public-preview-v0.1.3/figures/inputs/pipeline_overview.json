@@ -1,0 +1,327 @@
+{
+  "figure_id": "pipeline_overview",
+  "title": "Release pipeline and review gates",
+  "nodes": [
+    {
+      "id": "source:opentargets",
+      "label": "OpenTargets",
+      "kind": "source"
+    },
+    {
+      "id": "source:clinvar",
+      "label": "ClinVar",
+      "kind": "source"
+    },
+    {
+      "id": "stage:snapshot_materialization",
+      "label": "Source snapshot materialization",
+      "kind": "pipeline_stage",
+      "source_snapshot_count": 24
+    },
+    {
+      "id": "stage:release_generation",
+      "label": "Disease-scoped release generation",
+      "kind": "pipeline_stage",
+      "disease_count": 12,
+      "association_count": 1440
+    },
+    {
+      "id": "release:alzheimer-top120-v0.1.1-preview",
+      "label": "Alzheimer disease",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 126
+    },
+    {
+      "id": "release:parkinson-top120-v0.1.1-preview",
+      "label": "Parkinson disease",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 132
+    },
+    {
+      "id": "release:type2-diabetes-top120-v0.1.1-preview",
+      "label": "Type 2 diabetes mellitus",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 141
+    },
+    {
+      "id": "release:breast-carcinoma-top120-v0.1.1-preview",
+      "label": "Breast carcinoma",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 120
+    },
+    {
+      "id": "release:dilated-cardiomyopathy-top120-v0.1.1-preview",
+      "label": "Dilated cardiomyopathy",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 120
+    },
+    {
+      "id": "release:amyotrophic-lateral-sclerosis-top120-v0.1.1-preview",
+      "label": "Amyotrophic lateral sclerosis",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 137
+    },
+    {
+      "id": "release:huntington-disease-top120-v0.1.1-preview",
+      "label": "Huntington disease",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 121
+    },
+    {
+      "id": "release:cystic-fibrosis-top120-v0.1.1-preview",
+      "label": "Cystic fibrosis",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 122
+    },
+    {
+      "id": "release:schizophrenia-top120-v0.1.1-preview",
+      "label": "Schizophrenia",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 126
+    },
+    {
+      "id": "release:epilepsy-top120-v0.1.1-preview",
+      "label": "Epilepsy",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 120
+    },
+    {
+      "id": "release:inflammatory-bowel-disease-top120-v0.1.1-preview",
+      "label": "Inflammatory bowel disease",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 120
+    },
+    {
+      "id": "release:hypertrophic-cardiomyopathy-top120-v0.1.1-preview",
+      "label": "Hypertrophic cardiomyopathy",
+      "kind": "disease_release",
+      "association_count": 120,
+      "evidence_row_count": 120
+    },
+    {
+      "id": "gate:source_license_citation_review",
+      "label": "source license citation review",
+      "kind": "review_gate",
+      "result": "approved",
+      "details": "reviewer=serkan; reviewed_at=2026-06-14T00:40:33Z"
+    },
+    {
+      "id": "gate:source_freshness_acknowledgement",
+      "label": "source freshness acknowledgement",
+      "kind": "review_gate",
+      "result": "approved",
+      "details": "missing_freshness=0; paper_grade_blockers=0"
+    },
+    {
+      "id": "gate:source_silence_disagreement",
+      "label": "source silence disagreement",
+      "kind": "review_gate",
+      "result": "ready",
+      "details": "conflicts=0; multi_source=65; single_source_with_silence=1375"
+    },
+    {
+      "id": "gate:sampled_human_review",
+      "label": "sampled human review",
+      "kind": "review_gate",
+      "result": "approved",
+      "details": "reviewed=36; approved=36; pending=0"
+    },
+    {
+      "id": "gate:error_taxonomy",
+      "label": "error taxonomy",
+      "kind": "review_gate",
+      "result": "ready",
+      "details": "observed_errors=0; denominator=36"
+    },
+    {
+      "id": "gate:clinical_language_boundary",
+      "label": "clinical language boundary",
+      "kind": "review_gate",
+      "result": "approved",
+      "details": "unresolved_blocked_phrase_count=0"
+    },
+    {
+      "id": "gate:advisory_referee_reviews",
+      "label": "advisory referee reviews",
+      "kind": "review_gate",
+      "result": "approved",
+      "details": "advisory only; human release gate remains final"
+    },
+    {
+      "id": "gate:archive_integrity",
+      "label": "archive integrity",
+      "kind": "review_gate",
+      "result": "valid",
+      "details": "file_count=206; archive_sha256=5e7d379a16ba8d862fca49129d7e3c640735387914df40d33ad0bcad4edea33b"
+    },
+    {
+      "id": "aggregate:top120-public-preview-v0.1.3",
+      "label": "top120-public-preview-v0.1.3",
+      "kind": "public_aggregate",
+      "unique_genes": 1138,
+      "evidence_rows": 1505
+    },
+    {
+      "id": "surface:serkan_ai",
+      "label": "Rendered serkan.ai resource",
+      "kind": "rendered_surface"
+    }
+  ],
+  "edges": [
+    {
+      "source": "source:opentargets",
+      "target": "stage:snapshot_materialization"
+    },
+    {
+      "source": "source:clinvar",
+      "target": "stage:snapshot_materialization"
+    },
+    {
+      "source": "stage:snapshot_materialization",
+      "target": "stage:release_generation"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:alzheimer-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:parkinson-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:type2-diabetes-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:breast-carcinoma-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:dilated-cardiomyopathy-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:amyotrophic-lateral-sclerosis-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:huntington-disease-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:cystic-fibrosis-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:schizophrenia-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:epilepsy-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:inflammatory-bowel-disease-top120-v0.1.1-preview"
+    },
+    {
+      "source": "stage:release_generation",
+      "target": "release:hypertrophic-cardiomyopathy-top120-v0.1.1-preview"
+    },
+    {
+      "source": "release:alzheimer-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:parkinson-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:type2-diabetes-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:breast-carcinoma-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:dilated-cardiomyopathy-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:amyotrophic-lateral-sclerosis-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:huntington-disease-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:cystic-fibrosis-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:schizophrenia-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:epilepsy-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:inflammatory-bowel-disease-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "release:hypertrophic-cardiomyopathy-top120-v0.1.1-preview",
+      "target": "gate:source_silence_disagreement"
+    },
+    {
+      "source": "gate:source_license_citation_review",
+      "target": "aggregate:top120-public-preview-v0.1.3"
+    },
+    {
+      "source": "gate:source_freshness_acknowledgement",
+      "target": "aggregate:top120-public-preview-v0.1.3"
+    },
+    {
+      "source": "gate:source_silence_disagreement",
+      "target": "aggregate:top120-public-preview-v0.1.3"
+    },
+    {
+      "source": "gate:sampled_human_review",
+      "target": "aggregate:top120-public-preview-v0.1.3"
+    },
+    {
+      "source": "gate:error_taxonomy",
+      "target": "aggregate:top120-public-preview-v0.1.3"
+    },
+    {
+      "source": "gate:clinical_language_boundary",
+      "target": "aggregate:top120-public-preview-v0.1.3"
+    },
+    {
+      "source": "gate:advisory_referee_reviews",
+      "target": "aggregate:top120-public-preview-v0.1.3"
+    },
+    {
+      "source": "gate:archive_integrity",
+      "target": "aggregate:top120-public-preview-v0.1.3"
+    },
+    {
+      "source": "aggregate:top120-public-preview-v0.1.3",
+      "target": "surface:serkan_ai"
+    }
+  ]
+}

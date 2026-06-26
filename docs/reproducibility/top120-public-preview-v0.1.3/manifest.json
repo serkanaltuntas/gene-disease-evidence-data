@@ -1,0 +1,216 @@
+{
+  "files": [
+    {
+      "bytes": 4496,
+      "path": "README.md",
+      "role": "subset_readme",
+      "sha256": "1c7e3c32422d90054fd449d356f9b7f05b248625dae537710def5502e071d337"
+    },
+    {
+      "bytes": 2240,
+      "path": "docs/reproducibility-data-availability.md",
+      "role": "sanitized_reproducibility_note",
+      "sha256": "7df349ccaf8bba3cdc27a1ff62938c095aaa7f0b11eea20ffc5cf616fbfbae68"
+    },
+    {
+      "bytes": 1302,
+      "path": "figures/inputs/figure-input-manifest.json",
+      "role": "figure_input_snapshot",
+      "sha256": "e33748141bb4b70f87ec5227d6007a4b0dc06400836d0a11a2838c2e45ae9447"
+    },
+    {
+      "bytes": 9769,
+      "path": "figures/inputs/pipeline_overview.json",
+      "role": "figure_input_snapshot",
+      "sha256": "99aad16f10705993ec8c5daac4175a523637fa180f09f3e162634acbd2636b64"
+    },
+    {
+      "bytes": 3380,
+      "path": "figures/inputs/render_raw_traceability.json",
+      "role": "figure_input_snapshot",
+      "sha256": "8597cdc4854807c1111f6fb93b1e49d44fb89769ad5105a2df80a61f8d70964e"
+    },
+    {
+      "bytes": 4370,
+      "path": "figures/inputs/source_support_silence.json",
+      "role": "figure_input_snapshot",
+      "sha256": "6006e6d82d79025e4ec6d55b7bdb8f34a6388e2ded01d98fac2d04bc5895e3d9"
+    },
+    {
+      "bytes": 7569,
+      "path": "figures/svg/pipeline_overview.svg",
+      "role": "figure_svg_or_visual_qa_snapshot",
+      "sha256": "617add33d72086b3c55a401b3a78d375a439a91861ee19fd0baff0fbcf079005"
+    },
+    {
+      "bytes": 4009,
+      "path": "figures/svg/render_raw_traceability.svg",
+      "role": "figure_svg_or_visual_qa_snapshot",
+      "sha256": "e590c995263fff0b40ac3458510301453918616ab8f91c171e46f1564ae133b1"
+    },
+    {
+      "bytes": 7505,
+      "path": "figures/svg/source_support_silence.svg",
+      "role": "figure_svg_or_visual_qa_snapshot",
+      "sha256": "f47c76db86f0cbf9584913c94734d93877246491cdd57bf04a853df3807998b2"
+    },
+    {
+      "bytes": 1754,
+      "path": "figures/svg/svg-manifest.json",
+      "role": "figure_svg_or_visual_qa_snapshot",
+      "sha256": "cd455aa900eb19f87d724f6f9bbba43f99fbdd2098f96c74dca1b803bbb7e7ce"
+    },
+    {
+      "bytes": 1543,
+      "path": "figures/svg/visual-qa.json",
+      "role": "figure_svg_or_visual_qa_snapshot",
+      "sha256": "6fe70a087f9dc28d2c5d48af3ef812990ecbca33d6112128791e79696edf7631"
+    },
+    {
+      "bytes": 5558,
+      "path": "scripts/build_subset_manifest.py",
+      "role": "public_helper_script",
+      "sha256": "08dd76c8acaa44d8b22c22108fb2039fca785b0bf45a1b12b146b7f8873c0e6e"
+    },
+    {
+      "bytes": 10222,
+      "path": "scripts/rebuild_figure_inputs.py",
+      "role": "public_helper_script",
+      "sha256": "4911fac2ec96610ff4e5b927ca1ba9f4a1ad440a490fdba28177dcf0d3331cf6"
+    },
+    {
+      "bytes": 18835,
+      "path": "scripts/rebuild_public_methods.py",
+      "role": "public_helper_script",
+      "sha256": "6de70588c54dc4339bc6e37ccd7632fbbb272f2466d27efe34979074e5c9dc65"
+    },
+    {
+      "bytes": 1164,
+      "path": "tables/manuscript-support/manuscript_candidate_contract.tsv",
+      "role": "manuscript_support_table_snapshot",
+      "sha256": "45f6cd3240734297d1b642235c326c1c45170966fb72d3ace46968199b0ef9d3"
+    },
+    {
+      "bytes": 512,
+      "path": "tables/public-release/dataset_overview.tsv",
+      "role": "public_release_table_snapshot",
+      "sha256": "b525bcddacd7efa16a36abc75909839833052d5535c1ac3fa93097241a3dc754"
+    },
+    {
+      "bytes": 1255,
+      "path": "tables/public-release/disease_counts.tsv",
+      "role": "public_release_table_snapshot",
+      "sha256": "9a39b01d2c4f841c10ec6914dbaf81b760130a9d4f7764f2c3f972e974a4bd35"
+    },
+    {
+      "bytes": 1021,
+      "path": "tables/public-release/disease_source_coverage.tsv",
+      "role": "public_release_table_snapshot",
+      "sha256": "5d1468d872e7be464a3a114255b72fc0c59b670f1804e382650f06c50e7be65c"
+    },
+    {
+      "bytes": 729,
+      "path": "tables/public-release/open_targets_datasource_channels.tsv",
+      "role": "public_release_table_snapshot",
+      "sha256": "ce0f3765121a2a6cf49867b4fb168324c40e4f2aeda711f8a0024642574d6236"
+    },
+    {
+      "bytes": 394,
+      "path": "tables/public-release/open_targets_datatype_channels.tsv",
+      "role": "public_release_table_snapshot",
+      "sha256": "e50768fef22cb104dc6817b10c31ae3cc7f89f2d15d766d665862f4c64d313dd"
+    },
+    {
+      "bytes": 132,
+      "path": "tables/public-release/source_coverage.tsv",
+      "role": "public_release_table_snapshot",
+      "sha256": "c8ab72f34ead8db960c18b2cbf4b92b3d0efc9e4ecc3839dc3e74e26eabfa115"
+    },
+    {
+      "bytes": 791,
+      "path": "tables/public-release/source_freshness.tsv",
+      "role": "public_release_table_snapshot",
+      "sha256": "f44cdaf63b54f43ab2ea627e31ada7b62c8f887b9d9c7c53287561f95b497739"
+    },
+    {
+      "bytes": 135,
+      "path": "tables/public-release/support_states.tsv",
+      "role": "public_release_table_snapshot",
+      "sha256": "67d0751e6fef31fb699db2265568f7f1ec03290714dd92151754e213fa3f99ea"
+    },
+    {
+      "bytes": 809,
+      "path": "tables/review-gate-snapshots/error_taxonomy.tsv",
+      "role": "review_gate_table_snapshot",
+      "sha256": "2ce0a6fb6623740c2ac088970f7f720f0d962994f4b1697f14c668119ae1e287"
+    },
+    {
+      "bytes": 685,
+      "path": "tables/review-gate-snapshots/review_gates.tsv",
+      "role": "review_gate_table_snapshot",
+      "sha256": "ff4c2a77ca93cc993edad20235f305d32da2aaf6ad56dfdd53fa72a4054b3beb"
+    },
+    {
+      "bytes": 143,
+      "path": "tables/review-gate-snapshots/sampled_human_review.tsv",
+      "role": "review_gate_table_snapshot",
+      "sha256": "1445e37f6fb6bb31a3b9c67ee8a9d5646282ec30cddfa97c5951fafc545078a0"
+    }
+  ],
+  "full_pipeline_public": false,
+  "manifest_version": "public-reproducibility-subset-manifest-v1",
+  "release_anchors": [
+    {
+      "bytes": 705,
+      "path": "CITATION.cff",
+      "role": "citation_metadata",
+      "sha256": "df69824a0a137f67ab908664bd225cc817bf6703c711459bcab61fb2a3275d46"
+    },
+    {
+      "bytes": 3683,
+      "path": "LICENSE",
+      "role": "repository_license",
+      "sha256": "91000916ab34ed44df34c6e284dee8288fbd0853e90d26d7efec8ff481c9ec37"
+    },
+    {
+      "bytes": 3872,
+      "path": "README.md",
+      "role": "public_data_repository_readme",
+      "sha256": "76714512eef99ca5e622547ebbfc743ac8072ff74fe187720636a470713a5207"
+    },
+    {
+      "bytes": 11233,
+      "path": "docs/data-dictionary.md",
+      "role": "public_data_dictionary",
+      "sha256": "beb6acc136d0e94cfd00cf6ffa98464e7659f64153edfe4db31e8fee51d8d71d"
+    },
+    {
+      "bytes": 1067,
+      "path": "releases/top120-public-preview-v0.1.3/release.json",
+      "role": "aggregate_release_metadata",
+      "sha256": "e3c6ec632a2a97a425051584f2ed3b6ed9b8db447ec55da6f4e049765af6e09c"
+    },
+    {
+      "bytes": 8794,
+      "path": "releases/top120-public-preview-v0.1.3/batch-manifest.json",
+      "role": "aggregate_batch_manifest",
+      "sha256": "423002224ed6d1ddf824cb9f0b7d4d344722b7783970a54e872fcddc99ce7776"
+    },
+    {
+      "bytes": 42484,
+      "path": "releases/top120-public-preview-v0.1.3/integrity.json",
+      "role": "aggregate_integrity_manifest",
+      "sha256": "93cf0b8dbb8093117289385f984ca072c47548124cc55f11a013e4df7d619a93"
+    },
+    {
+      "bytes": 616485,
+      "path": "archives/gene-disease-evidence-top120-public-preview-v0.1.3.zip",
+      "role": "downloadable_public_archive",
+      "sha256": "5e7d379a16ba8d862fca49129d7e3c640735387914df40d33ad0bcad4edea33b"
+    }
+  ],
+  "release_id": "top120-public-preview-v0.1.3",
+  "research_use_only": true,
+  "scope": "Leak-audited public reproducibility subset for public-release table regeneration, figure/table snapshots, and checksum binding.",
+  "subset_root": "docs/reproducibility/top120-public-preview-v0.1.3"
+}

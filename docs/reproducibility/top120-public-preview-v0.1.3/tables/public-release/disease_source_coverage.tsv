@@ -1,0 +1,13 @@
+disease_label	disease_id	association_count	evidence_row_count	clinvar_supporting	clinvar_silent	clinvar_conflicting	opentargets_supporting	opentargets_silent	opentargets_conflicting	multi_source_support	single_source_support_with_source_silence
+Alzheimer disease	MONDO:0004975	120	126	6	114	0	120	0	0	6	114
+Parkinson disease	MONDO:0005180	120	132	12	108	0	120	0	0	12	108
+Type 2 diabetes mellitus	MONDO:0005148	120	141	21	99	0	120	0	0	21	99
+Breast carcinoma	MONDO:0004989	120	120	0	120	0	120	0	0	0	120
+Dilated cardiomyopathy	MONDO:0005021	120	120	0	120	0	120	0	0	0	120
+Amyotrophic lateral sclerosis	MONDO:0004976	120	137	17	103	0	120	0	0	17	103
+Huntington disease	MONDO:0007739	120	121	1	119	0	120	0	0	1	119
+Cystic fibrosis	MONDO:0009061	120	122	2	118	0	120	0	0	2	118
+Schizophrenia	MONDO:0005090	120	126	6	114	0	120	0	0	6	114
+Epilepsy	MONDO:0005027	120	120	0	120	0	120	0	0	0	120
+Inflammatory bowel disease	MONDO:0005265	120	120	0	120	0	120	0	0	0	120
+Hypertrophic cardiomyopathy	MONDO:0005045	120	120	0	120	0	120	0	0	0	120

@@ -1,0 +1,9 @@
+channel_id	association_count	evidence_row_count	disease_release_count	total_open_targets_evidence_rows	missing_channel_score_rows
+literature	1230	1230	12	1440	0
+genetic_association	851	851	12	1440	0
+clinical	493	493	12	1440	0
+genetic_literature	418	418	12	1440	0
+animal_model	360	360	12	1440	0
+affected_pathway	228	228	6	1440	0
+somatic_mutation	146	146	6	1440	0
+rna_expression	123	123	9	1440	0

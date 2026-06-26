@@ -31,6 +31,14 @@ Rendered home: <https://serkan.ai/gene-disease-evidence/>
 Current GitHub release:
 <https://github.com/serkanaltuntas/gene-disease-evidence-data/releases/tag/top120-public-preview-v0.1.3>
 
+Public reproducibility subset:
+`docs/reproducibility/top120-public-preview-v0.1.3/`
+
+The subset contains checksum instructions, public-only helper scripts, generated
+table and figure snapshots, and a manifest for inspecting how manuscript-support
+artifacts are bound to the fixed public release. It is not the full private
+production pipeline.
+
 ## Package Layout
 
 ```text
@@ -54,6 +62,13 @@ releases/
     review_artifacts.jsonl
 archives/
   downloadable release bundles
+docs/
+  data-dictionary.md
+  reproducibility/
+    top120-public-preview-v0.1.3/
+      README.md
+      manifest.json
+      scripts/
 ```
 
 ## Integrity

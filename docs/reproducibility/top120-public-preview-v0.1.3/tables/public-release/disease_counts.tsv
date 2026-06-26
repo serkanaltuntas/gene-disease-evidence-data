@@ -1,0 +1,13 @@
+disease_label	disease_id	release_id	release_status	gene_count	association_count	evidence_row_count	source_snapshot_count
+Alzheimer disease	MONDO:0004975	alzheimer-top120-v0.1.1-preview	draft	120	120	126	2
+Parkinson disease	MONDO:0005180	parkinson-top120-v0.1.1-preview	draft	120	120	132	2
+Type 2 diabetes mellitus	MONDO:0005148	type2-diabetes-top120-v0.1.1-preview	draft	120	120	141	2
+Breast carcinoma	MONDO:0004989	breast-carcinoma-top120-v0.1.1-preview	draft	120	120	120	2
+Dilated cardiomyopathy	MONDO:0005021	dilated-cardiomyopathy-top120-v0.1.1-preview	draft	120	120	120	2
+Amyotrophic lateral sclerosis	MONDO:0004976	amyotrophic-lateral-sclerosis-top120-v0.1.1-preview	draft	120	120	137	2
+Huntington disease	MONDO:0007739	huntington-disease-top120-v0.1.1-preview	draft	120	120	121	2
+Cystic fibrosis	MONDO:0009061	cystic-fibrosis-top120-v0.1.1-preview	draft	120	120	122	2
+Schizophrenia	MONDO:0005090	schizophrenia-top120-v0.1.1-preview	draft	120	120	126	2
+Epilepsy	MONDO:0005027	epilepsy-top120-v0.1.1-preview	draft	120	120	120	2
+Inflammatory bowel disease	MONDO:0005265	inflammatory-bowel-disease-top120-v0.1.1-preview	draft	120	120	120	2
+Hypertrophic cardiomyopathy	MONDO:0005045	hypertrophic-cardiomyopathy-top120-v0.1.1-preview	draft	120	120	120	2

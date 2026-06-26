@@ -1,0 +1,141 @@
+{
+  "figure_id": "source_support_silence",
+  "title": "Included-source support and source silence",
+  "source_totals": [
+    {
+      "source_id": "source:clinvar",
+      "supporting_associations": 65,
+      "silent_associations": 1375,
+      "conflicting_associations": 0
+    },
+    {
+      "source_id": "source:opentargets",
+      "supporting_associations": 1440,
+      "silent_associations": 0,
+      "conflicting_associations": 0
+    }
+  ],
+  "per_disease": [
+    {
+      "disease_label": "Alzheimer disease",
+      "disease_id": "MONDO:0004975",
+      "association_count": 120,
+      "clinvar_supporting": 6,
+      "clinvar_silent": 114,
+      "opentargets_supporting": 120,
+      "multi_source_support": 6,
+      "single_source_support_with_source_silence": 114
+    },
+    {
+      "disease_label": "Parkinson disease",
+      "disease_id": "MONDO:0005180",
+      "association_count": 120,
+      "clinvar_supporting": 12,
+      "clinvar_silent": 108,
+      "opentargets_supporting": 120,
+      "multi_source_support": 12,
+      "single_source_support_with_source_silence": 108
+    },
+    {
+      "disease_label": "Type 2 diabetes mellitus",
+      "disease_id": "MONDO:0005148",
+      "association_count": 120,
+      "clinvar_supporting": 21,
+      "clinvar_silent": 99,
+      "opentargets_supporting": 120,
+      "multi_source_support": 21,
+      "single_source_support_with_source_silence": 99
+    },
+    {
+      "disease_label": "Breast carcinoma",
+      "disease_id": "MONDO:0004989",
+      "association_count": 120,
+      "clinvar_supporting": 0,
+      "clinvar_silent": 120,
+      "opentargets_supporting": 120,
+      "multi_source_support": 0,
+      "single_source_support_with_source_silence": 120
+    },
+    {
+      "disease_label": "Dilated cardiomyopathy",
+      "disease_id": "MONDO:0005021",
+      "association_count": 120,
+      "clinvar_supporting": 0,
+      "clinvar_silent": 120,
+      "opentargets_supporting": 120,
+      "multi_source_support": 0,
+      "single_source_support_with_source_silence": 120
+    },
+    {
+      "disease_label": "Amyotrophic lateral sclerosis",
+      "disease_id": "MONDO:0004976",
+      "association_count": 120,
+      "clinvar_supporting": 17,
+      "clinvar_silent": 103,
+      "opentargets_supporting": 120,
+      "multi_source_support": 17,
+      "single_source_support_with_source_silence": 103
+    },
+    {
+      "disease_label": "Huntington disease",
+      "disease_id": "MONDO:0007739",
+      "association_count": 120,
+      "clinvar_supporting": 1,
+      "clinvar_silent": 119,
+      "opentargets_supporting": 120,
+      "multi_source_support": 1,
+      "single_source_support_with_source_silence": 119
+    },
+    {
+      "disease_label": "Cystic fibrosis",
+      "disease_id": "MONDO:0009061",
+      "association_count": 120,
+      "clinvar_supporting": 2,
+      "clinvar_silent": 118,
+      "opentargets_supporting": 120,
+      "multi_source_support": 2,
+      "single_source_support_with_source_silence": 118
+    },
+    {
+      "disease_label": "Schizophrenia",
+      "disease_id": "MONDO:0005090",
+      "association_count": 120,
+      "clinvar_supporting": 6,
+      "clinvar_silent": 114,
+      "opentargets_supporting": 120,
+      "multi_source_support": 6,
+      "single_source_support_with_source_silence": 114
+    },
+    {
+      "disease_label": "Epilepsy",
+      "disease_id": "MONDO:0005027",
+      "association_count": 120,
+      "clinvar_supporting": 0,
+      "clinvar_silent": 120,
+      "opentargets_supporting": 120,
+      "multi_source_support": 0,
+      "single_source_support_with_source_silence": 120
+    },
+    {
+      "disease_label": "Inflammatory bowel disease",
+      "disease_id": "MONDO:0005265",
+      "association_count": 120,
+      "clinvar_supporting": 0,
+      "clinvar_silent": 120,
+      "opentargets_supporting": 120,
+      "multi_source_support": 0,
+      "single_source_support_with_source_silence": 120
+    },
+    {
+      "disease_label": "Hypertrophic cardiomyopathy",
+      "disease_id": "MONDO:0005045",
+      "association_count": 120,
+      "clinvar_supporting": 0,
+      "clinvar_silent": 120,
+      "opentargets_supporting": 120,
+      "multi_source_support": 0,
+      "single_source_support_with_source_silence": 120
+    }
+  ],
+  "caveat": "Source silence is scoped to included sources and release candidates; it is not evidence of biological or clinical absence."
+}

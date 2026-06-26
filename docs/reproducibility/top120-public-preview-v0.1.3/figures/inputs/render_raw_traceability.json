@@ -1,0 +1,96 @@
+{
+  "figure_id": "render_raw_traceability",
+  "title": "Rendered page to raw artifact traceability",
+  "release_id": "top120-public-preview-v0.1.3",
+  "rendered_routes": [
+    "/gene-disease-evidence/",
+    "/gene-disease-evidence/methods/",
+    "/gene-disease-evidence/gene/<HGNC symbol>/"
+  ],
+  "raw_artifacts": [
+    {
+      "kind": "aggregate_release",
+      "path": "releases/top120-public-preview-v0.1.3/release.json"
+    },
+    {
+      "kind": "aggregate_manifest",
+      "path": "releases/top120-public-preview-v0.1.3/batch-manifest.json"
+    },
+    {
+      "kind": "aggregate_integrity",
+      "path": "releases/top120-public-preview-v0.1.3/integrity.json"
+    },
+    {
+      "kind": "aggregate_archive",
+      "path": "archives/gene-disease-evidence-top120-public-preview-v0.1.3.zip",
+      "sha256": "5e7d379a16ba8d862fca49129d7e3c640735387914df40d33ad0bcad4edea33b"
+    }
+  ],
+  "disease_release_dirs": [
+    {
+      "disease_label": "Alzheimer disease",
+      "release_id": "alzheimer-top120-v0.1.1-preview",
+      "release_dir": "releases/alzheimer-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Parkinson disease",
+      "release_id": "parkinson-top120-v0.1.1-preview",
+      "release_dir": "releases/parkinson-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Type 2 diabetes mellitus",
+      "release_id": "type2-diabetes-top120-v0.1.1-preview",
+      "release_dir": "releases/type2-diabetes-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Breast carcinoma",
+      "release_id": "breast-carcinoma-top120-v0.1.1-preview",
+      "release_dir": "releases/breast-carcinoma-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Dilated cardiomyopathy",
+      "release_id": "dilated-cardiomyopathy-top120-v0.1.1-preview",
+      "release_dir": "releases/dilated-cardiomyopathy-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Amyotrophic lateral sclerosis",
+      "release_id": "amyotrophic-lateral-sclerosis-top120-v0.1.1-preview",
+      "release_dir": "releases/amyotrophic-lateral-sclerosis-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Huntington disease",
+      "release_id": "huntington-disease-top120-v0.1.1-preview",
+      "release_dir": "releases/huntington-disease-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Cystic fibrosis",
+      "release_id": "cystic-fibrosis-top120-v0.1.1-preview",
+      "release_dir": "releases/cystic-fibrosis-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Schizophrenia",
+      "release_id": "schizophrenia-top120-v0.1.1-preview",
+      "release_dir": "releases/schizophrenia-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Epilepsy",
+      "release_id": "epilepsy-top120-v0.1.1-preview",
+      "release_dir": "releases/epilepsy-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Inflammatory bowel disease",
+      "release_id": "inflammatory-bowel-disease-top120-v0.1.1-preview",
+      "release_dir": "releases/inflammatory-bowel-disease-top120-v0.1.1-preview"
+    },
+    {
+      "disease_label": "Hypertrophic cardiomyopathy",
+      "release_id": "hypertrophic-cardiomyopathy-top120-v0.1.1-preview",
+      "release_dir": "releases/hypertrophic-cardiomyopathy-top120-v0.1.1-preview"
+    }
+  ],
+  "table_manifest": {
+    "path": "docs/methods/tables/manifest.json",
+    "input_count": 9,
+    "output_count": 10
+  }
+}
